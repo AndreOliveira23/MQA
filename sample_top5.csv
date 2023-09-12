@@ -1,0 +1,5001 @@
+"Marca","Tamanho do Motor","Preço Médio BRL","Combustível","Idade"
+"Fiat",1,15982,"Gasoline",18
+"Ford",3.9,27451,"Diesel",34
+"GM - Chevrolet",2,22535,"Gasoline",19
+"Fiat",1,130616,"Gasoline",0
+"Ford",1.5,44055,"Gasoline",7
+"Mercedes-Benz",2.2,170872,"Diesel",5
+"GM - Chevrolet",2.8,149207,"Diesel",4
+"GM - Chevrolet",2.5,38797,"Diesel",23
+"Fiat",2.8,42594,"Diesel",19
+"Ford",2,21327,"Gasoline",19
+"Ford",3.9,112949,"Diesel",15
+"Ford",3.2,130784,"Diesel",7
+"VW - VolksWagen",1.6,81725,"Gasoline",1
+"GM - Chevrolet",2.2,24635,"Gasoline",25
+"VW - VolksWagen",1.8,9922,"Gasoline",32
+"VW - VolksWagen",1,10570,"Alcohol",22
+"Ford",4.2,112643,"Diesel",19
+"GM - Chevrolet",1.6,12720,"Gasoline",26
+"VW - VolksWagen",1.6,95389,"Gasoline",1
+"VW - VolksWagen",1,28554,"Gasoline",11
+"Fiat",1.8,49068,"Gasoline",9
+"VW - VolksWagen",1.6,42837,"Gasoline",9
+"VW - VolksWagen",1.6,10431,"Gasoline",27
+"Fiat",1,15347,"Gasoline",17
+"Ford",4,24471,"Gasoline",25
+"Fiat",1,28379,"Gasoline",9
+"Fiat",1,19138,"Gasoline",15
+"Mercedes-Benz",3.5,141481,"Gasoline",16
+"Fiat",2.3,116866,"Diesel",7
+"Fiat",2,186421,"Diesel",0
+"GM - Chevrolet",2.2,22598,"Gasoline",23
+"Fiat",1,19995,"Gasoline",16
+"Fiat",1.8,30184,"Gasoline",16
+"Fiat",1.3,105478,"Gasoline",0
+"Mercedes-Benz",6.2,179833,"Gasoline",14
+"GM - Chevrolet",2,23220,"Gasoline",18
+"Mercedes-Benz",2,559484,"Gasoline",1
+"VW - VolksWagen",3.6,50066,"Gasoline",14
+"Fiat",1.6,11711,"Gasoline",21
+"Ford",2,8105,"Alcohol",28
+"Ford",2,8651,"Gasoline",29
+"Ford",3.2,144227,"Diesel",8
+"GM - Chevrolet",1.8,8161,"Gasoline",33
+"VW - VolksWagen",1.6,35289,"Gasoline",12
+"Mercedes-Benz",2.2,209657,"Diesel",0
+"VW - VolksWagen",1.6,7785,"Gasoline",33
+"Mercedes-Benz",1.6,131820,"Gasoline",8
+"Ford",1.8,5546,"Gasoline",32
+"VW - VolksWagen",1,100652,"Gasoline",2
+"GM - Chevrolet",1.4,77399,"Gasoline",3
+"VW - VolksWagen",2,11680,"Alcohol",26
+"Fiat",1.3,84736,"Gasoline",0
+"Fiat",1,47930,"Gasoline",4
+"Mercedes-Benz",4,875000,"Gasoline",5
+"GM - Chevrolet",2.2,12933,"Gasoline",27
+"Ford",1.5,92902,"Gasoline",2
+"Fiat",1.8,33754,"Gasoline",12
+"Fiat",1.9,26854,"Gasoline",14
+"GM - Chevrolet",2.2,23708,"Gasoline",26
+"Fiat",1.6,7005,"Gasoline",27
+"Mercedes-Benz",1.6,140137,"Gasoline",8
+"VW - VolksWagen",1.6,11260,"Alcohol",24
+"VW - VolksWagen",2,29196,"Gasoline",15
+"Fiat",1,56462,"Gasoline",4
+"Fiat",1.8,95957,"Gasoline",2
+"GM - Chevrolet",1.4,51140,"Gasoline",7
+"GM - Chevrolet",1,35235,"Gasoline",7
+"VW - VolksWagen",2,85692,"Diesel",10
+"Ford",1.4,13235,"Gasoline",25
+"VW - VolksWagen",1.8,8208,"Alcohol",27
+"VW - VolksWagen",1.6,8076,"Gasoline",33
+"Ford",1.6,5953,"Gasoline",32
+"Fiat",1.8,33035,"Gasoline",13
+"GM - Chevrolet",2.4,75689,"Gasoline",7
+"VW - VolksWagen",1,27830,"Gasoline",12
+"Ford",1.8,4331,"Gasoline",35
+"Fiat",1.4,65745,"Gasoline",0
+"GM - Chevrolet",1.8,76273,"Gasoline",7
+"VW - VolksWagen",3,213026,"Diesel",5
+"Mercedes-Benz",2.2,230382,"Diesel",0
+"GM - Chevrolet",1.6,7270,"Gasoline",36
+"VW - VolksWagen",1.6,7084,"Gasoline",34
+"VW - VolksWagen",1.6,14266,"Alcohol",21
+"GM - Chevrolet",1.4,61897,"Gasoline",5
+"GM - Chevrolet",1,45105,"Gasoline",8
+"Fiat",2.3,100378,"Diesel",9
+"VW - VolksWagen",1.6,59742,"Gasoline",6
+"GM - Chevrolet",1,102584,"Gasoline",3
+"VW - VolksWagen",1,56413,"Gasoline",5
+"Fiat",1.8,40529,"Gasoline",11
+"Ford",1,15686,"Gasoline",18
+"Fiat",1.4,106949,"Gasoline",0
+"Fiat",1.6,10587,"Gasoline",24
+"Fiat",1.4,58985,"Gasoline",8
+"GM - Chevrolet",4.1,11168,"Gasoline",37
+"Mercedes-Benz",1.8,65380,"Gasoline",14
+"Fiat",1,25910,"Gasoline",9
+"Fiat",1.5,7073,"Gasoline",29
+"Ford",2,23422,"Gasoline",18
+"GM - Chevrolet",4,53215,"Diesel",32
+"VW - VolksWagen",2,54451,"Gasoline",11
+"Fiat",1.6,28139,"Gasoline",12
+"VW - VolksWagen",2,144949,"Diesel",4
+"VW - VolksWagen",1.8,11188,"Gasoline",31
+"Ford",3.2,236633,"Diesel",2
+"VW - VolksWagen",1.8,26464,"Gasoline",22
+"Mercedes-Benz",3.5,50810,"Gasoline",19
+"Fiat",1.4,29552,"Gasoline",15
+"GM - Chevrolet",2,14412,"Gasoline",24
+"Fiat",1.8,73061,"Gasoline",5
+"Ford",2,7573,"Gasoline",29
+"Fiat",2.8,49566,"Diesel",17
+"VW - VolksWagen",1.6,48997,"Gasoline",7
+"Fiat",1.5,10608,"Gasoline",28
+"Ford",1.6,32597,"Gasoline",14
+"Ford",1.5,57854,"Gasoline",4
+"VW - VolksWagen",2,53696,"Gasoline",12
+"VW - VolksWagen",1,39476,"Gasoline",9
+"Ford",4.2,101942,"Diesel",21
+"GM - Chevrolet",2.5,21228,"Diesel",27
+"Fiat",1.5,11672,"Gasoline",25
+"GM - Chevrolet",2.2,20120,"Gasoline",25
+"Fiat",2.3,107837,"Diesel",8
+"GM - Chevrolet",2,23809,"Gasoline",18
+"Mercedes-Benz",6.2,186127,"Gasoline",14
+"GM - Chevrolet",2,32517,"Gasoline",14
+"VW - VolksWagen",2,48704,"Gasoline",12
+"Fiat",1.4,44485,"Gasoline",10
+"Fiat",1.8,40121,"Gasoline",12
+"GM - Chevrolet",4.1,23398,"Gasoline",31
+"Mercedes-Benz",1.8,71847,"Gasoline",12
+"GM - Chevrolet",4.2,70069,"Diesel",26
+"VW - VolksWagen",2,60731,"Gasoline",9
+"Fiat",1.6,13118,"Gasoline",23
+"Fiat",2.8,37945,"Diesel",20
+"VW - VolksWagen",1,10217,"Gasoline",24
+"Ford",1.8,7255,"Alcohol",27
+"GM - Chevrolet",3.9,54097,"Diesel",33
+"Mercedes-Benz",6,463624,"Gasoline",12
+"Ford",1.8,6745,"Gasoline",26
+"Fiat",1.4,35476,"Gasoline",10
+"Fiat",1,11568,"Gasoline",21
+"GM - Chevrolet",4.1,12961,"Gasoline",35
+"GM - Chevrolet",4.1,51416,"Diesel",25
+"GM - Chevrolet",1,122616,"Gasoline",0
+"Ford",1.6,23409,"Gasoline",14
+"Mercedes-Benz",6.2,168200,"Gasoline",15
+"VW - VolksWagen",1.6,54997,"Gasoline",7
+"Mercedes-Benz",3,708851,"Gasoline",0
+"GM - Chevrolet",1,81840,"Gasoline",1
+"Fiat",1.8,26052,"Gasoline",14
+"Fiat",2.4,15035,"Gasoline",22
+"VW - VolksWagen",2.8,13135,"Gasoline",27
+"Ford",3.9,113388,"Diesel",13
+"GM - Chevrolet",2.2,20563,"Gasoline",20
+"VW - VolksWagen",2,17159,"Gasoline",24
+"GM - Chevrolet",1,17622,"Gasoline",16
+"Fiat",1.4,38101,"Gasoline",11
+"VW - VolksWagen",1.8,11298,"Gasoline",33
+"Mercedes-Benz",5.5,327280,"Gasoline",10
+"VW - VolksWagen",1.4,141269,"Gasoline",5
+"VW - VolksWagen",1,50271,"Gasoline",6
+"VW - VolksWagen",2,6904,"Gasoline",31
+"Ford",2,12080,"Gasoline",23
+"Mercedes-Benz",2,42410,"Gasoline",13
+"Ford",2.5,43608,"Gasoline",12
+"Mercedes-Benz",3.2,31059,"Gasoline",27
+"Ford",1.6,14766,"Gasoline",17
+"Fiat",1,31283,"Gasoline",9
+"Fiat",1.5,10305,"Gasoline",24
+"Fiat",2,12203,"Gasoline",24
+"GM - Chevrolet",2.4,44527,"Gasoline",17
+"Fiat",1,26807,"Gasoline",12
+"VW - VolksWagen",2,101882,"Diesel",10
+"VW - VolksWagen",1.8,22347,"Gasoline",18
+"Mercedes-Benz",3.2,25442,"Gasoline",29
+"VW - VolksWagen",1.6,23631,"Gasoline",18
+"GM - Chevrolet",2.8,133350,"Diesel",9
+"VW - VolksWagen",1.8,16478,"Gasoline",23
+"GM - Chevrolet",1.8,74536,"Gasoline",7
+"Fiat",1.4,41139,"Gasoline",13
+"VW - VolksWagen",1.6,31863,"Gasoline",12
+"Fiat",1.6,9514,"Gasoline",25
+"VW - VolksWagen",1.6,43346,"Gasoline",13
+"Ford",1.6,28200,"Gasoline",12
+"VW - VolksWagen",1.8,19430,"Gasoline",17
+"GM - Chevrolet",1.6,11458,"Gasoline",25
+"VW - VolksWagen",1.6,49062,"Gasoline",8
+"Fiat",1.3,13807,"Gasoline",20
+"Fiat",1.5,9217,"Gasoline",31
+"Ford",2,8691,"Alcohol",28
+"VW - VolksWagen",1.4,121702,"Gasoline",5
+"VW - VolksWagen",1.6,38978,"Gasoline",10
+"VW - VolksWagen",1.6,39420,"Gasoline",10
+"VW - VolksWagen",1.6,57099,"Gasoline",5
+"GM - Chevrolet",1.8,57818,"Gasoline",10
+"Fiat",1.8,39202,"Gasoline",10
+"Fiat",1.8,67475,"Gasoline",8
+"VW - VolksWagen",2,12632,"Gasoline",25
+"Ford",2.8,51039,"Diesel",19
+"Fiat",1,9961,"Alcohol",23
+"GM - Chevrolet",2.8,199135,"Diesel",5
+"Ford",2.2,102258,"Diesel",10
+"Mercedes-Benz",2,457205,"Gasoline",0
+"Mercedes-Benz",2.2,262086,"Diesel",0
+"VW - VolksWagen",1,23528,"Gasoline",14
+"VW - VolksWagen",1,17818,"Gasoline",16
+"Mercedes-Benz",2.2,85743,"Diesel",13
+"GM - Chevrolet",2,25066,"Gasoline",20
+"VW - VolksWagen",1,133605,"Gasoline",1
+"VW - VolksWagen",2.8,21714,"Gasoline",20
+"Ford",2,71938,"Gasoline",5
+"Ford",2.5,72392,"Diesel",25
+"GM - Chevrolet",2.8,70828,"Diesel",13
+"Ford",1.8,8295,"Gasoline",28
+"GM - Chevrolet",2.4,38235,"Gasoline",15
+"Fiat",2.3,83511,"Diesel",12
+"Mercedes-Benz",2,172483,"Gasoline",7
+"VW - VolksWagen",2,52854,"Gasoline",11
+"GM - Chevrolet",4.1,15375,"Gasoline",37
+"VW - VolksWagen",1.8,12826,"Gasoline",28
+"GM - Chevrolet",2.5,109397,"Gasoline",7
+"VW - VolksWagen",2,36023,"Gasoline",17
+"Fiat",1,33785,"Gasoline",9
+"GM - Chevrolet",2.8,128693,"Diesel",7
+"GM - Chevrolet",1.4,31011,"Gasoline",14
+"GM - Chevrolet",1.4,72012,"Gasoline",4
+"Fiat",2,6439,"Gasoline",29
+"GM - Chevrolet",3.9,52123,"Diesel",32
+"GM - Chevrolet",2.5,4022,"Gasoline",38
+"VW - VolksWagen",1.4,94909,"Gasoline",7
+"GM - Chevrolet",1.8,59898,"Gasoline",6
+"Fiat",1.3,11796,"Gasoline",19
+"Fiat",1,7415,"Alcohol",25
+"Fiat",1.6,5268,"Gasoline",33
+"GM - Chevrolet",2.4,29435,"Gasoline",19
+"Mercedes-Benz",4,707747,"Gasoline",5
+"Mercedes-Benz",5,54219,"Gasoline",26
+"GM - Chevrolet",2,17415,"Gasoline",21
+"VW - VolksWagen",1,38353,"Gasoline",9
+"Ford",1.6,30409,"Gasoline",12
+"Ford",3.9,14958,"Diesel",37
+"VW - VolksWagen",2,50997,"Gasoline",11
+"Ford",1.5,186986,"Gasoline",2
+"GM - Chevrolet",2.8,133260,"Diesel",9
+"GM - Chevrolet",1.6,16465,"Gasoline",17
+"Fiat",1.6,44805,"Gasoline",7
+"Fiat",1.6,35253,"Gasoline",9
+"VW - VolksWagen",2,20591,"Gasoline",26
+"GM - Chevrolet",2,26724,"Gasoline",17
+"Ford",1.5,67048,"Gasoline",3
+"GM - Chevrolet",2.4,38024,"Gasoline",15
+"GM - Chevrolet",2.5,34653,"Diesel",25
+"Ford",1.5,46712,"Gasoline",7
+"VW - VolksWagen",1.6,35854,"Gasoline",13
+"GM - Chevrolet",2.5,23136,"Diesel",27
+"Mercedes-Benz",2.2,161077,"Diesel",5
+"Ford",3.9,109959,"Diesel",13
+"VW - VolksWagen",1.8,15946,"Gasoline",24
+"VW - VolksWagen",1,37585,"Gasoline",9
+"Fiat",1,41979,"Gasoline",4
+"GM - Chevrolet",1.8,58029,"Gasoline",8
+"Fiat",1.5,7923,"Alcohol",27
+"Fiat",1,8292,"Alcohol",23
+"VW - VolksWagen",1.6,26056,"Gasoline",16
+"Fiat",2.8,29737,"Diesel",23
+"Ford",1.6,18205,"Gasoline",17
+"GM - Chevrolet",2.5,106893,"Gasoline",8
+"Fiat",1.6,40431,"Gasoline",10
+"Fiat",1,12616,"Gasoline",21
+"VW - VolksWagen",1.6,5705,"Gasoline",35
+"Mercedes-Benz",2.2,222585,"Diesel",1
+"Fiat",1.4,39955,"Gasoline",10
+"Mercedes-Benz",2,570858,"Gasoline",0
+"GM - Chevrolet",1.4,31421,"Gasoline",14
+"Ford",1.6,35909,"Gasoline",10
+"Fiat",1.8,45414,"Gasoline",10
+"Ford",1.8,8571,"Gasoline",24
+"Fiat",2.8,35405,"Diesel",20
+"Fiat",1.8,45063,"Gasoline",8
+"Ford",4,24151,"Gasoline",28
+"Mercedes-Benz",2.2,97995,"Diesel",6
+"GM - Chevrolet",4,42311,"Diesel",34
+"VW - VolksWagen",2,159914,"Diesel",3
+"Fiat",1,7885,"Gasoline",29
+"Mercedes-Benz",5.5,532685,"Gasoline",7
+"VW - VolksWagen",1.6,40376,"Gasoline",10
+"VW - VolksWagen",1.6,71867,"Gasoline",2
+"Fiat",1.4,30807,"Gasoline",11
+"VW - VolksWagen",1.8,9331,"Gasoline",33
+"VW - VolksWagen",1.8,24914,"Gasoline",21
+"Ford",4,36488,"Gasoline",28
+"Ford",4.2,145571,"Diesel",18
+"VW - VolksWagen",2,22943,"Gasoline",21
+"GM - Chevrolet",1,9883,"Gasoline",24
+"Ford",1.6,32712,"Gasoline",14
+"VW - VolksWagen",1.6,42862,"Gasoline",10
+"Fiat",2.8,30500,"Diesel",22
+"VW - VolksWagen",1.8,28054,"Gasoline",23
+"Fiat",1.4,35593,"Gasoline",10
+"Mercedes-Benz",2.2,149567,"Diesel",4
+"Ford",3,59823,"Diesel",15
+"VW - VolksWagen",2,30609,"Gasoline",14
+"GM - Chevrolet",2.8,362195,"Diesel",0
+"GM - Chevrolet",2.5,144040,"Gasoline",5
+"Mercedes-Benz",2.2,177831,"Diesel",2
+"Fiat",1.8,35084,"Gasoline",9
+"Mercedes-Benz",2.2,82253,"Diesel",13
+"GM - Chevrolet",2.4,93458,"Gasoline",9
+"Mercedes-Benz",2,279790,"Gasoline",3
+"Mercedes-Benz",6.3,1011783,"Gasoline",11
+"Fiat",1.6,45477,"Gasoline",7
+"VW - VolksWagen",2,29316,"Gasoline",16
+"GM - Chevrolet",2.8,125966,"Diesel",10
+"Ford",2.5,38279,"Diesel",22
+"GM - Chevrolet",2.5,7686,"Gasoline",38
+"VW - VolksWagen",1,139825,"Gasoline",0
+"VW - VolksWagen",1.6,105083,"Gasoline",0
+"Fiat",1.4,28150,"Gasoline",12
+"GM - Chevrolet",2.2,25120,"Gasoline",25
+"GM - Chevrolet",2.1,12693,"Diesel",29
+"Fiat",1,8466,"Gasoline",24
+"VW - VolksWagen",1.8,21273,"Gasoline",20
+"VW - VolksWagen",1.6,87807,"Gasoline",0
+"GM - Chevrolet",1.8,61959,"Gasoline",9
+"Fiat",1.6,29698,"Gasoline",12
+"Fiat",1,68540,"Gasoline",2
+"Mercedes-Benz",3,780656,"Diesel",0
+"GM - Chevrolet",3.6,43498,"Gasoline",14
+"GM - Chevrolet",1.6,17989,"Gasoline",22
+"Fiat",1.8,73183,"Gasoline",5
+"GM - Chevrolet",1.8,70120,"Gasoline",8
+"Ford",1.6,11133,"Gasoline",32
+"VW - VolksWagen",1.8,9181,"Gasoline",33
+"Mercedes-Benz",2.8,33441,"Gasoline",30
+"VW - VolksWagen",1,9235,"Gasoline",22
+"GM - Chevrolet",1,20404,"Gasoline",17
+"GM - Chevrolet",2,21021,"Gasoline",19
+"Ford",1.6,30735,"Gasoline",11
+"Ford",3.8,65245,"Gasoline",28
+"VW - VolksWagen",1.6,31632,"Gasoline",13
+"Fiat",1,20228,"Gasoline",13
+"Mercedes-Benz",3.5,282361,"Gasoline",7
+"Ford",3.9,126457,"Diesel",12
+"VW - VolksWagen",1.6,41332,"Gasoline",12
+"VW - VolksWagen",1.8,27288,"Gasoline",17
+"Ford",1.8,5346,"Gasoline",31
+"GM - Chevrolet",4.1,10817,"Gasoline",37
+"GM - Chevrolet",4.1,12434,"Gasoline",36
+"GM - Chevrolet",2.2,23870,"Gasoline",24
+"Mercedes-Benz",3,29931,"Gasoline",31
+"VW - VolksWagen",2,19412,"Gasoline",21
+"GM - Chevrolet",3.8,18842,"Gasoline",25
+"Ford",1.6,32983,"Gasoline",12
+"VW - VolksWagen",1.6,7637,"Gasoline",33
+"Fiat",1,25096,"Gasoline",14
+"GM - Chevrolet",1.8,18800,"Gasoline",18
+"Mercedes-Benz",2.3,28970,"Gasoline",30
+"Mercedes-Benz",3.5,63555,"Gasoline",17
+"Ford",2,16117,"Gasoline",22
+"Fiat",1.4,74209,"Gasoline",4
+"Fiat",1,11284,"Gasoline",23
+"Fiat",1.6,9265,"Gasoline",29
+"Fiat",1.8,27221,"Gasoline",14
+"VW - VolksWagen",1.8,37970,"Gasoline",15
+"VW - VolksWagen",1,41234,"Gasoline",8
+"GM - Chevrolet",4.3,19242,"Gasoline",26
+"Ford",2.5,54169,"Diesel",22
+"GM - Chevrolet",1.8,56092,"Gasoline",7
+"VW - VolksWagen",2,29870,"Gasoline",16
+"GM - Chevrolet",2,39443,"Gasoline",12
+"Fiat",1,65684,"Gasoline",2
+"VW - VolksWagen",1.4,107567,"Gasoline",5
+"Ford",1.5,68562,"Gasoline",2
+"VW - VolksWagen",2,57450,"Gasoline",10
+"Fiat",1.4,32470,"Gasoline",11
+"Ford",3.9,122265,"Diesel",12
+"Ford",2,17518,"Gasoline",19
+"Mercedes-Benz",5,46378,"Gasoline",29
+"GM - Chevrolet",1.4,42983,"Gasoline",9
+"Mercedes-Benz",6,41508,"Gasoline",30
+"Ford",1.8,3230,"Gasoline",38
+"GM - Chevrolet",4.1,16172,"Gasoline",37
+"Mercedes-Benz",4,2153854,"Gasoline",3
+"GM - Chevrolet",1,14906,"Gasoline",19
+"Mercedes-Benz",2.2,224681,"Diesel",1
+"Ford",2.3,47087,"Gasoline",15
+"GM - Chevrolet",2.8,140894,"Diesel",6
+"VW - VolksWagen",1.6,45445,"Gasoline",8
+"Ford",1.6,6581,"Gasoline",30
+"GM - Chevrolet",5.7,287226,"Gasoline",13
+"Fiat",2.3,149926,"Diesel",5
+"Ford",3.9,44628,"Diesel",31
+"Ford",4,22021,"Gasoline",28
+"Ford",2.8,42196,"Diesel",20
+"Ford",1,56965,"Gasoline",2
+"VW - VolksWagen",1.6,14634,"Gasoline",30
+"VW - VolksWagen",1.6,12956,"Gasoline",24
+"VW - VolksWagen",2.8,28990,"Gasoline",19
+"GM - Chevrolet",1.8,56746,"Gasoline",11
+"Fiat",2.3,196387,"Diesel",3
+"VW - VolksWagen",1.8,13741,"Gasoline",29
+"Fiat",1.5,5189,"Gasoline",35
+"Ford",3.9,34547,"Diesel",31
+"VW - VolksWagen",1.6,19854,"Gasoline",16
+"GM - Chevrolet",4.1,13005,"Gasoline",35
+"Mercedes-Benz",1.6,95992,"Gasoline",8
+"Mercedes-Benz",2.2,48227,"Diesel",21
+"Mercedes-Benz",2.2,39750,"Diesel",20
+"Fiat",1.8,17893,"Gasoline",18
+"GM - Chevrolet",2,21977,"Gasoline",20
+"Fiat",1.5,8124,"Gasoline",29
+"Fiat",2.3,73532,"Diesel",12
+"Ford",1.6,52320,"Gasoline",6
+"VW - VolksWagen",2.5,39713,"Gasoline",15
+"Mercedes-Benz",3.5,71125,"Gasoline",16
+"Ford",2.2,202364,"Diesel",2
+"GM - Chevrolet",5,23242,"Gasoline",28
+"GM - Chevrolet",1.8,47714,"Gasoline",7
+"GM - Chevrolet",2,28582,"Gasoline",16
+"Ford",2,31945,"Gasoline",15
+"Fiat",1.4,34046,"Gasoline",10
+"Fiat",1.4,13364,"Gasoline",29
+"Fiat",2.3,101642,"Diesel",8
+"Fiat",1.4,44742,"Gasoline",11
+"Fiat",1,23500,"Gasoline",13
+"GM - Chevrolet",4.1,12985,"Gasoline",35
+"Mercedes-Benz",2.2,42117,"Diesel",21
+"GM - Chevrolet",2.8,165937,"Diesel",7
+"Fiat",1.8,24844,"Gasoline",16
+"GM - Chevrolet",1.4,47723,"Gasoline",9
+"Fiat",1.8,47790,"Gasoline",8
+"Fiat",1.3,9033,"Gasoline",20
+"Mercedes-Benz",2.6,30909,"Gasoline",30
+"VW - VolksWagen",1.8,5869,"Gasoline",29
+"VW - VolksWagen",1.6,59260,"Gasoline",6
+"Mercedes-Benz",5,56527,"Gasoline",25
+"Fiat",1.8,33023,"Gasoline",14
+"VW - VolksWagen",1.6,31785,"Gasoline",13
+"Ford",1,7765,"Gasoline",24
+"GM - Chevrolet",1.4,49165,"Gasoline",7
+"Mercedes-Benz",1.8,228945,"Gasoline",8
+"VW - VolksWagen",1.6,28885,"Gasoline",14
+"VW - VolksWagen",1.6,37067,"Gasoline",11
+"GM - Chevrolet",1,99106,"Gasoline",1
+"Fiat",1.4,32476,"Gasoline",11
+"Ford",3.2,258448,"Diesel",1
+"Fiat",2.4,21962,"Gasoline",19
+"Fiat",1,45148,"Gasoline",4
+"Fiat",1.5,10987,"Alcohol",23
+"VW - VolksWagen",2,120535,"Diesel",5
+"GM - Chevrolet",2,30542,"Gasoline",15
+"Mercedes-Benz",4,889804,"Gasoline",5
+"VW - VolksWagen",1.6,22298,"Gasoline",18
+"Mercedes-Benz",3,61499,"Gasoline",31
+"VW - VolksWagen",1.6,39760,"Gasoline",11
+"GM - Chevrolet",1.8,69960,"Gasoline",8
+"VW - VolksWagen",1,25558,"Gasoline",13
+"Fiat",1.4,96262,"Gasoline",1
+"Fiat",1.4,34199,"Gasoline",10
+"GM - Chevrolet",2,23725,"Gasoline",17
+"VW - VolksWagen",2,84635,"Gasoline",8
+"VW - VolksWagen",1.8,18405,"Alcohol",19
+"VW - VolksWagen",1,35406,"Gasoline",10
+"GM - Chevrolet",2.2,23577,"Gasoline",25
+"VW - VolksWagen",1.6,7723,"Gasoline",27
+"VW - VolksWagen",1,68683,"Gasoline",4
+"Mercedes-Benz",5,312734,"Gasoline",12
+"Fiat",2.8,55232,"Diesel",15
+"Mercedes-Benz",1.6,149008,"Gasoline",5
+"Mercedes-Benz",1.6,97233,"Gasoline",7
+"GM - Chevrolet",5.7,118251,"Gasoline",17
+"GM - Chevrolet",2.2,17122,"Gasoline",23
+"GM - Chevrolet",1.4,28317,"Gasoline",12
+"VW - VolksWagen",1.8,14351,"Gasoline",31
+"Mercedes-Benz",2,140996,"Gasoline",9
+"GM - Chevrolet",1,11914,"Gasoline",21
+"GM - Chevrolet",4.2,73632,"Diesel",24
+"VW - VolksWagen",1,91952,"Gasoline",4
+"Fiat",1,41797,"Gasoline",7
+"VW - VolksWagen",1.8,15071,"Alcohol",28
+"Ford",1,16999,"Gasoline",18
+"GM - Chevrolet",2.8,62997,"Diesel",18
+"Ford",2,6250,"Gasoline",32
+"Ford",2.4,53180,"Diesel",14
+"Ford",1.6,42483,"Gasoline",9
+"VW - VolksWagen",1.8,82923,"Gasoline",16
+"Fiat",1.8,10490,"Gasoline",20
+"GM - Chevrolet",1.8,15171,"Alcohol",21
+"Mercedes-Benz",3.5,194010,"Gasoline",12
+"GM - Chevrolet",1,10087,"Gasoline",25
+"VW - VolksWagen",2,98251,"Gasoline",10
+"Ford",3,19374,"Gasoline",27
+"Ford",1.5,68020,"Gasoline",2
+"Fiat",1.6,64139,"Gasoline",7
+"Fiat",1.4,69371,"Gasoline",8
+"Fiat",1.4,54965,"Gasoline",8
+"VW - VolksWagen",1.8,18700,"Gasoline",22
+"Ford",3.9,111423,"Diesel",14
+"Ford",2.8,60301,"Diesel",18
+"VW - VolksWagen",2,51230,"Gasoline",12
+"Fiat",1,25208,"Gasoline",10
+"Ford",1.5,78146,"Gasoline",4
+"VW - VolksWagen",1.6,35856,"Gasoline",11
+"Mercedes-Benz",2.3,21483,"Gasoline",35
+"Ford",4.9,21054,"Gasoline",28
+"VW - VolksWagen",1.6,34927,"Gasoline",10
+"VW - VolksWagen",1,84521,"Gasoline",4
+"Ford",1,11000,"Gasoline",21
+"GM - Chevrolet",1,95059,"Gasoline",0
+"Mercedes-Benz",3.2,47424,"Gasoline",29
+"GM - Chevrolet",2.8,136799,"Diesel",9
+"GM - Chevrolet",2,14783,"Gasoline",24
+"Fiat",1.8,35468,"Gasoline",10
+"Fiat",1.8,72067,"Gasoline",4
+"Mercedes-Benz",2.2,76068,"Diesel",12
+"VW - VolksWagen",1.8,14864,"Gasoline",22
+"GM - Chevrolet",1.8,66563,"Gasoline",5
+"GM - Chevrolet",2,28456,"Gasoline",16
+"Ford",1.5,62908,"Gasoline",2
+"Mercedes-Benz",2,233587,"Gasoline",4
+"Fiat",1.8,12710,"Gasoline",19
+"Fiat",1.5,7696,"Gasoline",29
+"Ford",2,110018,"Gasoline",6
+"VW - VolksWagen",1.8,19299,"Gasoline",25
+"GM - Chevrolet",1,73463,"Gasoline",3
+"Mercedes-Benz",2.2,183226,"Diesel",2
+"GM - Chevrolet",1.4,60731,"Gasoline",4
+"VW - VolksWagen",1.6,23456,"Alcohol",18
+"Fiat",1.8,44331,"Gasoline",12
+"VW - VolksWagen",2,32912,"Gasoline",16
+"Fiat",1.8,75696,"Gasoline",3
+"Ford",2,46854,"Gasoline",10
+"GM - Chevrolet",2.4,40457,"Gasoline",17
+"VW - VolksWagen",1.6,5570,"Gasoline",32
+"Mercedes-Benz",2,397874,"Gasoline",3
+"Fiat",2.3,155763,"Diesel",4
+"GM - Chevrolet",2.2,12652,"Gasoline",29
+"Ford",4,17684,"Gasoline",28
+"VW - VolksWagen",2,28590,"Gasoline",24
+"VW - VolksWagen",2,19375,"Gasoline",27
+"Mercedes-Benz",2.2,39816,"Diesel",21
+"Mercedes-Benz",2.2,53355,"Diesel",18
+"VW - VolksWagen",2,9922,"Gasoline",28
+"Mercedes-Benz",3.5,92681,"Gasoline",13
+"VW - VolksWagen",1,11108,"Alcohol",20
+"Fiat",1.8,41985,"Gasoline",9
+"Mercedes-Benz",1.6,57594,"Gasoline",13
+"VW - VolksWagen",1.4,25014,"Gasoline",17
+"VW - VolksWagen",1,59774,"Gasoline",4
+"Ford",3,50085,"Diesel",15
+"Ford",4.2,109569,"Diesel",17
+"Fiat",1,12045,"Gasoline",19
+"Fiat",2.3,196033,"Diesel",3
+"VW - VolksWagen",1.6,43255,"Gasoline",9
+"VW - VolksWagen",1,10725,"Alcohol",19
+"GM - Chevrolet",1.6,11254,"Gasoline",25
+"GM - Chevrolet",6.2,484260,"Gasoline",0
+"Ford",2.3,15971,"Gasoline",26
+"GM - Chevrolet",2,9484,"Gasoline",28
+"Fiat",2.8,37795,"Diesel",20
+"VW - VolksWagen",1,12882,"Alcohol",20
+"VW - VolksWagen",1.8,15250,"Gasoline",23
+"Fiat",1.8,22819,"Gasoline",18
+"Ford",1.6,30306,"Gasoline",12
+"Mercedes-Benz",3,77395,"Gasoline",13
+"Ford",4,14302,"Gasoline",30
+"Fiat",1.3,11542,"Alcohol",19
+"VW - VolksWagen",2,40587,"Gasoline",12
+"Fiat",1.5,9601,"Gasoline",30
+"VW - VolksWagen",1.6,40468,"Gasoline",9
+"Fiat",1,17696,"Gasoline",15
+"GM - Chevrolet",1.4,50442,"Gasoline",9
+"GM - Chevrolet",1.8,20591,"Gasoline",18
+"Ford",3.2,147246,"Diesel",7
+"GM - Chevrolet",2.2,15108,"Gasoline",24
+"VW - VolksWagen",2,25246,"Gasoline",16
+"Fiat",1.8,56565,"Gasoline",5
+"Mercedes-Benz",2,307478,"Gasoline",2
+"Ford",1,9543,"Gasoline",20
+"GM - Chevrolet",2,11409,"Gasoline",28
+"Mercedes-Benz",2.2,108527,"Diesel",6
+"Fiat",1,23325,"Gasoline",14
+"VW - VolksWagen",1.8,16208,"Gasoline",29
+"Mercedes-Benz",4,1646132,"Gasoline",5
+"Fiat",2,10545,"Gasoline",27
+"Fiat",1.4,48474,"Gasoline",8
+"Mercedes-Benz",5,32070,"Gasoline",33
+"Ford",1.8,10497,"Gasoline",33
+"Mercedes-Benz",2,309923,"Gasoline",4
+"GM - Chevrolet",4.1,33308,"Gasoline",27
+"VW - VolksWagen",1,49896,"Gasoline",6
+"Fiat",1,10956,"Gasoline",21
+"Fiat",1.8,27900,"Gasoline",16
+"Ford",3,43243,"Diesel",17
+"VW - VolksWagen",1.6,70223,"Gasoline",4
+"VW - VolksWagen",1.8,33030,"Gasoline",15
+"VW - VolksWagen",1,45083,"Gasoline",8
+"Ford",1.8,11476,"Gasoline",22
+"GM - Chevrolet",1.8,40001,"Gasoline",10
+"Fiat",1.6,10308,"Gasoline",24
+"Ford",5,542894,"Gasoline",2
+"Fiat",1.3,20138,"Gasoline",18
+"Fiat",1,27021,"Gasoline",8
+"Ford",1.6,18259,"Gasoline",26
+"GM - Chevrolet",1.8,5697,"Gasoline",35
+"Mercedes-Benz",5,47801,"Gasoline",20
+"Mercedes-Benz",5,119581,"Gasoline",25
+"Fiat",1.6,49162,"Gasoline",6
+"Ford",2,23313,"Gasoline",16
+"VW - VolksWagen",1,41428,"Gasoline",9
+"Mercedes-Benz",3.5,77284,"Gasoline",15
+"GM - Chevrolet",1.8,58758,"Gasoline",5
+"Ford",2.3,48293,"Gasoline",12
+"GM - Chevrolet",4.1,29169,"Gasoline",27
+"Fiat",2,14160,"Gasoline",23
+"Fiat",1.4,37172,"Gasoline",11
+"Ford",1.8,12910,"Gasoline",33
+"GM - Chevrolet",2.2,17762,"Gasoline",23
+"GM - Chevrolet",5,34633,"Gasoline",30
+"VW - VolksWagen",1.8,6116,"Alcohol",27
+"Fiat",1,43584,"Gasoline",6
+"GM - Chevrolet",1,12572,"Gasoline",22
+"GM - Chevrolet",2.8,56024,"Diesel",21
+"Mercedes-Benz",2.2,312886,"Diesel",0
+"GM - Chevrolet",3.9,62802,"Diesel",32
+"VW - VolksWagen",1.8,21015,"Alcohol",21
+"VW - VolksWagen",1.8,7814,"Alcohol",27
+"Fiat",1.8,31048,"Gasoline",15
+"GM - Chevrolet",2,20142,"Gasoline",21
+"Mercedes-Benz",6,422226,"Gasoline",14
+"GM - Chevrolet",1.8,49037,"Gasoline",10
+"Fiat",2,12115,"Gasoline",27
+"Mercedes-Benz",2.2,70471,"Diesel",15
+"VW - VolksWagen",1,37169,"Gasoline",9
+"VW - VolksWagen",2,49653,"Gasoline",13
+"Fiat",2.8,45890,"Diesel",16
+"VW - VolksWagen",3.6,67505,"Gasoline",13
+"Ford",1,23894,"Gasoline",14
+"GM - Chevrolet",2.2,24388,"Gasoline",25
+"VW - VolksWagen",1.6,22753,"Gasoline",19
+"Fiat",1.5,14445,"Gasoline",22
+"Fiat",1.3,10801,"Gasoline",23
+"GM - Chevrolet",4.1,24577,"Gasoline",34
+"Mercedes-Benz",5,97542,"Gasoline",16
+"Fiat",2.3,99667,"Diesel",9
+"Ford",4,26383,"Gasoline",26
+"VW - VolksWagen",1.6,13068,"Alcohol",23
+"Fiat",1.6,6703,"Gasoline",29
+"Ford",1.5,65399,"Gasoline",2
+"VW - VolksWagen",1,24352,"Gasoline",15
+"Ford",1,21630,"Gasoline",12
+"GM - Chevrolet",4.3,26874,"Gasoline",23
+"GM - Chevrolet",1.2,127426,"Gasoline",3
+"Mercedes-Benz",6.2,188850,"Gasoline",15
+"VW - VolksWagen",1.6,12637,"Alcohol",28
+"Fiat",1,60895,"Gasoline",3
+"VW - VolksWagen",1.6,28683,"Gasoline",11
+"Fiat",1.3,64254,"Gasoline",4
+"Fiat",1,24170,"Gasoline",13
+"VW - VolksWagen",1,20197,"Gasoline",12
+"Fiat",1,16290,"Gasoline",15
+"Fiat",1.5,12019,"Gasoline",23
+"Fiat",1.6,10475,"Gasoline",25
+"Mercedes-Benz",2,491825,"Gasoline",2
+"GM - Chevrolet",4.1,17908,"Gasoline",29
+"Fiat",1.8,23342,"Gasoline",17
+"VW - VolksWagen",4.2,50053,"Gasoline",16
+"Ford",2.5,32970,"Diesel",23
+"Fiat",2.3,82230,"Diesel",11
+"VW - VolksWagen",1,45453,"Gasoline",6
+"VW - VolksWagen",1.8,6214,"Gasoline",35
+"GM - Chevrolet",2.2,21145,"Gasoline",25
+"VW - VolksWagen",2,108154,"Diesel",9
+"GM - Chevrolet",4.3,12197,"Gasoline",28
+"Fiat",1.4,48213,"Gasoline",8
+"GM - Chevrolet",1.4,26083,"Gasoline",14
+"Mercedes-Benz",1.9,18126,"Gasoline",18
+"Fiat",2,126699,"Diesel",5
+"GM - Chevrolet",2.5,185337,"Gasoline",0
+"Fiat",1.5,14080,"Gasoline",27
+"Fiat",1.9,25949,"Gasoline",13
+"Mercedes-Benz",6.3,354348,"Gasoline",11
+"Mercedes-Benz",2.2,219576,"Diesel",1
+"Mercedes-Benz",2.2,259045,"Diesel",0
+"Ford",1,10701,"Gasoline",23
+"Fiat",1.3,21848,"Gasoline",10
+"Mercedes-Benz",2.2,192903,"Diesel",4
+"Ford",2,20836,"Gasoline",18
+"GM - Chevrolet",1.8,72538,"Gasoline",8
+"Fiat",1.4,35252,"Gasoline",10
+"VW - VolksWagen",2,27102,"Gasoline",18
+"GM - Chevrolet",1,79806,"Gasoline",1
+"Mercedes-Benz",2.2,219021,"Diesel",1
+"Ford",2.8,46605,"Diesel",21
+"Mercedes-Benz",5.5,567641,"Gasoline",7
+"GM - Chevrolet",1,43406,"Gasoline",9
+"VW - VolksWagen",1,28468,"Gasoline",12
+"Ford",2.4,63993,"Diesel",14
+"Mercedes-Benz",2.2,45543,"Diesel",19
+"VW - VolksWagen",2,6727,"Gasoline",32
+"Mercedes-Benz",3,361274,"Gasoline",6
+"GM - Chevrolet",1.8,30207,"Gasoline",18
+"VW - VolksWagen",1.6,18325,"Gasoline",21
+"Fiat",1.8,16403,"Gasoline",20
+"GM - Chevrolet",1.8,75652,"Gasoline",7
+"Fiat",2.8,27055,"Diesel",24
+"Ford",1,44418,"Gasoline",7
+"GM - Chevrolet",2.2,19275,"Gasoline",26
+"Fiat",1.4,28910,"Gasoline",12
+"Fiat",1.6,12785,"Gasoline",23
+"VW - VolksWagen",1.8,15451,"Alcohol",26
+"GM - Chevrolet",1.8,61947,"Gasoline",7
+"Fiat",1,20262,"Gasoline",14
+"Fiat",2.3,202872,"Diesel",3
+"Fiat",1.4,74583,"Gasoline",3
+"VW - VolksWagen",1.6,61423,"Gasoline",7
+"GM - Chevrolet",2.1,11175,"Diesel",29
+"GM - Chevrolet",2.5,181546,"Gasoline",0
+"Fiat",1.5,10950,"Alcohol",22
+"VW - VolksWagen",1.6,30320,"Gasoline",14
+"Ford",4.2,128862,"Diesel",20
+"GM - Chevrolet",2,20231,"Gasoline",20
+"Fiat",1.5,11122,"Alcohol",20
+"Fiat",1.4,64198,"Gasoline",3
+"Fiat",1.6,5605,"Gasoline",34
+"Ford",1,47151,"Gasoline",6
+"Mercedes-Benz",5.5,234606,"Gasoline",12
+"VW - VolksWagen",2,63465,"Gasoline",10
+"Fiat",1,43741,"Gasoline",4
+"GM - Chevrolet",4.1,37756,"Diesel",24
+"VW - VolksWagen",1.6,14346,"Alcohol",25
+"Ford",2,18826,"Gasoline",20
+"Fiat",1,15428,"Gasoline",15
+"GM - Chevrolet",2,32391,"Gasoline",14
+"Fiat",2,104520,"Diesel",7
+"Fiat",1.3,147409,"Gasoline",0
+"VW - VolksWagen",1.6,39146,"Gasoline",10
+"VW - VolksWagen",2,186900,"Diesel",3
+"Fiat",1,35755,"Gasoline",7
+"Fiat",1.4,45941,"Gasoline",9
+"VW - VolksWagen",2,73636,"Gasoline",10
+"Ford",3.9,29662,"Diesel",35
+"VW - VolksWagen",1.6,40353,"Gasoline",9
+"GM - Chevrolet",1.8,32695,"Gasoline",15
+"GM - Chevrolet",2.2,8570,"Gasoline",30
+"Ford",2,53564,"Gasoline",10
+"GM - Chevrolet",1.8,69551,"Gasoline",9
+"Mercedes-Benz",2,109841,"Gasoline",6
+"Mercedes-Benz",2.8,21357,"Gasoline",29
+"GM - Chevrolet",1.8,40349,"Gasoline",9
+"Fiat",1.3,20673,"Gasoline",10
+"VW - VolksWagen",1.6,63956,"Gasoline",5
+"Fiat",1,27903,"Gasoline",9
+"Fiat",1,10098,"Gasoline",24
+"Ford",1,13733,"Gasoline",20
+"Fiat",1.4,33107,"Gasoline",11
+"VW - VolksWagen",1.6,66923,"Gasoline",5
+"GM - Chevrolet",2,22453,"Gasoline",17
+"Fiat",1.6,9564,"Gasoline",25
+"GM - Chevrolet",1.6,17806,"Gasoline",17
+"Mercedes-Benz",1.6,122009,"Gasoline",8
+"VW - VolksWagen",1.6,12571,"Gasoline",21
+"GM - Chevrolet",1,62598,"Gasoline",3
+"Ford",2.3,57371,"Gasoline",12
+"VW - VolksWagen",1,70463,"Gasoline",2
+"Fiat",1.6,5259,"Gasoline",33
+"Mercedes-Benz",2.3,27261,"Gasoline",31
+"Ford",1.6,6309,"Gasoline",29
+"GM - Chevrolet",1,18719,"Gasoline",17
+"VW - VolksWagen",1.8,4845,"Gasoline",36
+"GM - Chevrolet",2,11406,"Gasoline",31
+"Fiat",1.8,45652,"Gasoline",7
+"Ford",1.8,7404,"Gasoline",28
+"Ford",3,60313,"Diesel",14
+"VW - VolksWagen",2,126649,"Gasoline",7
+"GM - Chevrolet",2,29784,"Gasoline",16
+"Mercedes-Benz",1.3,284530,"Gasoline",1
+"Fiat",1.8,76174,"Gasoline",4
+"Fiat",1.6,38293,"Gasoline",8
+"Ford",3.6,18874,"Alcohol",28
+"GM - Chevrolet",1,122489,"Gasoline",0
+"Mercedes-Benz",2.2,118452,"Diesel",6
+"VW - VolksWagen",1.8,27919,"Gasoline",14
+"Fiat",1,68412,"Gasoline",0
+"Fiat",1,78849,"Gasoline",0
+"Ford",1.5,60384,"Gasoline",4
+"VW - VolksWagen",2,15316,"Gasoline",27
+"VW - VolksWagen",1.4,152550,"Gasoline",1
+"Ford",2.5,91651,"Gasoline",8
+"GM - Chevrolet",4.1,12467,"Gasoline",29
+"Ford",3.2,156558,"Diesel",7
+"VW - VolksWagen",1.6,37350,"Gasoline",10
+"VW - VolksWagen",1,12705,"Gasoline",22
+"Mercedes-Benz",1.9,18059,"Gasoline",18
+"Fiat",1.4,50201,"Gasoline",11
+"Fiat",1.5,6391,"Gasoline",30
+"VW - VolksWagen",1.6,34940,"Gasoline",11
+"VW - VolksWagen",1.6,30732,"Gasoline",11
+"Ford",3.9,90569,"Diesel",23
+"Fiat",1.6,11607,"Gasoline",23
+"Ford",1.5,44254,"Gasoline",8
+"Fiat",2.3,84178,"Diesel",9
+"Ford",2,54325,"Gasoline",9
+"Ford",2.8,59033,"Diesel",17
+"VW - VolksWagen",1,48956,"Gasoline",7
+"Ford",1.6,46670,"Gasoline",9
+"GM - Chevrolet",1.5,167663,"Gasoline",3
+"VW - VolksWagen",1.8,12397,"Gasoline",29
+"Ford",2,8726,"Gasoline",25
+"VW - VolksWagen",2,39900,"Gasoline",13
+"Fiat",1,54210,"Gasoline",2
+"GM - Chevrolet",1.4,45219,"Gasoline",8
+"Ford",2,34944,"Gasoline",14
+"Fiat",1,49094,"Gasoline",4
+"VW - VolksWagen",1.6,35811,"Gasoline",8
+"Fiat",1.5,6211,"Gasoline",34
+"Ford",4.2,76558,"Diesel",24
+"Ford",2.5,129426,"Gasoline",4
+"GM - Chevrolet",1,100151,"Gasoline",0
+"VW - VolksWagen",1.6,25379,"Gasoline",16
+"Fiat",1.4,44440,"Gasoline",8
+"GM - Chevrolet",3.6,37868,"Gasoline",14
+"Fiat",2,6188,"Alcohol",28
+"VW - VolksWagen",1.4,25516,"Gasoline",16
+"Mercedes-Benz",3,66613,"Gasoline",14
+"Mercedes-Benz",2.2,137557,"Diesel",3
+"Mercedes-Benz",5,81689,"Gasoline",23
+"GM - Chevrolet",1,31993,"Gasoline",9
+"GM - Chevrolet",2.2,13503,"Gasoline",27
+"Fiat",1,42054,"Gasoline",5
+"GM - Chevrolet",1,92238,"Gasoline",0
+"Ford",2.2,175343,"Diesel",4
+"Mercedes-Benz",2,47936,"Gasoline",13
+"GM - Chevrolet",2,22759,"Gasoline",18
+"Ford",1.3,7206,"Gasoline",26
+"Mercedes-Benz",6.2,375943,"Gasoline",12
+"GM - Chevrolet",4.1,16854,"Gasoline",29
+"Ford",2.3,30536,"Gasoline",15
+"VW - VolksWagen",1.6,66778,"Gasoline",5
+"Fiat",1.6,29402,"Gasoline",12
+"Ford",3.9,117664,"Diesel",15
+"Fiat",2,30445,"Gasoline",19
+"Ford",2,33088,"Gasoline",14
+"Mercedes-Benz",1.8,84587,"Gasoline",11
+"Ford",2,22289,"Gasoline",16
+"Mercedes-Benz",1.7,43382,"Gasoline",12
+"Fiat",1.3,15635,"Gasoline",19
+"Fiat",1,28211,"Gasoline",9
+"Fiat",1,29768,"Gasoline",7
+"Ford",3.9,48831,"Diesel",34
+"Fiat",2.8,42590,"Diesel",18
+"Mercedes-Benz",2.2,45948,"Diesel",21
+"Mercedes-Benz",1.5,364120,"Gasoline",0
+"GM - Chevrolet",1.6,36312,"Gasoline",11
+"GM - Chevrolet",2.8,155451,"Diesel",4
+"Mercedes-Benz",6.2,286612,"Gasoline",10
+"GM - Chevrolet",1,20974,"Gasoline",16
+"Fiat",1.8,24655,"Gasoline",19
+"Ford",1.8,7121,"Gasoline",26
+"Mercedes-Benz",3,438639,"Gasoline",5
+"GM - Chevrolet",1,39696,"Gasoline",10
+"Ford",3,17149,"Gasoline",28
+"Ford",2.4,73632,"Diesel",12
+"VW - VolksWagen",1,39532,"Gasoline",8
+"VW - VolksWagen",2,74931,"Gasoline",7
+"Fiat",1.4,91837,"Gasoline",1
+"VW - VolksWagen",2,17828,"Gasoline",20
+"Fiat",1.6,12023,"Gasoline",25
+"VW - VolksWagen",1.8,8369,"Alcohol",27
+"Ford",1.8,7533,"Gasoline",25
+"Ford",3.2,127643,"Diesel",8
+"Mercedes-Benz",4.7,221666,"Gasoline",10
+"VW - VolksWagen",1.6,24702,"Gasoline",14
+"Ford",3.8,19052,"Gasoline",32
+"VW - VolksWagen",1.6,45843,"Gasoline",8
+"VW - VolksWagen",1.6,61374,"Gasoline",8
+"VW - VolksWagen",1.6,24962,"Gasoline",20
+"GM - Chevrolet",3.9,36546,"Diesel",37
+"Ford",1,11036,"Gasoline",23
+"Ford",2.3,29450,"Gasoline",20
+"VW - VolksWagen",1.6,43032,"Gasoline",9
+"Ford",2,7617,"Gasoline",31
+"VW - VolksWagen",1.6,79168,"Gasoline",0
+"VW - VolksWagen",1,41710,"Gasoline",9
+"Fiat",2.3,117011,"Diesel",6
+"GM - Chevrolet",2,6983,"Gasoline",36
+"GM - Chevrolet",1.4,71163,"Gasoline",4
+"Ford",1.6,5203,"Gasoline",36
+"Ford",2.5,77480,"Diesel",25
+"Fiat",1.6,48062,"Gasoline",7
+"Mercedes-Benz",3.2,18488,"Gasoline",29
+"Ford",2,8765,"Gasoline",31
+"Fiat",1.8,56732,"Gasoline",6
+"Fiat",1.8,37701,"Gasoline",10
+"Mercedes-Benz",4.3,80678,"Gasoline",22
+"Fiat",1.8,26850,"Gasoline",16
+"Fiat",2.3,68746,"Diesel",12
+"VW - VolksWagen",1.8,33754,"Gasoline",19
+"Fiat",1.8,105975,"Gasoline",0
+"Fiat",1.6,40868,"Gasoline",8
+"VW - VolksWagen",2,145428,"Diesel",7
+"Ford",2,9807,"Gasoline",27
+"Fiat",2.3,66166,"Diesel",13
+"Mercedes-Benz",6.2,288902,"Gasoline",14
+"GM - Chevrolet",1.8,9558,"Gasoline",26
+"Fiat",2,29442,"Gasoline",20
+"Fiat",1.8,61100,"Gasoline",7
+"Fiat",1.5,12010,"Alcohol",20
+"VW - VolksWagen",2,19326,"Gasoline",28
+"Ford",1.6,41230,"Gasoline",9
+"Fiat",1.6,4615,"Gasoline",33
+"VW - VolksWagen",1.8,7924,"Gasoline",33
+"VW - VolksWagen",2,25867,"Gasoline",16
+"Fiat",1.3,20861,"Gasoline",19
+"GM - Chevrolet",1.8,21547,"Gasoline",17
+"Ford",1.6,15542,"Gasoline",20
+"VW - VolksWagen",1,19395,"Gasoline",16
+"VW - VolksWagen",1.8,21104,"Gasoline",18
+"GM - Chevrolet",5.7,42270,"Gasoline",26
+"GM - Chevrolet",3.9,66604,"Diesel",29
+"Mercedes-Benz",3.5,102322,"Gasoline",15
+"Fiat",1.6,10313,"Gasoline",26
+"Ford",4,11403,"Gasoline",29
+"Ford",1.5,43254,"Gasoline",8
+"Fiat",1.3,19290,"Gasoline",19
+"VW - VolksWagen",1.8,13324,"Alcohol",25
+"Mercedes-Benz",3,482457,"Gasoline",4
+"GM - Chevrolet",1.8,8318,"Gasoline",31
+"Fiat",1,32244,"Gasoline",8
+"VW - VolksWagen",1.6,13507,"Gasoline",24
+"GM - Chevrolet",1.8,42003,"Gasoline",9
+"VW - VolksWagen",1.6,7408,"Gasoline",27
+"GM - Chevrolet",2.8,88444,"Diesel",11
+"GM - Chevrolet",2.5,131686,"Gasoline",6
+"Mercedes-Benz",4.7,270354,"Gasoline",9
+"Mercedes-Benz",1.8,98356,"Gasoline",10
+"VW - VolksWagen",1,19832,"Gasoline",14
+"GM - Chevrolet",1,96175,"Gasoline",1
+"VW - VolksWagen",1.8,3169,"Gasoline",38
+"Mercedes-Benz",2.2,46087,"Diesel",21
+"VW - VolksWagen",1.6,18352,"Gasoline",22
+"Ford",1.3,12918,"Gasoline",24
+"Fiat",1.8,92436,"Gasoline",6
+"GM - Chevrolet",1.8,21114,"Gasoline",19
+"Mercedes-Benz",2,29579,"Gasoline",17
+"Mercedes-Benz",2.2,171474,"Diesel",6
+"Mercedes-Benz",4,1275565,"Gasoline",2
+"Fiat",1.8,19367,"Gasoline",19
+"GM - Chevrolet",4.1,12604,"Gasoline",29
+"GM - Chevrolet",2,14221,"Gasoline",24
+"Ford",3.9,40384,"Diesel",29
+"VW - VolksWagen",2,54788,"Gasoline",13
+"VW - VolksWagen",1.8,5653,"Gasoline",34
+"Fiat",1.4,40540,"Gasoline",8
+"Fiat",2,9483,"Gasoline",24
+"Mercedes-Benz",1.9,14327,"Gasoline",22
+"Ford",3,60073,"Diesel",15
+"GM - Chevrolet",2.5,150218,"Gasoline",5
+"GM - Chevrolet",1.8,20879,"Gasoline",18
+"VW - VolksWagen",2,94521,"Diesel",10
+"VW - VolksWagen",1.6,45138,"Gasoline",9
+"VW - VolksWagen",1.6,7021,"Gasoline",35
+"Mercedes-Benz",4.3,65974,"Gasoline",22
+"GM - Chevrolet",1.8,46078,"Gasoline",9
+"Ford",4,27934,"Gasoline",24
+"Mercedes-Benz",1.6,158061,"Gasoline",4
+"VW - VolksWagen",1.6,28898,"Gasoline",17
+"Fiat",1,21507,"Gasoline",13
+"GM - Chevrolet",2,10025,"Alcohol",28
+"Fiat",1,36207,"Gasoline",6
+"VW - VolksWagen",1.4,85237,"Gasoline",8
+"Fiat",1,7564,"Alcohol",22
+"Fiat",1,36189,"Gasoline",7
+"Ford",1.6,23980,"Gasoline",18
+"Ford",2,7577,"Gasoline",29
+"GM - Chevrolet",1.6,9862,"Gasoline",25
+"Ford",3.2,258594,"Diesel",0
+"Mercedes-Benz",1.6,184281,"Gasoline",4
+"VW - VolksWagen",1.6,43124,"Gasoline",10
+"Ford",1.8,6766,"Alcohol",28
+"GM - Chevrolet",1,26425,"Gasoline",10
+"VW - VolksWagen",1.6,27390,"Gasoline",10
+"GM - Chevrolet",2.2,19258,"Gasoline",27
+"VW - VolksWagen",1.8,6244,"Gasoline",32
+"GM - Chevrolet",1,83775,"Gasoline",2
+"VW - VolksWagen",1,90290,"Gasoline",4
+"GM - Chevrolet",1.8,3998,"Gasoline",37
+"VW - VolksWagen",1.6,21470,"Gasoline",17
+"Mercedes-Benz",6,394750,"Gasoline",15
+"GM - Chevrolet",2.5,9323,"Gasoline",31
+"Ford",1,8298,"Gasoline",23
+"Mercedes-Benz",6,197362,"Gasoline",18
+"VW - VolksWagen",1.6,33201,"Gasoline",11
+"GM - Chevrolet",2,36398,"Gasoline",12
+"Mercedes-Benz",2.2,115067,"Diesel",8
+"Ford",1.6,12151,"Gasoline",22
+"GM - Chevrolet",6.2,405050,"Gasoline",4
+"GM - Chevrolet",1,8237,"Gasoline",31
+"Ford",1.9,9462,"Gasoline",28
+"GM - Chevrolet",1.8,51480,"Gasoline",6
+"Mercedes-Benz",2.2,201653,"Diesel",4
+"Fiat",1.4,53700,"Gasoline",7
+"Ford",4.2,111634,"Diesel",20
+"Fiat",1.5,10676,"Gasoline",25
+"Ford",2,33256,"Gasoline",13
+"VW - VolksWagen",1.6,62337,"Gasoline",5
+"Ford",4,21333,"Gasoline",26
+"GM - Chevrolet",4,36113,"Diesel",36
+"Fiat",1.6,10638,"Gasoline",21
+"VW - VolksWagen",2,13626,"Gasoline",26
+"Ford",2.3,39664,"Gasoline",18
+"Fiat",1.8,121382,"Gasoline",2
+"Fiat",1,20588,"Gasoline",12
+"Fiat",1.4,34543,"Gasoline",9
+"GM - Chevrolet",1.8,24872,"Gasoline",19
+"Ford",3,55468,"Diesel",17
+"Fiat",1.4,72748,"Gasoline",4
+"Fiat",2.4,94652,"Gasoline",6
+"Fiat",1.4,31342,"Gasoline",12
+"Ford",1.8,13201,"Gasoline",31
+"VW - VolksWagen",1.8,24507,"Gasoline",22
+"VW - VolksWagen",1,40898,"Gasoline",8
+"Mercedes-Benz",2.2,221396,"Diesel",3
+"VW - VolksWagen",2,10826,"Gasoline",27
+"Fiat",2.4,34220,"Gasoline",16
+"Ford",1.6,24960,"Gasoline",14
+"VW - VolksWagen",2,27705,"Gasoline",17
+"VW - VolksWagen",2,10065,"Gasoline",34
+"Fiat",1.6,41954,"Gasoline",7
+"GM - Chevrolet",1,13064,"Gasoline",23
+"VW - VolksWagen",2.8,22521,"Gasoline",21
+"VW - VolksWagen",1.6,14035,"Alcohol",25
+"Fiat",1.5,17376,"Gasoline",22
+"GM - Chevrolet",4.3,13594,"Gasoline",28
+"Mercedes-Benz",1.6,114265,"Gasoline",5
+"Fiat",2.3,143068,"Diesel",5
+"GM - Chevrolet",1,75024,"Gasoline",3
+"Fiat",1.8,31916,"Gasoline",12
+"Fiat",1.8,52679,"Gasoline",7
+"Mercedes-Benz",1.6,176742,"Gasoline",3
+"Fiat",1.3,14362,"Gasoline",19
+"GM - Chevrolet",2.8,79602,"Diesel",11
+"VW - VolksWagen",2,17879,"Gasoline",21
+"Ford",5,531169,"Gasoline",2
+"Mercedes-Benz",4,1741510,"Gasoline",3
+"GM - Chevrolet",1,110140,"Gasoline",0
+"Fiat",1.6,12040,"Gasoline",23
+"Fiat",1,14073,"Gasoline",19
+"Ford",1.6,62489,"Gasoline",4
+"VW - VolksWagen",1.6,47529,"Gasoline",7
+"GM - Chevrolet",1.8,23437,"Gasoline",17
+"Ford",4.2,109845,"Diesel",18
+"VW - VolksWagen",2,95728,"Gasoline",10
+"Fiat",1.5,12140,"Gasoline",26
+"Fiat",1.4,53788,"Gasoline",8
+"Fiat",1.8,36201,"Gasoline",10
+"VW - VolksWagen",1.6,28518,"Gasoline",18
+"Mercedes-Benz",1.9,15784,"Gasoline",20
+"Mercedes-Benz",1.8,64271,"Gasoline",13
+"Ford",2.2,108000,"Diesel",7
+"GM - Chevrolet",1.8,5774,"Gasoline",34
+"VW - VolksWagen",1.6,25499,"Gasoline",15
+"GM - Chevrolet",1.8,8726,"Gasoline",28
+"GM - Chevrolet",2.8,63065,"Diesel",16
+"Mercedes-Benz",4,1006131,"Gasoline",4
+"Fiat",1,36434,"Gasoline",7
+"GM - Chevrolet",5.7,47741,"Gasoline",26
+"Mercedes-Benz",1.6,114464,"Gasoline",8
+"VW - VolksWagen",2,29002,"Gasoline",16
+"GM - Chevrolet",1.4,100521,"Gasoline",4
+"VW - VolksWagen",1,70291,"Gasoline",1
+"Ford",1.6,12258,"Alcohol",20
+"Mercedes-Benz",3,546969,"Gasoline",4
+"VW - VolksWagen",1.8,4960,"Gasoline",36
+"GM - Chevrolet",1.8,88213,"Gasoline",4
+"Fiat",1.4,37001,"Gasoline",10
+"Fiat",1.6,40263,"Gasoline",10
+"Mercedes-Benz",1.6,84877,"Gasoline",10
+"VW - VolksWagen",1.6,48031,"Gasoline",7
+"Ford",3.2,264339,"Diesel",2
+"Fiat",1,39520,"Gasoline",7
+"GM - Chevrolet",1.4,38681,"Gasoline",12
+"VW - VolksWagen",1,97889,"Gasoline",1
+"Mercedes-Benz",4.3,78406,"Gasoline",22
+"Ford",3.2,118274,"Diesel",9
+"Mercedes-Benz",4,5980566,"Gasoline",0
+"VW - VolksWagen",1.6,18415,"Gasoline",22
+"Ford",4,23133,"Gasoline",27
+"Mercedes-Benz",3,364134,"Gasoline",5
+"Fiat",1,16210,"Gasoline",20
+"GM - Chevrolet",1.4,63953,"Gasoline",5
+"VW - VolksWagen",1.6,27967,"Gasoline",13
+"Ford",2,8319,"Gasoline",30
+"VW - VolksWagen",2,19402,"Gasoline",20
+"Ford",1.6,29788,"Gasoline",11
+"VW - VolksWagen",1,20506,"Gasoline",13
+"Mercedes-Benz",2.6,25006,"Gasoline",32
+"VW - VolksWagen",1.6,65984,"Gasoline",5
+"Fiat",1.8,27979,"Gasoline",18
+"Ford",2,66632,"Gasoline",7
+"GM - Chevrolet",1.8,73403,"Gasoline",8
+"GM - Chevrolet",1,81166,"Gasoline",0
+"Fiat",2,6697,"Gasoline",29
+"VW - VolksWagen",1.4,160613,"Gasoline",4
+"VW - VolksWagen",1.4,31884,"Gasoline",15
+"Ford",1.8,6923,"Gasoline",29
+"VW - VolksWagen",1.6,40260,"Gasoline",10
+"Mercedes-Benz",6,55804,"Gasoline",28
+"Ford",2,23013,"Gasoline",16
+"VW - VolksWagen",1.8,9804,"Gasoline",26
+"Ford",2.5,13582,"Gasoline",23
+"Fiat",1,43968,"Gasoline",3
+"Mercedes-Benz",2.2,54121,"Diesel",17
+"VW - VolksWagen",2,145262,"Gasoline",7
+"GM - Chevrolet",1.8,21544,"Gasoline",15
+"GM - Chevrolet",1.6,30199,"Gasoline",24
+"Fiat",1.4,56562,"Gasoline",7
+"GM - Chevrolet",1,20648,"Gasoline",15
+"GM - Chevrolet",6.2,464554,"Gasoline",1
+"Mercedes-Benz",2.2,54348,"Diesel",18
+"VW - VolksWagen",1.6,5249,"Gasoline",32
+"VW - VolksWagen",1.8,13786,"Gasoline",24
+"Ford",2,25413,"Gasoline",15
+"Ford",3.2,142835,"Diesel",8
+"GM - Chevrolet",1.6,8419,"Gasoline",30
+"VW - VolksWagen",1.6,6561,"Alcohol",26
+"Mercedes-Benz",2,234175,"Gasoline",6
+"Ford",1,54629,"Gasoline",3
+"Ford",2.3,48024,"Gasoline",14
+"GM - Chevrolet",1,119883,"Gasoline",0
+"Ford",3,75924,"Diesel",13
+"Mercedes-Benz",3,382881,"Gasoline",6
+"VW - VolksWagen",1.6,9423,"Alcohol",28
+"Mercedes-Benz",2.2,178092,"Diesel",5
+"Ford",2,40137,"Gasoline",10
+"Ford",3.2,277287,"Diesel",1
+"GM - Chevrolet",1,94563,"Gasoline",1
+"Fiat",1,10586,"Gasoline",22
+"Ford",2.3,8138,"Gasoline",37
+"Mercedes-Benz",3,342380,"Gasoline",6
+"Fiat",2.8,49565,"Diesel",15
+"Fiat",1.4,41190,"Gasoline",8
+"GM - Chevrolet",1.8,9929,"Gasoline",25
+"VW - VolksWagen",2,44220,"Gasoline",13
+"Ford",4,7836,"Gasoline",32
+"VW - VolksWagen",2,37831,"Gasoline",20
+"VW - VolksWagen",1.4,120034,"Gasoline",6
+"GM - Chevrolet",1,115999,"Gasoline",0
+"GM - Chevrolet",1,13271,"Gasoline",22
+"Ford",1,15012,"Gasoline",21
+"GM - Chevrolet",2,13689,"Gasoline",23
+"GM - Chevrolet",1.8,51419,"Gasoline",8
+"Ford",3,54232,"Diesel",14
+"VW - VolksWagen",1.8,4137,"Gasoline",36
+"VW - VolksWagen",1.6,77259,"Gasoline",6
+"Ford",2,23823,"Gasoline",17
+"GM - Chevrolet",1.4,145143,"Gasoline",0
+"VW - VolksWagen",1,57293,"Gasoline",2
+"VW - VolksWagen",1.8,5834,"Gasoline",33
+"GM - Chevrolet",2.5,11219,"Gasoline",36
+"VW - VolksWagen",1.6,12859,"Alcohol",23
+"VW - VolksWagen",1.6,38341,"Gasoline",11
+"GM - Chevrolet",2.8,65487,"Diesel",16
+"GM - Chevrolet",2,11216,"Gasoline",25
+"Fiat",1,9618,"Gasoline",23
+"Ford",2,35856,"Gasoline",13
+"Mercedes-Benz",4,5940520,"Gasoline",0
+"GM - Chevrolet",6.2,385072,"Gasoline",5
+"Fiat",1,31814,"Gasoline",10
+"GM - Chevrolet",3.1,10951,"Gasoline",32
+"VW - VolksWagen",1.8,15633,"Gasoline",30
+"Ford",1.5,68562,"Gasoline",4
+"VW - VolksWagen",1.6,57854,"Gasoline",7
+"VW - VolksWagen",1.6,60346,"Gasoline",6
+"Fiat",1,32354,"Gasoline",8
+"Mercedes-Benz",4.3,61189,"Gasoline",23
+"GM - Chevrolet",1,40222,"Gasoline",9
+"VW - VolksWagen",1.6,36773,"Gasoline",9
+"GM - Chevrolet",2.2,16985,"Gasoline",23
+"GM - Chevrolet",2.4,66250,"Gasoline",11
+"Fiat",2.8,39323,"Diesel",19
+"Fiat",1.4,26745,"Gasoline",17
+"GM - Chevrolet",2,11285,"Gasoline",29
+"GM - Chevrolet",2,10896,"Gasoline",32
+"GM - Chevrolet",2.2,14128,"Gasoline",25
+"VW - VolksWagen",1.8,12516,"Gasoline",29
+"Fiat",1.4,35826,"Gasoline",12
+"Fiat",1.4,51255,"Gasoline",10
+"Ford",2,38374,"Gasoline",11
+"Ford",1.6,22500,"Gasoline",15
+"Fiat",1.6,6495,"Gasoline",33
+"Fiat",1,18534,"Gasoline",14
+"GM - Chevrolet",2.8,198679,"Diesel",6
+"VW - VolksWagen",1.6,5200,"Gasoline",36
+"GM - Chevrolet",2.5,9634,"Gasoline",38
+"Ford",2,20693,"Gasoline",18
+"Fiat",1.3,72977,"Gasoline",2
+"Ford",4,27799,"Gasoline",23
+"VW - VolksWagen",1,40350,"Gasoline",8
+"Fiat",1.8,50114,"Gasoline",7
+"VW - VolksWagen",1.6,12585,"Alcohol",25
+"Mercedes-Benz",3,30586,"Gasoline",31
+"Mercedes-Benz",4.7,454234,"Gasoline",7
+"Fiat",1.6,3373,"Gasoline",36
+"Fiat",1.5,17193,"Alcohol",21
+"GM - Chevrolet",1,95254,"Gasoline",0
+"Fiat",1.5,12345,"Alcohol",24
+"VW - VolksWagen",1,13478,"Gasoline",18
+"Ford",1.5,81555,"Gasoline",3
+"Fiat",1.3,103826,"Gasoline",1
+"GM - Chevrolet",1.4,51672,"Gasoline",8
+"Mercedes-Benz",6,82232,"Gasoline",26
+"Fiat",1.5,17636,"Gasoline",24
+"GM - Chevrolet",1.4,49320,"Gasoline",9
+"Mercedes-Benz",5,104834,"Gasoline",27
+"GM - Chevrolet",2,28773,"Gasoline",17
+"Fiat",1.3,72526,"Gasoline",0
+"VW - VolksWagen",1,25943,"Gasoline",10
+"Fiat",1,13865,"Gasoline",21
+"GM - Chevrolet",4.1,17953,"Alcohol",28
+"Ford",1.6,19552,"Gasoline",16
+"GM - Chevrolet",1,16521,"Gasoline",16
+"Fiat",2.8,20826,"Diesel",25
+"GM - Chevrolet",2.2,17825,"Gasoline",21
+"Mercedes-Benz",3.2,22423,"Gasoline",30
+"Fiat",1.3,140053,"Gasoline",1
+"Mercedes-Benz",2,291009,"Gasoline",4
+"Ford",3,53005,"Diesel",17
+"VW - VolksWagen",1.8,7964,"Gasoline",32
+"VW - VolksWagen",4.2,44218,"Gasoline",18
+"Fiat",2.3,169825,"Diesel",5
+"Mercedes-Benz",1.6,162532,"Gasoline",4
+"Mercedes-Benz",2.2,41223,"Diesel",21
+"Fiat",1.8,66256,"Gasoline",5
+"Ford",1.6,52865,"Gasoline",10
+"Mercedes-Benz",1.6,190058,"Gasoline",5
+"VW - VolksWagen",1.8,5139,"Gasoline",38
+"VW - VolksWagen",1.6,31091,"Gasoline",14
+"Mercedes-Benz",2.2,271458,"Diesel",1
+"GM - Chevrolet",2,35635,"Gasoline",12
+"Ford",1.6,20511,"Gasoline",20
+"Fiat",1.5,3845,"Gasoline",34
+"GM - Chevrolet",1.4,60656,"Gasoline",5
+"Mercedes-Benz",6.2,500386,"Gasoline",12
+"Ford",3.9,186511,"Diesel",14
+"Fiat",1.8,27417,"Gasoline",13
+"Ford",2,55566,"Gasoline",8
+"VW - VolksWagen",1.6,34396,"Gasoline",12
+"Mercedes-Benz",2,153564,"Gasoline",8
+"Ford",3.5,48354,"Gasoline",13
+"Mercedes-Benz",3,667305,"Gasoline",0
+"Ford",1.5,47913,"Gasoline",6
+"Ford",1.6,27949,"Gasoline",12
+"GM - Chevrolet",2.8,154471,"Diesel",3
+"Ford",1.3,6945,"Gasoline",25
+"VW - VolksWagen",1.8,4971,"Gasoline",35
+"Ford",2,8344,"Alcohol",28
+"GM - Chevrolet",1.8,8650,"Gasoline",28
+"GM - Chevrolet",2.8,62450,"Diesel",19
+"Mercedes-Benz",6.2,180291,"Gasoline",15
+"Mercedes-Benz",2.2,235581,"Diesel",1
+"GM - Chevrolet",1.6,11971,"Gasoline",25
+"GM - Chevrolet",3.9,57654,"Diesel",34
+"Fiat",1.6,10784,"Gasoline",22
+"Ford",4,30747,"Gasoline",24
+"Fiat",1.6,10445,"Alcohol",24
+"Fiat",1.4,43249,"Gasoline",8
+"GM - Chevrolet",1.8,21541,"Gasoline",18
+"VW - VolksWagen",1.6,6032,"Gasoline",30
+"Mercedes-Benz",5,130651,"Gasoline",20
+"Mercedes-Benz",3,774146,"Diesel",0
+"VW - VolksWagen",1.8,41675,"Gasoline",17
+"GM - Chevrolet",1.8,16841,"Gasoline",22
+"Mercedes-Benz",5,43879,"Gasoline",30
+"Ford",2.3,20983,"Gasoline",26
+"GM - Chevrolet",1.6,18159,"Gasoline",22
+"GM - Chevrolet",4.3,9732,"Gasoline",29
+"Fiat",1.5,4106,"Gasoline",30
+"Mercedes-Benz",3,64103,"Gasoline",14
+"VW - VolksWagen",1,13880,"Gasoline",22
+"VW - VolksWagen",1,44033,"Gasoline",8
+"Mercedes-Benz",2.2,215282,"Diesel",1
+"GM - Chevrolet",1,11711,"Alcohol",22
+"Ford",3.9,143453,"Diesel",13
+"VW - VolksWagen",2,20469,"Gasoline",26
+"GM - Chevrolet",2,29245,"Gasoline",16
+"VW - VolksWagen",2.8,26547,"Gasoline",32
+"VW - VolksWagen",1.8,14475,"Gasoline",23
+"Mercedes-Benz",4,1866300,"Gasoline",3
+"VW - VolksWagen",1.6,28214,"Gasoline",15
+"GM - Chevrolet",2,17199,"Gasoline",19
+"Fiat",2,8949,"Gasoline",28
+"Ford",3.6,11081,"Gasoline",34
+"GM - Chevrolet",1,7520,"Gasoline",29
+"GM - Chevrolet",1.8,5230,"Gasoline",36
+"Ford",2,16167,"Gasoline",22
+"VW - VolksWagen",1,40562,"Gasoline",6
+"Ford",3.2,146838,"Diesel",7
+"Mercedes-Benz",1.8,86051,"Gasoline",11
+"VW - VolksWagen",1.4,101823,"Gasoline",5
+"Mercedes-Benz",2,255241,"Gasoline",6
+"GM - Chevrolet",2.5,10906,"Gasoline",36
+"VW - VolksWagen",1.6,6624,"Gasoline",28
+"VW - VolksWagen",3,318396,"Diesel",1
+"Fiat",1.5,5398,"Gasoline",33
+"Fiat",1.4,29565,"Gasoline",10
+"GM - Chevrolet",2.4,43040,"Gasoline",19
+"GM - Chevrolet",1.8,61033,"Gasoline",10
+"Ford",1.5,72531,"Gasoline",5
+"VW - VolksWagen",1.6,10049,"Gasoline",33
+"Ford",1.6,14988,"Gasoline",27
+"GM - Chevrolet",1.8,32379,"Gasoline",16
+"VW - VolksWagen",1,18381,"Gasoline",20
+"Fiat",1.4,66675,"Gasoline",7
+"Fiat",1.5,7901,"Gasoline",33
+"Mercedes-Benz",2.2,99116,"Diesel",10
+"GM - Chevrolet",1.8,17478,"Gasoline",21
+"Mercedes-Benz",2.3,23443,"Gasoline",32
+"GM - Chevrolet",2.2,7838,"Alcohol",28
+"Fiat",1.5,14053,"Gasoline",24
+"GM - Chevrolet",2.4,54991,"Gasoline",12
+"Ford",1.8,6722,"Gasoline",31
+"Mercedes-Benz",1.6,90230,"Gasoline",9
+"GM - Chevrolet",2,25384,"Gasoline",16
+"GM - Chevrolet",1.4,39364,"Gasoline",10
+"Ford",1,17331,"Gasoline",17
+"Fiat",2.8,25880,"Diesel",25
+"GM - Chevrolet",1,22675,"Gasoline",12
+"Fiat",1,45997,"Gasoline",5
+"Mercedes-Benz",2.2,304361,"Diesel",1
+"Mercedes-Benz",5,150582,"Gasoline",15
+"VW - VolksWagen",1,51854,"Gasoline",7
+"VW - VolksWagen",1.4,212198,"Gasoline",0
+"VW - VolksWagen",1.4,163550,"Gasoline",0
+"Mercedes-Benz",2.2,122950,"Diesel",9
+"Mercedes-Benz",3,458222,"Gasoline",3
+"GM - Chevrolet",4.1,12126,"Gasoline",36
+"VW - VolksWagen",1.6,11213,"Alcohol",26
+"GM - Chevrolet",2.4,36104,"Gasoline",14
+"GM - Chevrolet",1.4,39743,"Gasoline",9
+"Fiat",1.4,47819,"Gasoline",7
+"GM - Chevrolet",5.7,254949,"Gasoline",16
+"Ford",3.9,158597,"Diesel",12
+"GM - Chevrolet",5.7,231670,"Gasoline",8
+"Fiat",1,49615,"Gasoline",4
+"Ford",1.8,7560,"Gasoline",26
+"Ford",1.6,10652,"Gasoline",23
+"GM - Chevrolet",1.4,29666,"Gasoline",14
+"Fiat",1.5,9452,"Gasoline",24
+"VW - VolksWagen",2,12677,"Gasoline",26
+"VW - VolksWagen",1.8,19239,"Gasoline",21
+"Fiat",1.6,16608,"Gasoline",22
+"GM - Chevrolet",1,23123,"Gasoline",13
+"Ford",1.6,13939,"Gasoline",17
+"GM - Chevrolet",1,42518,"Gasoline",9
+"VW - VolksWagen",1.8,10643,"Gasoline",30
+"Ford",2,12789,"Gasoline",27
+"Fiat",1,35450,"Gasoline",9
+"VW - VolksWagen",1.8,22601,"Gasoline",20
+"Fiat",1.8,91620,"Gasoline",2
+"Ford",2.2,79990,"Diesel",10
+"VW - VolksWagen",1.6,5125,"Gasoline",36
+"VW - VolksWagen",1,87037,"Gasoline",4
+"VW - VolksWagen",1,38113,"Gasoline",9
+"GM - Chevrolet",4.3,34706,"Gasoline",19
+"Fiat",1.6,36787,"Gasoline",11
+"GM - Chevrolet",2.2,20560,"Gasoline",25
+"Fiat",1,19861,"Gasoline",14
+"Fiat",1.6,4035,"Gasoline",36
+"GM - Chevrolet",1,19620,"Gasoline",17
+"Fiat",1.4,47963,"Gasoline",10
+"GM - Chevrolet",1.8,52066,"Gasoline",6
+"Fiat",1,23882,"Gasoline",13
+"Mercedes-Benz",2.2,75941,"Diesel",13
+"Fiat",1,25150,"Gasoline",11
+"VW - VolksWagen",1,45206,"Gasoline",7
+"Ford",2.3,26869,"Gasoline",18
+"Fiat",1,9117,"Gasoline",26
+"Fiat",1.5,3342,"Gasoline",37
+"VW - VolksWagen",1.8,26764,"Gasoline",18
+"VW - VolksWagen",1,72451,"Gasoline",4
+"Mercedes-Benz",3.5,159680,"Gasoline",11
+"VW - VolksWagen",2.8,15875,"Gasoline",24
+"GM - Chevrolet",2,8305,"Gasoline",29
+"Ford",2.5,31045,"Diesel",24
+"Mercedes-Benz",2.2,122529,"Diesel",7
+"VW - VolksWagen",1.6,12689,"Gasoline",19
+"Mercedes-Benz",2,35520,"Gasoline",15
+"VW - VolksWagen",1.6,27916,"Gasoline",13
+"Mercedes-Benz",2.2,79243,"Diesel",11
+"VW - VolksWagen",1.6,8558,"Gasoline",30
+"VW - VolksWagen",2,37316,"Gasoline",12
+"Fiat",1.5,23811,"Gasoline",17
+"Fiat",1.4,28971,"Gasoline",13
+"Fiat",2,10356,"Gasoline",26
+"VW - VolksWagen",1.6,48076,"Gasoline",9
+"Ford",2,23078,"Gasoline",18
+"Fiat",2,212415,"Diesel",0
+"VW - VolksWagen",1.6,19229,"Gasoline",19
+"Ford",1.6,31191,"Gasoline",15
+"Fiat",1,21758,"Gasoline",10
+"Fiat",1.5,17523,"Gasoline",22
+"GM - Chevrolet",2,26599,"Gasoline",16
+"Fiat",1.4,39543,"Gasoline",11
+"VW - VolksWagen",1,12026,"Gasoline",20
+"GM - Chevrolet",2.5,108456,"Gasoline",8
+"VW - VolksWagen",1.4,197025,"Gasoline",1
+"Ford",1.6,42283,"Gasoline",10
+"GM - Chevrolet",1,21073,"Gasoline",14
+"Fiat",1,26648,"Gasoline",12
+"GM - Chevrolet",1,13338,"Alcohol",18
+"Fiat",1.8,39526,"Gasoline",13
+"VW - VolksWagen",1.8,13545,"Alcohol",27
+"GM - Chevrolet",1.4,44704,"Gasoline",8
+"Fiat",1.8,28630,"Gasoline",15
+"GM - Chevrolet",1,61071,"Gasoline",3
+"Ford",2.2,114466,"Diesel",7
+"GM - Chevrolet",1.4,17754,"Gasoline",16
+"Mercedes-Benz",2.2,61434,"Diesel",14
+"GM - Chevrolet",4.1,20495,"Gasoline",32
+"GM - Chevrolet",2.4,28863,"Gasoline",18
+"Fiat",1.6,11038,"Gasoline",24
+"Fiat",1,25701,"Gasoline",13
+"VW - VolksWagen",1,6785,"Gasoline",25
+"Mercedes-Benz",2,40775,"Gasoline",13
+"GM - Chevrolet",4.1,22302,"Gasoline",31
+"GM - Chevrolet",1,10617,"Gasoline",24
+"Mercedes-Benz",3,775548,"Gasoline",3
+"GM - Chevrolet",1,86568,"Gasoline",2
+"Ford",2.5,133941,"Gasoline",6
+"VW - VolksWagen",1.8,13228,"Gasoline",26
+"GM - Chevrolet",1.8,12438,"Gasoline",23
+"VW - VolksWagen",2,44870,"Gasoline",14
+"Fiat",1.4,34564,"Gasoline",13
+"VW - VolksWagen",2,269685,"Gasoline",0
+"Fiat",1.8,77119,"Gasoline",3
+"VW - VolksWagen",1.6,62749,"Gasoline",5
+"VW - VolksWagen",1.6,17524,"Gasoline",19
+"VW - VolksWagen",1.6,36258,"Gasoline",9
+"GM - Chevrolet",1.8,83811,"Gasoline",1
+"VW - VolksWagen",1.6,42219,"Gasoline",8
+"Fiat",1.4,44133,"Gasoline",10
+"Mercedes-Benz",3,497420,"Gasoline",4
+"VW - VolksWagen",1.8,16736,"Gasoline",26
+"Ford",3,78000,"Diesel",13
+"Ford",2.8,41581,"Diesel",20
+"Mercedes-Benz",2.4,33804,"Gasoline",25
+"Ford",3.9,40364,"Diesel",30
+"Mercedes-Benz",2.2,243653,"Diesel",0
+"VW - VolksWagen",1.8,24131,"Gasoline",19
+"Fiat",1,131430,"Gasoline",0
+"VW - VolksWagen",1.8,18227,"Gasoline",27
+"Fiat",1.5,13985,"Gasoline",25
+"GM - Chevrolet",1.8,9449,"Gasoline",30
+"VW - VolksWagen",1,56365,"Gasoline",6
+"Fiat",1.8,47463,"Gasoline",7
+"VW - VolksWagen",1,37802,"Gasoline",7
+"GM - Chevrolet",1,10311,"Gasoline",25
+"Ford",2.5,23272,"Diesel",25
+"GM - Chevrolet",4.1,30368,"Gasoline",29
+"GM - Chevrolet",2,16275,"Gasoline",21
+"Fiat",1.8,26584,"Gasoline",12
+"Fiat",1.8,104639,"Gasoline",2
+"GM - Chevrolet",2.4,76331,"Gasoline",11
+"Fiat",2.3,95850,"Diesel",9
+"Fiat",1.6,43016,"Gasoline",9
+"Fiat",1.3,48256,"Gasoline",5
+"Ford",1.5,79745,"Gasoline",4
+"VW - VolksWagen",1.8,15005,"Gasoline",25
+"Ford",4,25106,"Gasoline",25
+"VW - VolksWagen",1,49703,"Gasoline",7
+"GM - Chevrolet",1,28508,"Gasoline",9
+"GM - Chevrolet",2.2,17317,"Gasoline",21
+"Ford",1.6,10114,"Alcohol",28
+"Ford",3.2,272351,"Diesel",0
+"Fiat",1.6,37264,"Gasoline",10
+"GM - Chevrolet",2.5,110728,"Gasoline",7
+"VW - VolksWagen",1.6,42464,"Gasoline",13
+"GM - Chevrolet",1.4,41697,"Gasoline",9
+"Mercedes-Benz",1.8,99594,"Gasoline",11
+"Mercedes-Benz",6,204932,"Gasoline",19
+"VW - VolksWagen",1,28104,"Gasoline",10
+"VW - VolksWagen",1,41636,"Gasoline",8
+"Mercedes-Benz",6.2,296610,"Gasoline",13
+"Mercedes-Benz",5.5,86939,"Gasoline",15
+"Mercedes-Benz",2.2,259759,"Diesel",0
+"VW - VolksWagen",2,117165,"Diesel",9
+"GM - Chevrolet",1.8,6299,"Gasoline",33
+"GM - Chevrolet",1,7785,"Gasoline",28
+"VW - VolksWagen",1,43672,"Gasoline",9
+"GM - Chevrolet",1,10457,"Gasoline",23
+"GM - Chevrolet",2.8,62750,"Diesel",17
+"VW - VolksWagen",1.6,38535,"Gasoline",10
+"GM - Chevrolet",1,11895,"Gasoline",24
+"GM - Chevrolet",1.4,128220,"Gasoline",1
+"VW - VolksWagen",1.6,37662,"Gasoline",11
+"VW - VolksWagen",1.8,12365,"Gasoline",27
+"VW - VolksWagen",2,130222,"Gasoline",8
+"GM - Chevrolet",2.8,58721,"Diesel",16
+"Fiat",1.8,31944,"Gasoline",12
+"VW - VolksWagen",1,11385,"Gasoline",21
+"Fiat",1.5,8746,"Gasoline",28
+"VW - VolksWagen",1.6,47669,"Gasoline",7
+"VW - VolksWagen",1.6,12480,"Gasoline",31
+"Ford",1.6,57895,"Gasoline",5
+"Mercedes-Benz",3.5,54802,"Gasoline",17
+"Mercedes-Benz",2.2,218278,"Diesel",3
+"VW - VolksWagen",1.6,31669,"Gasoline",15
+"Ford",1.6,11033,"Gasoline",29
+"Mercedes-Benz",2,283562,"Gasoline",4
+"Ford",1.3,5163,"Gasoline",28
+"GM - Chevrolet",2,41456,"Gasoline",11
+"Mercedes-Benz",2.2,176055,"Diesel",4
+"Mercedes-Benz",5,97756,"Gasoline",29
+"Ford",1.4,8310,"Gasoline",26
+"Ford",1,24396,"Gasoline",12
+"Ford",5.4,28345,"Gasoline",26
+"Ford",1.6,6573,"Gasoline",34
+"Fiat",1,19676,"Gasoline",14
+"VW - VolksWagen",1.6,22165,"Gasoline",19
+"VW - VolksWagen",1.6,87392,"Gasoline",2
+"GM - Chevrolet",1.8,98442,"Gasoline",1
+"Fiat",2.8,55132,"Diesel",15
+"Ford",3,68387,"Diesel",13
+"GM - Chevrolet",2.8,191798,"Diesel",5
+"GM - Chevrolet",1.4,31521,"Gasoline",11
+"Fiat",1.6,15177,"Gasoline",20
+"GM - Chevrolet",2,9404,"Gasoline",33
+"VW - VolksWagen",1.8,9506,"Alcohol",25
+"VW - VolksWagen",1.6,48765,"Gasoline",5
+"VW - VolksWagen",1.4,127433,"Gasoline",2
+"VW - VolksWagen",2,22054,"Gasoline",21
+"Ford",2.2,103565,"Diesel",8
+"VW - VolksWagen",4.2,214460,"Gasoline",7
+"VW - VolksWagen",1.6,52208,"Gasoline",7
+"Fiat",1.5,19697,"Alcohol",18
+"VW - VolksWagen",1.6,8926,"Gasoline",30
+"Fiat",1.3,13940,"Gasoline",20
+"Mercedes-Benz",2,246358,"Gasoline",6
+"Mercedes-Benz",3,291850,"Diesel",7
+"Ford",3,58484,"Diesel",16
+"Ford",2.3,31972,"Gasoline",18
+"GM - Chevrolet",2.2,12291,"Gasoline",27
+"Mercedes-Benz",1.6,72786,"Gasoline",10
+"GM - Chevrolet",2.8,306650,"Diesel",2
+"VW - VolksWagen",1.8,5495,"Gasoline",34
+"VW - VolksWagen",3.6,109290,"Gasoline",10
+"Fiat",1,9861,"Alcohol",23
+"GM - Chevrolet",4.1,39262,"Gasoline",29
+"Mercedes-Benz",2,245742,"Gasoline",6
+"Ford",3.6,9433,"Gasoline",37
+"GM - Chevrolet",2,22522,"Gasoline",31
+"GM - Chevrolet",4.2,66431,"Diesel",25
+"Fiat",1.8,16312,"Gasoline",20
+"Ford",2,45303,"Gasoline",10
+"VW - VolksWagen",2,258250,"Gasoline",2
+"VW - VolksWagen",2,19720,"Gasoline",19
+"VW - VolksWagen",1.8,10916,"Gasoline",27
+"Ford",1,67866,"Gasoline",5
+"Mercedes-Benz",5,131321,"Gasoline",20
+"VW - VolksWagen",1.4,32822,"Gasoline",14
+"GM - Chevrolet",1.8,66088,"Gasoline",9
+"GM - Chevrolet",4.1,25603,"Gasoline",28
+"GM - Chevrolet",2.8,59582,"Diesel",19
+"GM - Chevrolet",1.6,37934,"Gasoline",10
+"Ford",1.8,10849,"Gasoline",22
+"Fiat",1.6,12155,"Gasoline",22
+"Ford",1.8,10143,"Gasoline",23
+"VW - VolksWagen",2,10558,"Gasoline",34
+"VW - VolksWagen",1.8,8093,"Gasoline",31
+"Fiat",1.8,27924,"Gasoline",13
+"VW - VolksWagen",1.8,26030,"Gasoline",22
+"GM - Chevrolet",1.8,18546,"Alcohol",19
+"Fiat",1.6,11480,"Gasoline",23
+"GM - Chevrolet",2,8364,"Alcohol",27
+"GM - Chevrolet",1.8,60910,"Gasoline",9
+"Ford",1.6,26430,"Gasoline",13
+"Mercedes-Benz",2.3,32845,"Gasoline",21
+"GM - Chevrolet",1.8,60417,"Gasoline",6
+"GM - Chevrolet",1.8,6250,"Gasoline",33
+"Fiat",1.4,66237,"Gasoline",3
+"Ford",4,53598,"Gasoline",18
+"Ford",1.5,60916,"Gasoline",4
+"VW - VolksWagen",1.6,24486,"Gasoline",14
+"GM - Chevrolet",1,24723,"Gasoline",13
+"Ford",3.2,294487,"Diesel",0
+"VW - VolksWagen",1.6,27380,"Gasoline",16
+"Fiat",1,9750,"Gasoline",22
+"Mercedes-Benz",5.6,31021,"Gasoline",36
+"GM - Chevrolet",2,38523,"Gasoline",12
+"Fiat",2,10619,"Gasoline",28
+"Fiat",1.4,22079,"Gasoline",13
+"Fiat",1,38353,"Gasoline",7
+"GM - Chevrolet",1.6,10662,"Gasoline",24
+"VW - VolksWagen",1.6,30133,"Gasoline",13
+"Ford",3,59310,"Diesel",16
+"VW - VolksWagen",1.6,24833,"Gasoline",18
+"Ford",1.3,5458,"Gasoline",28
+"VW - VolksWagen",2,19582,"Gasoline",25
+"Mercedes-Benz",2.2,153497,"Diesel",6
+"Ford",2.8,52733,"Diesel",20
+"Mercedes-Benz",1.8,201657,"Gasoline",9
+"Mercedes-Benz",3.2,97522,"Gasoline",19
+"Fiat",1.4,66397,"Gasoline",9
+"Fiat",1.6,37473,"Gasoline",8
+"GM - Chevrolet",6.2,434512,"Gasoline",3
+"Fiat",1.6,49491,"Gasoline",6
+"Fiat",1.4,45610,"Gasoline",7
+"Mercedes-Benz",1.6,190638,"Gasoline",5
+"Mercedes-Benz",1.8,106826,"Gasoline",9
+"Fiat",1.5,17671,"Gasoline",23
+"VW - VolksWagen",1.6,41373,"Gasoline",9
+"Ford",1.8,20642,"Gasoline",31
+"VW - VolksWagen",1.8,15871,"Gasoline",19
+"GM - Chevrolet",1,64166,"Gasoline",2
+"Ford",1.8,13666,"Alcohol",28
+"VW - VolksWagen",2,44443,"Gasoline",13
+"Fiat",1.4,30390,"Gasoline",12
+"Fiat",1.4,36648,"Gasoline",13
+"VW - VolksWagen",1.8,7854,"Alcohol",28
+"GM - Chevrolet",2.4,24457,"Gasoline",21
+"Fiat",1.4,31756,"Gasoline",14
+"VW - VolksWagen",1.4,74779,"Gasoline",9
+"Ford",2,22330,"Gasoline",16
+"GM - Chevrolet",1,86326,"Gasoline",1
+"Fiat",2.4,15727,"Gasoline",21
+"Ford",1,24785,"Gasoline",17
+"Mercedes-Benz",3,87897,"Diesel",14
+"Fiat",1.3,78356,"Gasoline",1
+"GM - Chevrolet",4.3,12406,"Gasoline",27
+"GM - Chevrolet",1.8,4734,"Gasoline",35
+"GM - Chevrolet",1,16101,"Gasoline",17
+"Ford",1.6,25499,"Gasoline",13
+"Fiat",1,31148,"Gasoline",9
+"VW - VolksWagen",1.6,60830,"Gasoline",6
+"Fiat",1.6,13452,"Gasoline",23
+"GM - Chevrolet",4.1,38551,"Gasoline",29
+"Ford",3.9,96138,"Diesel",14
+"GM - Chevrolet",2.8,64088,"Diesel",19
+"VW - VolksWagen",4.2,46481,"Gasoline",17
+"VW - VolksWagen",2,113960,"Diesel",6
+"Fiat",1.3,22678,"Gasoline",19
+"GM - Chevrolet",4.1,18480,"Gasoline",28
+"VW - VolksWagen",2,22748,"Gasoline",23
+"VW - VolksWagen",2,163949,"Diesel",6
+"VW - VolksWagen",2,81521,"Gasoline",15
+"VW - VolksWagen",2,72900,"Gasoline",9
+"Ford",4,39658,"Gasoline",21
+"GM - Chevrolet",3.1,11450,"Gasoline",31
+"Fiat",1.5,16181,"Alcohol",19
+"Fiat",1,21310,"Gasoline",12
+"Mercedes-Benz",3.5,317518,"Gasoline",6
+"Ford",1,44801,"Gasoline",5
+"Ford",1.6,51122,"Gasoline",6
+"GM - Chevrolet",1,19518,"Gasoline",16
+"GM - Chevrolet",2.2,11784,"Alcohol",28
+"Fiat",1.8,27780,"Gasoline",15
+"VW - VolksWagen",1,47913,"Gasoline",5
+"Mercedes-Benz",2.2,66549,"Diesel",13
+"VW - VolksWagen",2,100243,"Gasoline",10
+"Fiat",1.4,25559,"Gasoline",14
+"Fiat",2.3,75932,"Diesel",11
+"Fiat",1.8,23617,"Gasoline",17
+"Fiat",1.6,38510,"Gasoline",9
+"Mercedes-Benz",1.6,84180,"Diesel",7
+"Mercedes-Benz",2,31065,"Gasoline",16
+"VW - VolksWagen",2.8,7907,"Gasoline",31
+"Ford",3.2,94453,"Diesel",8
+"Ford",2.5,71293,"Gasoline",9
+"Fiat",1.4,36051,"Gasoline",13
+"GM - Chevrolet",2.8,81437,"Diesel",12
+"Ford",4.9,17302,"Alcohol",28
+"GM - Chevrolet",1,35533,"Gasoline",7
+"Fiat",1.8,55164,"Gasoline",9
+"VW - VolksWagen",1.8,14179,"Gasoline",26
+"Mercedes-Benz",3.5,129189,"Gasoline",12
+"GM - Chevrolet",2,33505,"Gasoline",13
+"GM - Chevrolet",1.4,23965,"Gasoline",14
+"VW - VolksWagen",1,12018,"Gasoline",21
+"Ford",2.8,31172,"Diesel",19
+"Ford",3.9,108354,"Diesel",14
+"Mercedes-Benz",5,199778,"Gasoline",19
+"Mercedes-Benz",5,119222,"Gasoline",25
+"GM - Chevrolet",1,19464,"Gasoline",14
+"GM - Chevrolet",2,40280,"Gasoline",12
+"GM - Chevrolet",1.8,6303,"Gasoline",34
+"VW - VolksWagen",2,85093,"Diesel",11
+"Ford",1.8,14587,"Gasoline",31
+"VW - VolksWagen",2,8223,"Gasoline",29
+"Ford",3.9,192958,"Diesel",13
+"GM - Chevrolet",2.5,224699,"Gasoline",0
+"Mercedes-Benz",2.2,77984,"Diesel",14
+"Mercedes-Benz",2.2,126562,"Diesel",7
+"Ford",3,42294,"Diesel",13
+"GM - Chevrolet",1.4,51517,"Gasoline",8
+"Ford",1.8,5507,"Gasoline",33
+"GM - Chevrolet",2.4,41034,"Gasoline",16
+"Fiat",2.8,25055,"Diesel",24
+"Mercedes-Benz",6.2,330722,"Gasoline",12
+"GM - Chevrolet",2,30372,"Gasoline",14
+"VW - VolksWagen",1.6,35453,"Gasoline",10
+"Mercedes-Benz",2,381503,"Gasoline",2
+"VW - VolksWagen",1.4,39270,"Gasoline",11
+"VW - VolksWagen",1.8,6481,"Gasoline",35
+"Fiat",1.8,42120,"Gasoline",9
+"Mercedes-Benz",2.2,241117,"Diesel",0
+"GM - Chevrolet",1,15237,"Gasoline",19
+"Ford",4,19965,"Gasoline",28
+"Fiat",1.6,32852,"Gasoline",11
+"GM - Chevrolet",1.4,24073,"Gasoline",13
+"Ford",1.6,34682,"Gasoline",12
+"Fiat",1.8,54872,"Gasoline",9
+"Mercedes-Benz",1.6,205060,"Gasoline",3
+"GM - Chevrolet",1,82791,"Gasoline",2
+"Ford",1.4,11954,"Gasoline",25
+"Ford",1.6,59109,"Gasoline",5
+"Ford",5,29784,"Gasoline",24
+"VW - VolksWagen",1.8,12021,"Gasoline",27
+"Ford",3,17149,"Gasoline",27
+"Fiat",1.8,42973,"Gasoline",13
+"Ford",1.8,7289,"Gasoline",30
+"GM - Chevrolet",2.4,57675,"Gasoline",11
+"Fiat",1.8,34779,"Gasoline",14
+"GM - Chevrolet",2,27235,"Gasoline",14
+"VW - VolksWagen",1.6,82600,"Gasoline",5
+"VW - VolksWagen",1.8,33322,"Gasoline",21
+"Fiat",1.6,4745,"Gasoline",33
+"Ford",3.9,58195,"Diesel",28
+"VW - VolksWagen",1.6,17340,"Alcohol",20
+"Ford",1.6,4597,"Gasoline",34
+"GM - Chevrolet",1,16291,"Gasoline",16
+"Fiat",1.8,41200,"Gasoline",10
+"VW - VolksWagen",1.8,10788,"Gasoline",30
+"VW - VolksWagen",1.6,58269,"Gasoline",7
+"Ford",3.6,21920,"Gasoline",29
+"GM - Chevrolet",1.6,28980,"Gasoline",25
+"VW - VolksWagen",1.8,19829,"Gasoline",22
+"GM - Chevrolet",1.4,65348,"Gasoline",6
+"GM - Chevrolet",1.4,68493,"Gasoline",4
+"Fiat",1,17359,"Gasoline",14
+"Fiat",1.4,52591,"Gasoline",9
+"VW - VolksWagen",1.8,31126,"Gasoline",15
+"Ford",3.5,72614,"Gasoline",10
+"VW - VolksWagen",2,19257,"Gasoline",22
+"Ford",4.9,56881,"Gasoline",25
+"Mercedes-Benz",5,35481,"Gasoline",31
+"Fiat",1.4,34673,"Gasoline",14
+"Fiat",1,40636,"Gasoline",4
+"GM - Chevrolet",2.2,23440,"Gasoline",23
+"Ford",5.8,46131,"Gasoline",24
+"Mercedes-Benz",5,101887,"Gasoline",28
+"Fiat",1.4,24250,"Gasoline",11
+"Ford",3.9,23252,"Diesel",32
+"GM - Chevrolet",3,43809,"Gasoline",12
+"Fiat",1.5,9265,"Alcohol",25
+"Mercedes-Benz",2.2,156494,"Diesel",5
+"VW - VolksWagen",1.6,42355,"Gasoline",10
+"VW - VolksWagen",1.6,8162,"Gasoline",32
+"Fiat",1.9,29284,"Gasoline",13
+"Mercedes-Benz",5.5,1155066,"Gasoline",6
+"GM - Chevrolet",1.6,12210,"Gasoline",25
+"VW - VolksWagen",1.8,24658,"Gasoline",18
+"Mercedes-Benz",3,681362,"Gasoline",0
+"GM - Chevrolet",2.5,29015,"Diesel",23
+"GM - Chevrolet",2.4,31419,"Gasoline",15
+"GM - Chevrolet",2.8,168458,"Diesel",4
+"Fiat",1.8,15629,"Gasoline",19
+"Fiat",1.8,39188,"Gasoline",11
+"Ford",2,7435,"Gasoline",28
+"Ford",2,56704,"Gasoline",9
+"Ford",3.8,13704,"Gasoline",29
+"VW - VolksWagen",1.6,30358,"Gasoline",13
+"GM - Chevrolet",1,105167,"Gasoline",3
+"Ford",1.8,5602,"Gasoline",36
+"VW - VolksWagen",1.6,38548,"Gasoline",12
+"Ford",1.8,6095,"Alcohol",28
+"Fiat",2,13153,"Gasoline",24
+"Mercedes-Benz",2.2,109838,"Diesel",8
+"Mercedes-Benz",3,26929,"Gasoline",32
+"VW - VolksWagen",1.8,26079,"Gasoline",15
+"GM - Chevrolet",1.6,13997,"Gasoline",24
+"Mercedes-Benz",1.8,118195,"Gasoline",10
+"Ford",1.6,11994,"Alcohol",20
+"Mercedes-Benz",1.6,93047,"Gasoline",8
+"Fiat",1.4,50851,"Gasoline",8
+"VW - VolksWagen",1,13658,"Gasoline",22
+"Ford",2.5,67717,"Gasoline",10
+"GM - Chevrolet",4.2,63406,"Diesel",25
+"Fiat",2.8,41917,"Diesel",18
+"VW - VolksWagen",1.6,25436,"Alcohol",17
+"Mercedes-Benz",1.6,195543,"Gasoline",5
+"VW - VolksWagen",2,86147,"Diesel",12
+"GM - Chevrolet",2.2,26667,"Gasoline",18
+"GM - Chevrolet",1.4,26248,"Gasoline",13
+"Mercedes-Benz",2.2,116386,"Diesel",8
+"Ford",1.6,20949,"Gasoline",17
+"VW - VolksWagen",1.6,45990,"Gasoline",12
+"VW - VolksWagen",2,95559,"Diesel",9
+"Fiat",1.5,190460,"Diesel",0
+"Fiat",1.8,73885,"Gasoline",6
+"Ford",4.9,20057,"Gasoline",28
+"VW - VolksWagen",1.6,54500,"Gasoline",8
+"GM - Chevrolet",4.2,82000,"Diesel",23
+"Mercedes-Benz",1.8,127624,"Gasoline",10
+"GM - Chevrolet",2.2,17316,"Gasoline",23
+"GM - Chevrolet",1.4,69388,"Gasoline",4
+"Ford",4.2,86728,"Diesel",22
+"GM - Chevrolet",2.8,156814,"Diesel",3
+"VW - VolksWagen",1.6,10652,"Gasoline",26
+"Ford",2,81742,"Gasoline",8
+"Mercedes-Benz",6.2,380834,"Gasoline",12
+"GM - Chevrolet",1.6,13494,"Gasoline",22
+"VW - VolksWagen",1,12839,"Gasoline",20
+"VW - VolksWagen",1.6,10631,"Gasoline",23
+"Mercedes-Benz",3,106711,"Gasoline",30
+"VW - VolksWagen",1.6,54659,"Gasoline",8
+"Fiat",1.8,27886,"Gasoline",13
+"GM - Chevrolet",1.4,16400,"Gasoline",19
+"GM - Chevrolet",1.6,10980,"Gasoline",27
+"VW - VolksWagen",1.8,7331,"Gasoline",28
+"Fiat",1,110978,"Gasoline",1
+"GM - Chevrolet",1,79623,"Gasoline",2
+"VW - VolksWagen",2,9399,"Gasoline",28
+"Ford",1,44707,"Gasoline",6
+"GM - Chevrolet",1.4,126905,"Gasoline",2
+"Mercedes-Benz",1.6,69674,"Gasoline",11
+"GM - Chevrolet",2,24649,"Gasoline",17
+"GM - Chevrolet",2.2,13427,"Gasoline",24
+"VW - VolksWagen",1.8,13609,"Gasoline",29
+"Mercedes-Benz",5,100798,"Gasoline",21
+"VW - VolksWagen",1,106560,"Gasoline",1
+"Ford",1,14507,"Gasoline",20
+"Fiat",1,68695,"Gasoline",0
+"Ford",2.8,34846,"Diesel",19
+"Fiat",2.3,153267,"Diesel",5
+"GM - Chevrolet",2,10434,"Gasoline",33
+"Mercedes-Benz",2.2,248878,"Diesel",1
+"GM - Chevrolet",2.8,193890,"Diesel",6
+"VW - VolksWagen",2,11740,"Gasoline",26
+"GM - Chevrolet",1.8,8646,"Gasoline",30
+"GM - Chevrolet",1.8,4035,"Gasoline",37
+"Ford",1.8,8146,"Gasoline",24
+"Ford",2.5,49283,"Diesel",22
+"GM - Chevrolet",1,50180,"Gasoline",7
+"VW - VolksWagen",1.8,13547,"Gasoline",27
+"VW - VolksWagen",1.6,28072,"Gasoline",17
+"GM - Chevrolet",2.2,19870,"Gasoline",26
+"Fiat",2.4,21647,"Gasoline",17
+"Mercedes-Benz",2.4,28758,"Gasoline",26
+"Fiat",1.5,8749,"Alcohol",26
+"Ford",2,28125,"Gasoline",16
+"GM - Chevrolet",1.5,209373,"Gasoline",0
+"VW - VolksWagen",1.6,31816,"Gasoline",13
+"Fiat",1.6,39868,"Gasoline",8
+"GM - Chevrolet",2,15999,"Gasoline",21
+"Ford",1,54467,"Gasoline",4
+"Ford",3.9,89617,"Diesel",15
+"Mercedes-Benz",2.2,85334,"Diesel",11
+"Mercedes-Benz",1.6,84510,"Gasoline",9
+"VW - VolksWagen",1.6,13920,"Alcohol",21
+"Fiat",1,23943,"Gasoline",10
+"Ford",2,7051,"Gasoline",26
+"Fiat",1.3,101486,"Gasoline",0
+"Fiat",1.4,37666,"Gasoline",9
+"GM - Chevrolet",2.8,56198,"Diesel",21
+"GM - Chevrolet",2.8,158102,"Diesel",4
+"GM - Chevrolet",1.4,127196,"Gasoline",1
+"Ford",1,27594,"Gasoline",10
+"Fiat",1,18804,"Gasoline",13
+"Fiat",2.3,98506,"Diesel",8
+"GM - Chevrolet",2,127136,"Gasoline",5
+"Fiat",1.8,26090,"Gasoline",15
+"VW - VolksWagen",1,19738,"Gasoline",17
+"VW - VolksWagen",1.6,29001,"Gasoline",16
+"VW - VolksWagen",1.6,18296,"Gasoline",22
+"VW - VolksWagen",1.6,48448,"Gasoline",7
+"VW - VolksWagen",1,48367,"Gasoline",8
+"Ford",1,19863,"Gasoline",13
+"GM - Chevrolet",4.1,18650,"Gasoline",35
+"Fiat",1,13722,"Gasoline",19
+"VW - VolksWagen",1.8,14642,"Gasoline",26
+"VW - VolksWagen",2,42604,"Gasoline",10
+"VW - VolksWagen",1.6,23769,"Gasoline",19
+"Fiat",1,46441,"Gasoline",5
+"Mercedes-Benz",2.2,135321,"Diesel",10
+"GM - Chevrolet",2.4,50336,"Gasoline",13
+"Fiat",1.8,32406,"Gasoline",16
+"GM - Chevrolet",1.4,62301,"Gasoline",6
+"Ford",2,20792,"Gasoline",20
+"Fiat",1.8,79929,"Gasoline",3
+"Ford",4.9,18586,"Alcohol",27
+"Mercedes-Benz",2,433180,"Gasoline",3
+"VW - VolksWagen",1.8,8242,"Alcohol",27
+"VW - VolksWagen",2,74323,"Gasoline",15
+"Ford",1,40928,"Gasoline",8
+"GM - Chevrolet",1,36638,"Gasoline",7
+"GM - Chevrolet",1.4,132205,"Gasoline",2
+"VW - VolksWagen",1.8,27516,"Gasoline",17
+"Fiat",1,9929,"Alcohol",23
+"Mercedes-Benz",3.5,169666,"Gasoline",9
+"Ford",1.8,14657,"Gasoline",21
+"GM - Chevrolet",2.8,46012,"Diesel",23
+"GM - Chevrolet",1.8,41352,"Gasoline",10
+"Ford",2,238252,"Gasoline",0
+"Fiat",2,7990,"Gasoline",27
+"Ford",1.6,8314,"Gasoline",27
+"VW - VolksWagen",1.8,10477,"Gasoline",25
+"Ford",2.2,69114,"Diesel",11
+"VW - VolksWagen",2,112920,"Diesel",7
+"Ford",1,12183,"Gasoline",21
+"GM - Chevrolet",1,104583,"Gasoline",0
+"GM - Chevrolet",2.4,59867,"Gasoline",11
+"GM - Chevrolet",6.5,43214,"Diesel",29
+"Mercedes-Benz",2.2,55336,"Diesel",18
+"GM - Chevrolet",1,104255,"Gasoline",2
+"Fiat",2,10533,"Gasoline",25
+"Fiat",1.4,43884,"Gasoline",7
+"Ford",4.2,111599,"Diesel",23
+"Ford",1.5,60082,"Gasoline",4
+"Fiat",1.8,25255,"Gasoline",15
+"VW - VolksWagen",1.8,10440,"Gasoline",33
+"VW - VolksWagen",2.5,54521,"Gasoline",12
+"VW - VolksWagen",1.6,82166,"Gasoline",1
+"Mercedes-Benz",2.2,174825,"Diesel",5
+"GM - Chevrolet",1.8,21918,"Gasoline",16
+"VW - VolksWagen",1.8,5619,"Gasoline",29
+"Fiat",1.5,13588,"Gasoline",23
+"Ford",4.2,145008,"Diesel",18
+"Mercedes-Benz",6,394896,"Gasoline",12
+"Mercedes-Benz",3,375248,"Diesel",4
+"Fiat",1.3,17189,"Gasoline",13
+"Ford",1,16635,"Gasoline",16
+"Ford",1.6,6262,"Gasoline",35
+"VW - VolksWagen",1.6,10714,"Gasoline",21
+"Ford",3.2,125611,"Diesel",9
+"GM - Chevrolet",2.1,12038,"Diesel",26
+"VW - VolksWagen",1.4,209909,"Gasoline",0
+"Ford",3.9,21022,"Diesel",37
+"Fiat",1.4,44208,"Gasoline",9
+"VW - VolksWagen",1.6,13680,"Gasoline",20
+"VW - VolksWagen",1.6,30478,"Gasoline",19
+"GM - Chevrolet",1,19628,"Gasoline",14
+"VW - VolksWagen",1,39033,"Gasoline",8
+"VW - VolksWagen",1.6,77605,"Gasoline",6
+"GM - Chevrolet",1.6,15475,"Gasoline",21
+"Fiat",1.9,37949,"Gasoline",10
+"VW - VolksWagen",2,31000,"Gasoline",17
+"Ford",4,27640,"Gasoline",21
+"GM - Chevrolet",4.1,20393,"Gasoline",34
+"Ford",3,74874,"Diesel",11
+"VW - VolksWagen",1.6,42121,"Gasoline",10
+"Fiat",1.3,94492,"Gasoline",2
+"Mercedes-Benz",2.2,152183,"Diesel",5
+"GM - Chevrolet",2.5,9407,"Gasoline",38
+"VW - VolksWagen",1.6,37492,"Gasoline",10
+"Mercedes-Benz",2,180028,"Gasoline",7
+"GM - Chevrolet",5,23284,"Gasoline",28
+"VW - VolksWagen",1.8,35452,"Gasoline",19
+"Mercedes-Benz",4.3,85795,"Gasoline",23
+"VW - VolksWagen",1,137047,"Gasoline",0
+"VW - VolksWagen",2.5,54101,"Gasoline",12
+"Ford",1.6,33010,"Gasoline",14
+"Fiat",1.8,39905,"Gasoline",11
+"Mercedes-Benz",5,58568,"Gasoline",26
+"VW - VolksWagen",1.8,13980,"Gasoline",24
+"Ford",2,34770,"Gasoline",12
+"GM - Chevrolet",2.4,60538,"Gasoline",12
+"VW - VolksWagen",2.5,65940,"Gasoline",10
+"GM - Chevrolet",2,29587,"Gasoline",14
+"Mercedes-Benz",3,203773,"Diesel",8
+"Mercedes-Benz",1.6,140485,"Gasoline",5
+"VW - VolksWagen",2.4,31126,"Diesel",24
+"GM - Chevrolet",4.1,19274,"Gasoline",27
+"VW - VolksWagen",1.6,22159,"Gasoline",22
+"GM - Chevrolet",1.4,48203,"Gasoline",7
+"VW - VolksWagen",1.8,9906,"Gasoline",30
+"Ford",2,26415,"Gasoline",18
+"GM - Chevrolet",2.8,196330,"Diesel",4
+"VW - VolksWagen",1.6,24221,"Gasoline",16
+"VW - VolksWagen",1.4,36452,"Gasoline",12
+"GM - Chevrolet",2.8,155375,"Diesel",8
+"VW - VolksWagen",1,28804,"Gasoline",11
+"VW - VolksWagen",1.8,21757,"Alcohol",18
+"Ford",2.3,57204,"Gasoline",12
+"GM - Chevrolet",2.8,134592,"Diesel",9
+"GM - Chevrolet",4,26908,"Diesel",34
+"Fiat",1.8,13558,"Gasoline",20
+"GM - Chevrolet",1.4,36807,"Gasoline",11
+"Fiat",1.8,23452,"Gasoline",15
+"Mercedes-Benz",2,175959,"Gasoline",7
+"Ford",2,21349,"Gasoline",29
+"GM - Chevrolet",1.8,115215,"Gasoline",0
+"GM - Chevrolet",3.8,27859,"Gasoline",20
+"GM - Chevrolet",2.5,29052,"Diesel",25
+"Ford",2,9851,"Gasoline",28
+"VW - VolksWagen",2,22621,"Gasoline",19
+"Mercedes-Benz",1.6,160514,"Gasoline",5
+"VW - VolksWagen",1.6,69646,"Gasoline",4
+"Ford",3.2,121252,"Diesel",8
+"VW - VolksWagen",1.6,41385,"Gasoline",10
+"VW - VolksWagen",1.6,11159,"Gasoline",28
+"Fiat",1.3,51730,"Gasoline",5
+"GM - Chevrolet",1,30625,"Gasoline",9
+"VW - VolksWagen",1.6,6012,"Gasoline",31
+"Mercedes-Benz",1.8,106665,"Gasoline",9
+"GM - Chevrolet",1.4,38939,"Gasoline",12
+"Fiat",1.5,13271,"Gasoline",24
+"VW - VolksWagen",1.6,15710,"Gasoline",23
+"VW - VolksWagen",1.8,25959,"Gasoline",15
+"VW - VolksWagen",1.6,13846,"Alcohol",21
+"Fiat",1.8,58195,"Gasoline",7
+"Ford",2.2,200395,"Diesel",1
+"VW - VolksWagen",2,9929,"Gasoline",28
+"VW - VolksWagen",2,129361,"Gasoline",9
+"VW - VolksWagen",1,136028,"Gasoline",0
+"Fiat",1.8,56251,"Gasoline",6
+"Fiat",2,109193,"Diesel",6
+"GM - Chevrolet",1,19039,"Gasoline",15
+"Ford",1.6,48327,"Gasoline",7
+"VW - VolksWagen",1.8,9206,"Gasoline",27
+"Ford",3,24855,"Gasoline",25
+"VW - VolksWagen",1.8,11459,"Gasoline",26
+"GM - Chevrolet",2.2,9172,"Gasoline",30
+"Mercedes-Benz",5,130524,"Gasoline",22
+"Mercedes-Benz",3.5,66170,"Gasoline",16
+"Mercedes-Benz",1.8,57989,"Gasoline",14
+"VW - VolksWagen",1.6,29854,"Gasoline",14
+"Ford",2,21510,"Gasoline",19
+"Fiat",1.5,16632,"Alcohol",20
+"GM - Chevrolet",3.9,57666,"Diesel",32
+"Fiat",1,13991,"Gasoline",21
+"Fiat",1.8,18311,"Gasoline",19
+"Fiat",1.4,101480,"Gasoline",0
+"Mercedes-Benz",2.2,42000,"Diesel",19
+"Ford",3.9,146870,"Diesel",13
+"VW - VolksWagen",1.6,40320,"Gasoline",10
+"VW - VolksWagen",2,8092,"Gasoline",29
+"Ford",2.5,46597,"Gasoline",11
+"GM - Chevrolet",3.8,29518,"Gasoline",19
+"Mercedes-Benz",2,263646,"Gasoline",5
+"Ford",3.2,139528,"Diesel",8
+"Fiat",2.8,25615,"Diesel",23
+"GM - Chevrolet",1,20176,"Gasoline",16
+"VW - VolksWagen",1.6,35630,"Gasoline",10
+"VW - VolksWagen",1.6,46738,"Gasoline",8
+"Fiat",1,10834,"Gasoline",26
+"Mercedes-Benz",2.3,24154,"Gasoline",33
+"Mercedes-Benz",1.9,15292,"Gasoline",19
+"Fiat",1.3,17055,"Gasoline",20
+"Ford",1,11939,"Gasoline",17
+"Fiat",1.5,2752,"Gasoline",37
+"VW - VolksWagen",1.6,11821,"Gasoline",20
+"GM - Chevrolet",2.5,125578,"Gasoline",6
+"Fiat",1.5,10485,"Gasoline",29
+"GM - Chevrolet",1.8,21357,"Gasoline",16
+"Mercedes-Benz",2.3,20873,"Gasoline",36
+"GM - Chevrolet",2.8,204252,"Diesel",5
+"GM - Chevrolet",1.8,60357,"Gasoline",7
+"Ford",1.5,52945,"Gasoline",5
+"Ford",2,243984,"Gasoline",0
+"GM - Chevrolet",5.7,27545,"Gasoline",30
+"VW - VolksWagen",1,26952,"Gasoline",9
+"Mercedes-Benz",1.8,59208,"Gasoline",12
+"Fiat",1.4,54040,"Gasoline",8
+"VW - VolksWagen",1.6,14145,"Gasoline",21
+"Ford",1,10904,"Gasoline",23
+"Ford",1.5,59584,"Gasoline",4
+"Ford",2.5,42369,"Gasoline",12
+"Fiat",1.8,45862,"Gasoline",7
+"GM - Chevrolet",1.6,7163,"Gasoline",35
+"Fiat",1.4,14383,"Gasoline",28
+"VW - VolksWagen",1.6,82160,"Gasoline",2
+"GM - Chevrolet",2.5,187084,"Gasoline",0
+"GM - Chevrolet",4.3,25193,"Gasoline",26
+"VW - VolksWagen",2,201942,"Diesel",4
+"Fiat",1.8,72140,"Gasoline",4
+"Ford",2.3,38932,"Gasoline",16
+"VW - VolksWagen",1.8,14783,"Gasoline",24
+"Ford",3.2,117462,"Diesel",9
+"GM - Chevrolet",1.8,117288,"Gasoline",0
+"GM - Chevrolet",2.8,73830,"Diesel",14
+"Fiat",1,8253,"Gasoline",24
+"VW - VolksWagen",3,210070,"Diesel",5
+"Fiat",2,171064,"Diesel",1
+"GM - Chevrolet",2.4,84400,"Gasoline",10
+"Fiat",1.5,3091,"Gasoline",38
+"GM - Chevrolet",1,19022,"Gasoline",16
+"Ford",3,47178,"Diesel",18
+"Fiat",1.8,25298,"Gasoline",15
+"Fiat",2,29150,"Gasoline",20
+"Fiat",1.4,52179,"Gasoline",9
+"GM - Chevrolet",4,45872,"Diesel",31
+"Fiat",1.6,12057,"Gasoline",24
+"Mercedes-Benz",3.5,241639,"Gasoline",13
+"Ford",3.9,17807,"Diesel",35
+"VW - VolksWagen",1.8,18844,"Gasoline",23
+"Ford",2.8,54010,"Diesel",19
+"Ford",2.3,60015,"Gasoline",12
+"Fiat",1.3,19922,"Gasoline",18
+"Fiat",1,49949,"Gasoline",0
+"Fiat",1.8,39751,"Gasoline",14
+"Mercedes-Benz",3.5,159062,"Gasoline",10
+"Mercedes-Benz",2.5,32185,"Diesel",26
+"GM - Chevrolet",1.8,21914,"Gasoline",18
+"GM - Chevrolet",1.8,75930,"Gasoline",7
+"Mercedes-Benz",6,354303,"Gasoline",13
+"Mercedes-Benz",3.2,94098,"Gasoline",24
+"GM - Chevrolet",1.8,40966,"Gasoline",10
+"VW - VolksWagen",1.6,38021,"Gasoline",10
+"GM - Chevrolet",6.2,261062,"Gasoline",8
+"Mercedes-Benz",3.5,104481,"Gasoline",15
+"Mercedes-Benz",3,74686,"Gasoline",13
+"VW - VolksWagen",1,18353,"Gasoline",20
+"Ford",1.6,12711,"Gasoline",29
+"GM - Chevrolet",2,33119,"Gasoline",14
+"Fiat",1.8,34663,"Gasoline",11
+"Ford",2.3,9571,"Gasoline",37
+"GM - Chevrolet",1.2,153885,"Gasoline",0
+"VW - VolksWagen",2,21157,"Gasoline",21
+"Mercedes-Benz",1.6,83666,"Gasoline",9
+"Fiat",2,8535,"Gasoline",27
+"Ford",1.8,6513,"Gasoline",33
+"GM - Chevrolet",1.4,98450,"Gasoline",4
+"Mercedes-Benz",6,264856,"Gasoline",15
+"Fiat",1.6,3460,"Gasoline",37
+"VW - VolksWagen",1.6,17319,"Gasoline",23
+"Fiat",2,10495,"Gasoline",23
+"Fiat",1.5,6266,"Gasoline",30
+"Fiat",2,11871,"Gasoline",24
+"Fiat",1.6,9312,"Gasoline",25
+"Mercedes-Benz",3,93955,"Gasoline",10
+"GM - Chevrolet",1.8,114300,"Gasoline",1
+"Fiat",1.8,47198,"Gasoline",8
+"VW - VolksWagen",1.8,9899,"Alcohol",25
+"GM - Chevrolet",1,55036,"Gasoline",4
+"GM - Chevrolet",1,67786,"Gasoline",2
+"GM - Chevrolet",6.5,50487,"Diesel",28
+"VW - VolksWagen",1.8,14636,"Gasoline",28
+"Fiat",1,28070,"Gasoline",8
+"Mercedes-Benz",6,61955,"Gasoline",28
+"VW - VolksWagen",1.6,60226,"Gasoline",9
+"Mercedes-Benz",2.2,75249,"Diesel",15
+"Ford",2.8,48878,"Diesel",18
+"GM - Chevrolet",4,61360,"Diesel",27
+"Fiat",1,13366,"Gasoline",18
+"Fiat",1.8,38935,"Gasoline",12
+"Mercedes-Benz",5,116697,"Gasoline",20
+"VW - VolksWagen",2.8,23808,"Gasoline",20
+"Mercedes-Benz",1.8,77112,"Gasoline",12
+"Ford",2.5,93059,"Gasoline",9
+"Ford",1.4,11714,"Gasoline",25
+"Fiat",1.5,12216,"Gasoline",22
+"VW - VolksWagen",1.8,16761,"Gasoline",22
+"VW - VolksWagen",1,14044,"Gasoline",21
+"GM - Chevrolet",2,32963,"Gasoline",12
+"GM - Chevrolet",2.5,13610,"Gasoline",34
+"Mercedes-Benz",3.2,65813,"Gasoline",30
+"GM - Chevrolet",5.7,115557,"Gasoline",21
+"Ford",1,47859,"Gasoline",5
+"VW - VolksWagen",2,32497,"Gasoline",16
+"GM - Chevrolet",1,9007,"Gasoline",26
+"GM - Chevrolet",1,91257,"Gasoline",0
+"GM - Chevrolet",2.8,46028,"Diesel",19
+"Ford",4,16639,"Gasoline",30
+"Fiat",1.6,39562,"Gasoline",10
+"Mercedes-Benz",1.6,89356,"Gasoline",8
+"Ford",2.5,14605,"Gasoline",24
+"VW - VolksWagen",1.6,30228,"Gasoline",14
+"Ford",1.6,18204,"Gasoline",26
+"VW - VolksWagen",1.6,8373,"Gasoline",34
+"Fiat",1.6,8474,"Gasoline",28
+"Ford",3.2,143656,"Diesel",8
+"Mercedes-Benz",2.8,33176,"Gasoline",30
+"GM - Chevrolet",5,38104,"Gasoline",29
+"Ford",2.7,278595,"Gasoline",4
+"VW - VolksWagen",2,140145,"Diesel",4
+"Mercedes-Benz",2,51126,"Gasoline",12
+"GM - Chevrolet",2,35612,"Gasoline",13
+"Ford",1.6,56268,"Gasoline",6
+"Mercedes-Benz",2.2,219617,"Diesel",2
+"Mercedes-Benz",3.2,48732,"Gasoline",21
+"GM - Chevrolet",4.1,20808,"Gasoline",28
+"Mercedes-Benz",4,714426,"Gasoline",5
+"Mercedes-Benz",2,348301,"Gasoline",4
+"Fiat",1,24105,"Gasoline",11
+"VW - VolksWagen",1.6,29609,"Gasoline",15
+"VW - VolksWagen",2,36715,"Gasoline",15
+"Fiat",1.6,10251,"Gasoline",26
+"VW - VolksWagen",1.6,34909,"Gasoline",12
+"VW - VolksWagen",1,47052,"Gasoline",7
+"VW - VolksWagen",1,117473,"Gasoline",0
+"VW - VolksWagen",2,41802,"Gasoline",11
+"Fiat",2,87099,"Diesel",7
+"GM - Chevrolet",4.3,29086,"Gasoline",24
+"GM - Chevrolet",1.4,40203,"Gasoline",10
+"VW - VolksWagen",2.5,46352,"Gasoline",13
+"Fiat",1,17381,"Gasoline",14
+"GM - Chevrolet",3.6,43499,"Gasoline",14
+"Mercedes-Benz",2.2,154067,"Diesel",7
+"Fiat",1.6,43987,"Gasoline",7
+"Ford",1.5,206630,"Gasoline",0
+"Fiat",1.4,48275,"Gasoline",9
+"VW - VolksWagen",1,21425,"Gasoline",14
+"Fiat",1.5,12396,"Gasoline",28
+"GM - Chevrolet",3,48769,"Gasoline",11
+"VW - VolksWagen",1.6,26120,"Gasoline",14
+"GM - Chevrolet",4.1,27162,"Gasoline",29
+"VW - VolksWagen",1.8,13343,"Alcohol",21
+"Ford",2,58697,"Gasoline",8
+"Fiat",1.6,31451,"Gasoline",12
+"Ford",1.8,7854,"Gasoline",29
+"VW - VolksWagen",2,12466,"Gasoline",21
+"Mercedes-Benz",3,422777,"Gasoline",5
+"Mercedes-Benz",2.4,26135,"Gasoline",26
+"VW - VolksWagen",1.8,36009,"Gasoline",15
+"GM - Chevrolet",2,8459,"Alcohol",28
+"VW - VolksWagen",1,12845,"Alcohol",19
+"Ford",3,48040,"Diesel",18
+"Mercedes-Benz",5.5,1175746,"Gasoline",7
+"Fiat",1,28452,"Gasoline",9
+"VW - VolksWagen",1.6,7295,"Gasoline",36
+"VW - VolksWagen",1.6,55247,"Gasoline",8
+"Ford",1.6,4353,"Gasoline",35
+"Mercedes-Benz",2.2,125137,"Diesel",9
+"Mercedes-Benz",1.5,291748,"Gasoline",3
+"VW - VolksWagen",1,50053,"Gasoline",6
+"Fiat",1.5,8399,"Gasoline",31
+"GM - Chevrolet",1,14811,"Gasoline",17
+"Ford",4.2,75131,"Diesel",24
+"VW - VolksWagen",1.6,36876,"Gasoline",11
+"Fiat",1.8,68591,"Gasoline",6
+"Fiat",1.8,27324,"Gasoline",16
+"VW - VolksWagen",1.8,13367,"Gasoline",29
+"GM - Chevrolet",1,28249,"Gasoline",10
+"VW - VolksWagen",2,14471,"Gasoline",27
+"VW - VolksWagen",1.6,43937,"Gasoline",9
+"Mercedes-Benz",2.2,193712,"Diesel",2
+"Fiat",1.6,46200,"Gasoline",7
+"VW - VolksWagen",2.8,11502,"Gasoline",28
+"Fiat",1.8,21521,"Gasoline",18
+"VW - VolksWagen",1.6,36529,"Gasoline",10
+"VW - VolksWagen",1.8,37550,"Gasoline",17
+"GM - Chevrolet",2.5,30486,"Diesel",25
+"GM - Chevrolet",2.2,11863,"Gasoline",26
+"GM - Chevrolet",2.5,98934,"Gasoline",7
+"VW - VolksWagen",1.6,12656,"Alcohol",23
+"GM - Chevrolet",1.4,52747,"Gasoline",7
+"VW - VolksWagen",2,11948,"Gasoline",26
+"Ford",1.8,11046,"Gasoline",24
+"Mercedes-Benz",2.4,36715,"Gasoline",24
+"Ford",1,10169,"Gasoline",23
+"VW - VolksWagen",1.6,42038,"Gasoline",7
+"Mercedes-Benz",2.2,231045,"Diesel",0
+"VW - VolksWagen",1,53825,"Gasoline",7
+"Ford",2,113635,"Gasoline",5
+"Ford",2.5,23924,"Gasoline",22
+"VW - VolksWagen",1.8,36985,"Gasoline",18
+"Fiat",1.8,27523,"Gasoline",16
+"VW - VolksWagen",1.6,30151,"Gasoline",13
+"Ford",1.5,65087,"Gasoline",3
+"Fiat",1.8,25957,"Gasoline",14
+"Mercedes-Benz",2.2,71161,"Diesel",13
+"VW - VolksWagen",1.6,66225,"Gasoline",5
+"GM - Chevrolet",2.8,57230,"Diesel",20
+"GM - Chevrolet",2.8,59593,"Diesel",19
+"Ford",1,16823,"Gasoline",20
+"Mercedes-Benz",4,1026837,"Gasoline",3
+"Ford",1.6,44295,"Gasoline",9
+"Fiat",1.4,68323,"Gasoline",9
+"VW - VolksWagen",2.8,11732,"Gasoline",28
+"GM - Chevrolet",2,25289,"Gasoline",19
+"Mercedes-Benz",1.6,90342,"Gasoline",9
+"GM - Chevrolet",1,14500,"Gasoline",17
+"Fiat",2,8824,"Gasoline",28
+"Fiat",1.6,48566,"Gasoline",7
+"VW - VolksWagen",2.8,13807,"Gasoline",25
+"Mercedes-Benz",6,450548,"Gasoline",12
+"Mercedes-Benz",6.2,281992,"Gasoline",10
+"Ford",2.5,83359,"Gasoline",7
+"GM - Chevrolet",2.2,27313,"Gasoline",24
+"Mercedes-Benz",5,84406,"Gasoline",16
+"Fiat",1,8489,"Gasoline",30
+"Ford",2,15918,"Gasoline",22
+"VW - VolksWagen",2,5987,"Gasoline",31
+"VW - VolksWagen",1.8,18223,"Gasoline",24
+"Fiat",1.8,7109,"Gasoline",24
+"Mercedes-Benz",3.5,104174,"Gasoline",13
+"VW - VolksWagen",2,23334,"Gasoline",26
+"Ford",3,48479,"Diesel",16
+"Fiat",1.8,61350,"Gasoline",5
+"GM - Chevrolet",4.1,12714,"Gasoline",37
+"VW - VolksWagen",1.8,79050,"Gasoline",16
+"GM - Chevrolet",1.6,7752,"Gasoline",33
+"Fiat",1,17670,"Gasoline",17
+"Mercedes-Benz",2.2,107656,"Diesel",11
+"GM - Chevrolet",2,26549,"Gasoline",18
+"Mercedes-Benz",2.6,29767,"Gasoline",31
+"VW - VolksWagen",1,22534,"Gasoline",16
+"Ford",1.6,65145,"Gasoline",6
+"Mercedes-Benz",3.5,150665,"Gasoline",16
+"GM - Chevrolet",4.2,46437,"Diesel",26
+"VW - VolksWagen",1,13202,"Gasoline",19
+"Ford",3,10446,"Gasoline",30
+"VW - VolksWagen",2,18402,"Gasoline",22
+"Ford",2.5,36534,"Diesel",23
+"Fiat",1.8,16500,"Gasoline",20
+"Fiat",1.6,5327,"Gasoline",33
+"VW - VolksWagen",2,31566,"Gasoline",16
+"Ford",2,10077,"Gasoline",27
+"GM - Chevrolet",5.7,41200,"Gasoline",29
+"GM - Chevrolet",4.1,30726,"Gasoline",34
+"GM - Chevrolet",2,40219,"Gasoline",11
+"GM - Chevrolet",2,25821,"Gasoline",16
+"GM - Chevrolet",2.8,182230,"Diesel",2
+"VW - VolksWagen",1.3,5331,"Gasoline",36
+"Fiat",1.8,28995,"Gasoline",14
+"Mercedes-Benz",2.2,82034,"Diesel",11
+"VW - VolksWagen",2,116427,"Diesel",10
+"Fiat",1.6,42434,"Gasoline",7
+"Fiat",1.5,5544,"Gasoline",36
+"VW - VolksWagen",1.6,24626,"Gasoline",18
+"VW - VolksWagen",2,17505,"Gasoline",24
+"VW - VolksWagen",1.6,54801,"Gasoline",8
+"Ford",2,239955,"Diesel",0
+"VW - VolksWagen",2,94048,"Diesel",10
+"Fiat",2.8,34336,"Diesel",21
+"Mercedes-Benz",3,415918,"Gasoline",4
+"Ford",1.8,4441,"Gasoline",35
+"Fiat",2.5,19001,"Diesel",25
+"Ford",1.6,6617,"Gasoline",30
+"VW - VolksWagen",2,13621,"Gasoline",25
+"Fiat",1.8,32113,"Gasoline",13
+"GM - Chevrolet",1,123766,"Gasoline",0
+"VW - VolksWagen",1.6,71742,"Gasoline",4
+"Fiat",1,8339,"Gasoline",24
+"Mercedes-Benz",1.6,184741,"Gasoline",3
+"GM - Chevrolet",1.4,147138,"Gasoline",0
+"Fiat",1.6,3652,"Gasoline",36
+"Ford",2,8896,"Gasoline",25
+"Fiat",1.6,4131,"Gasoline",34
+"Fiat",1.4,53125,"Gasoline",8
+"GM - Chevrolet",1.8,68478,"Gasoline",4
+"GM - Chevrolet",2.8,265347,"Diesel",0
+"VW - VolksWagen",1,62910,"Gasoline",3
+"VW - VolksWagen",2.8,26858,"Gasoline",22
+"GM - Chevrolet",1,64101,"Gasoline",2
+"GM - Chevrolet",2.8,65339,"Diesel",16
+"Mercedes-Benz",2.2,125605,"Diesel",10
+"GM - Chevrolet",4.3,30890,"Gasoline",23
+"GM - Chevrolet",4.3,26543,"Gasoline",28
+"Mercedes-Benz",1.7,33867,"Gasoline",14
+"Fiat",1.6,10984,"Gasoline",22
+"Mercedes-Benz",3,521716,"Gasoline",4
+"VW - VolksWagen",1.8,23969,"Gasoline",19
+"Fiat",1.5,5782,"Gasoline",32
+"GM - Chevrolet",1.4,24509,"Gasoline",12
+"Mercedes-Benz",5.5,315825,"Gasoline",10
+"Ford",1.8,10956,"Gasoline",21
+"VW - VolksWagen",1.6,38784,"Gasoline",11
+"GM - Chevrolet",1.6,5391,"Gasoline",34
+"Ford",1.6,28424,"Gasoline",13
+"Ford",1.3,9191,"Gasoline",24
+"Ford",1.6,17179,"Gasoline",17
+"Mercedes-Benz",5.5,95348,"Gasoline",20
+"Ford",2,27399,"Gasoline",15
+"VW - VolksWagen",1.4,39604,"Gasoline",11
+"Mercedes-Benz",5,85119,"Gasoline",22
+"Fiat",1.8,48893,"Gasoline",8
+"Mercedes-Benz",3.2,36878,"Gasoline",22
+"Fiat",1.8,48079,"Gasoline",7
+"GM - Chevrolet",1.4,69267,"Gasoline",4
+"Mercedes-Benz",5.5,293192,"Gasoline",9
+"VW - VolksWagen",2.8,29811,"Gasoline",18
+"Mercedes-Benz",2,270599,"Gasoline",4
+"VW - VolksWagen",2,19446,"Gasoline",22
+"Ford",1,16858,"Gasoline",18
+"Fiat",1,21811,"Gasoline",15
+"Fiat",1.8,23779,"Gasoline",16
+"VW - VolksWagen",1.6,33434,"Gasoline",10
+"Fiat",1.4,41655,"Gasoline",7
+"Ford",1.8,12806,"Gasoline",32
+"Fiat",1.8,39119,"Gasoline",12
+"Fiat",1.8,63334,"Gasoline",9
+"Ford",2,9799,"Gasoline",28
+"Mercedes-Benz",1.8,65407,"Gasoline",13
+"GM - Chevrolet",5.7,109498,"Gasoline",28
+"GM - Chevrolet",1.4,131521,"Gasoline",1
+"Ford",2,66193,"Gasoline",7
+"GM - Chevrolet",2.5,154126,"Gasoline",2
+"VW - VolksWagen",1.6,44647,"Gasoline",8
+"GM - Chevrolet",2.8,75570,"Diesel",14
+"VW - VolksWagen",1.6,34854,"Gasoline",12
+"VW - VolksWagen",1.6,53957,"Gasoline",9
+"Ford",4.9,21864,"Gasoline",28
+"GM - Chevrolet",2.4,39771,"Gasoline",15
+"Fiat",1.4,29077,"Gasoline",12
+"VW - VolksWagen",2,170624,"Gasoline",4
+"GM - Chevrolet",1,12806,"Gasoline",22
+"VW - VolksWagen",1,22139,"Gasoline",16
+"GM - Chevrolet",2,22558,"Gasoline",18
+"GM - Chevrolet",1.4,75559,"Gasoline",4
+"Ford",4,34503,"Gasoline",21
+"Mercedes-Benz",2.2,108842,"Diesel",9
+"Fiat",1.8,48521,"Gasoline",11
+"Fiat",1,49509,"Gasoline",3
+"Fiat",1,27770,"Gasoline",11
+"Fiat",1,37271,"Gasoline",7
+"VW - VolksWagen",3.6,225696,"Gasoline",6
+"GM - Chevrolet",1.4,165955,"Gasoline",0
+"VW - VolksWagen",1.6,12556,"Alcohol",23
+"VW - VolksWagen",1,70791,"Gasoline",4
+"GM - Chevrolet",4.1,23957,"Gasoline",31
+"VW - VolksWagen",2,124371,"Gasoline",8
+"VW - VolksWagen",1.6,39521,"Gasoline",11
+"Mercedes-Benz",1.8,51727,"Gasoline",15
+"Fiat",1.8,59478,"Gasoline",8
+"Mercedes-Benz",2.2,125439,"Diesel",8
+"Fiat",1,10569,"Gasoline",27
+"VW - VolksWagen",1.8,15818,"Gasoline",27
+"Fiat",1.6,9993,"Gasoline",24
+"VW - VolksWagen",2,278893,"Diesel",2
+"Fiat",1,25764,"Gasoline",12
+"Ford",1.6,27431,"Gasoline",13
+"Fiat",2,136978,"Diesel",4
+"Mercedes-Benz",3,409220,"Gasoline",5
+"Fiat",2.8,30666,"Diesel",23
+"GM - Chevrolet",1.8,41386,"Gasoline",10
+"Mercedes-Benz",3,356406,"Gasoline",6
+"GM - Chevrolet",4.3,21713,"Gasoline",25
+"GM - Chevrolet",2.2,18092,"Gasoline",21
+"VW - VolksWagen",1.6,69602,"Gasoline",4
+"Fiat",1.5,20623,"Gasoline",23
+"VW - VolksWagen",1.6,45072,"Gasoline",8
+"VW - VolksWagen",1.6,41950,"Gasoline",10
+"GM - Chevrolet",2.2,25154,"Gasoline",24
+"VW - VolksWagen",1.6,52402,"Gasoline",7
+"GM - Chevrolet",2.2,27424,"Gasoline",23
+"Ford",3,8113,"Gasoline",31
+"Fiat",1.8,52320,"Gasoline",7
+"Mercedes-Benz",6,280136,"Gasoline",15
+"Mercedes-Benz",4,762038,"Gasoline",3
+"Fiat",1.6,40745,"Gasoline",8
+"Fiat",2.4,28759,"Gasoline",17
+"Ford",1.6,62452,"Gasoline",7
+"Mercedes-Benz",2,254903,"Gasoline",6
+"GM - Chevrolet",1.8,26169,"Gasoline",14
+"Mercedes-Benz",6,113878,"Gasoline",22
+"Fiat",1.8,35408,"Gasoline",14
+"GM - Chevrolet",2,21495,"Gasoline",20
+"Ford",4.2,46535,"Gasoline",21
+"Mercedes-Benz",3.5,105847,"Gasoline",13
+"Fiat",1.8,10276,"Gasoline",22
+"Ford",1.6,8356,"Gasoline",31
+"Ford",3,82012,"Diesel",12
+"Fiat",1,34902,"Gasoline",9
+"GM - Chevrolet",2,37053,"Gasoline",13
+"Ford",3.2,212190,"Diesel",3
+"Ford",1.8,7142,"Gasoline",28
+"Fiat",1.5,6347,"Gasoline",33
+"Ford",1.5,77900,"Gasoline",2
+"VW - VolksWagen",1.6,28258,"Gasoline",13
+"GM - Chevrolet",1.6,39696,"Gasoline",9
+"VW - VolksWagen",2,27586,"Gasoline",26
+"GM - Chevrolet",1,34859,"Gasoline",8
+"Mercedes-Benz",1.6,120345,"Gasoline",8
+"VW - VolksWagen",1.6,44854,"Gasoline",8
+"Fiat",1,14820,"Gasoline",18
+"Ford",3.9,106512,"Diesel",13
+"Ford",2,38778,"Gasoline",11
+"GM - Chevrolet",1.5,169158,"Gasoline",3
+"GM - Chevrolet",1,13535,"Alcohol",18
+"Fiat",1.8,21549,"Gasoline",18
+"GM - Chevrolet",3.9,54069,"Diesel",33
+"VW - VolksWagen",1.6,47399,"Gasoline",6
+"GM - Chevrolet",2.2,18251,"Gasoline",28
+"VW - VolksWagen",2,109129,"Gasoline",9
+"Fiat",2.4,121989,"Gasoline",4
+"VW - VolksWagen",1.8,6611,"Gasoline",28
+"Mercedes-Benz",4.7,267083,"Gasoline",10
+"Ford",1.6,33046,"Gasoline",12
+"Mercedes-Benz",1.3,296931,"Gasoline",1
+"GM - Chevrolet",4.1,27069,"Gasoline",28
+"VW - VolksWagen",1.8,11161,"Gasoline",30
+"Ford",1.6,35016,"Gasoline",12
+"Fiat",2.5,25560,"Diesel",25
+"Fiat",1.8,41959,"Gasoline",13
+"VW - VolksWagen",2,80886,"Gasoline",7
+"Fiat",1,78743,"Gasoline",0
+"Fiat",1.4,58517,"Gasoline",8
+"Fiat",1.8,30273,"Gasoline",15
+"Fiat",1.8,65027,"Gasoline",6
+"Ford",2,39521,"Gasoline",12
+"VW - VolksWagen",1.6,18169,"Alcohol",20
+"Ford",1.3,10336,"Gasoline",25
+"GM - Chevrolet",1.4,27962,"Gasoline",12
+"Fiat",1.8,55495,"Gasoline",7
+"Fiat",2.8,48911,"Diesel",17
+"GM - Chevrolet",2.2,11449,"Gasoline",27
+"Mercedes-Benz",5,113624,"Gasoline",15
+"VW - VolksWagen",1.6,24525,"Gasoline",18
+"GM - Chevrolet",1.4,41602,"Gasoline",9
+"Fiat",2.3,92216,"Diesel",10
+"GM - Chevrolet",2.4,27101,"Gasoline",16
+"Ford",3.9,114943,"Diesel",14
+"Mercedes-Benz",2,34869,"Gasoline",15
+"GM - Chevrolet",1.4,15796,"Gasoline",18
+"GM - Chevrolet",1.4,57163,"Gasoline",5
+"Fiat",1.4,39548,"Gasoline",9
+"GM - Chevrolet",1,16880,"Alcohol",17
+"Fiat",2.8,26579,"Diesel",24
+"GM - Chevrolet",2,14875,"Gasoline",22
+"GM - Chevrolet",4.1,10563,"Gasoline",37
+"Ford",2.5,43199,"Gasoline",12
+"Ford",1.6,55012,"Gasoline",5
+"Mercedes-Benz",2.2,211897,"Diesel",0
+"Ford",3.9,49112,"Diesel",33
+"VW - VolksWagen",1.6,13206,"Gasoline",22
+"Mercedes-Benz",4,2303546,"Gasoline",3
+"GM - Chevrolet",6.2,368102,"Gasoline",6
+"VW - VolksWagen",1.6,35671,"Gasoline",11
+"Fiat",1.8,45972,"Gasoline",9
+"GM - Chevrolet",4.1,31731,"Gasoline",31
+"GM - Chevrolet",1,48946,"Gasoline",6
+"Fiat",1,24689,"Gasoline",13
+"Ford",4.9,15688,"Gasoline",30
+"GM - Chevrolet",1,100159,"Gasoline",0
+"VW - VolksWagen",1.8,23854,"Gasoline",19
+"Fiat",1.5,10488,"Alcohol",23
+"GM - Chevrolet",1.8,6248,"Gasoline",33
+"GM - Chevrolet",2.8,53149,"Diesel",18
+"Fiat",1.4,86201,"Gasoline",3
+"VW - VolksWagen",1.6,104654,"Gasoline",2
+"GM - Chevrolet",2.5,32675,"Diesel",24
+"VW - VolksWagen",2,19803,"Gasoline",27
+"GM - Chevrolet",4.1,23489,"Gasoline",29
+"Fiat",1.8,14619,"Gasoline",19
+"VW - VolksWagen",2.5,41774,"Gasoline",14
+"VW - VolksWagen",1,10743,"Gasoline",22
+"GM - Chevrolet",1.8,42005,"Gasoline",10
+"GM - Chevrolet",2,27403,"Gasoline",15
+"Fiat",1.6,35569,"Gasoline",10
+"Ford",4.2,91111,"Diesel",24
+"VW - VolksWagen",1.8,6750,"Gasoline",29
+"Mercedes-Benz",2.2,100968,"Diesel",10
+"Fiat",1.6,45658,"Gasoline",7
+"Fiat",1,15082,"Gasoline",18
+"GM - Chevrolet",1.4,13447,"Gasoline",18
+"VW - VolksWagen",1.6,43045,"Gasoline",8
+"Mercedes-Benz",2.4,41618,"Gasoline",21
+"Mercedes-Benz",2.2,112727,"Diesel",9
+"GM - Chevrolet",2.8,303673,"Diesel",0
+"Mercedes-Benz",5.5,1177513,"Gasoline",7
+"GM - Chevrolet",1,35841,"Gasoline",7
+"Fiat",2.4,20729,"Gasoline",19
+"VW - VolksWagen",1,8892,"Alcohol",22
+"Mercedes-Benz",2.3,31638,"Gasoline",27
+"Ford",4,20751,"Gasoline",27
+"Ford",1,16912,"Gasoline",20
+"VW - VolksWagen",2,20799,"Gasoline",20
+"VW - VolksWagen",1.4,70686,"Gasoline",9
+"Ford",1.5,47380,"Gasoline",6
+"GM - Chevrolet",1,12700,"Gasoline",21
+"VW - VolksWagen",1.6,42230,"Gasoline",9
+"GM - Chevrolet",2,36319,"Gasoline",13
+"Fiat",1.8,65955,"Gasoline",9
+"Fiat",1.4,107492,"Gasoline",0
+"Fiat",1.6,5830,"Gasoline",33
+"Mercedes-Benz",2,265576,"Gasoline",6
+"Mercedes-Benz",2.2,105644,"Diesel",11
+"VW - VolksWagen",1.8,3211,"Gasoline",38
+"Fiat",2.8,42006,"Diesel",18
+"VW - VolksWagen",1.8,11579,"Gasoline",34
+"Mercedes-Benz",6,52887,"Gasoline",29
+"VW - VolksWagen",1,94612,"Gasoline",2
+"VW - VolksWagen",1.8,9120,"Gasoline",33
+"VW - VolksWagen",1,49005,"Gasoline",7
+"GM - Chevrolet",1,7806,"Gasoline",27
+"Ford",1,23020,"Gasoline",14
+"GM - Chevrolet",2.2,21024,"Gasoline",25
+"Fiat",1,7523,"Gasoline",30
+"GM - Chevrolet",2,28422,"Gasoline",14
+"Mercedes-Benz",1.6,161019,"Gasoline",5
+"Mercedes-Benz",2.2,216830,"Diesel",0
+"GM - Chevrolet",3.9,28091,"Diesel",38
+"Ford",3.9,74780,"Diesel",27
+"GM - Chevrolet",2.5,23321,"Diesel",27
+"GM - Chevrolet",2,35679,"Gasoline",12
+"Fiat",1.8,32816,"Gasoline",15
+"Ford",2.5,31201,"Diesel",24
+"GM - Chevrolet",1,12853,"Gasoline",21
+"GM - Chevrolet",4.1,35424,"Gasoline",25
+"Fiat",1.3,48473,"Gasoline",5
+"Fiat",1,8985,"Gasoline",25
+"GM - Chevrolet",2.4,36821,"Gasoline",20
+"Mercedes-Benz",3,340499,"Gasoline",6
+"Ford",1.5,193739,"Gasoline",2
+"Ford",1.5,98028,"Gasoline",2
+"Mercedes-Benz",2.2,328916,"Diesel",1
+"Fiat",1.5,8303,"Alcohol",27
+"VW - VolksWagen",1.4,201271,"Gasoline",1
+"GM - Chevrolet",2,9367,"Alcohol",26
+"Fiat",1.3,20633,"Gasoline",19
+"VW - VolksWagen",1.6,14543,"Alcohol",24
+"VW - VolksWagen",1,12478,"Alcohol",19
+"Ford",2.4,71032,"Diesel",12
+"GM - Chevrolet",2,26221,"Gasoline",15
+"GM - Chevrolet",1.6,9459,"Gasoline",22
+"GM - Chevrolet",2,9310,"Gasoline",28
+"Ford",3,75606,"Diesel",12
+"GM - Chevrolet",2.4,65794,"Gasoline",11
+"Fiat",1.6,40787,"Gasoline",8
+"VW - VolksWagen",1.6,43799,"Gasoline",8
+"VW - VolksWagen",1.8,11292,"Gasoline",32
+"GM - Chevrolet",2.5,39734,"Diesel",23
+"Ford",3,66701,"Diesel",16
+"VW - VolksWagen",2.8,29015,"Gasoline",31
+"VW - VolksWagen",1.6,11518,"Alcohol",26
+"GM - Chevrolet",2,20143,"Gasoline",21
+"VW - VolksWagen",2,24710,"Gasoline",20
+"Mercedes-Benz",2,530352,"Gasoline",1
+"Fiat",2.8,24951,"Diesel",25
+"Ford",3.6,7035,"Gasoline",38
+"VW - VolksWagen",1.8,10485,"Alcohol",26
+"VW - VolksWagen",1.8,23944,"Gasoline",16
+"VW - VolksWagen",1.4,132391,"Gasoline",4
+"Ford",2.3,24854,"Gasoline",21
+"Mercedes-Benz",6,406985,"Gasoline",13
+"VW - VolksWagen",1.6,41034,"Gasoline",8
+"Ford",2,6251,"Gasoline",28
+"Mercedes-Benz",5,48286,"Gasoline",28
+"VW - VolksWagen",1.4,81463,"Gasoline",7
+"Mercedes-Benz",2,183137,"Gasoline",8
+"Fiat",1.5,8609,"Alcohol",28
+"GM - Chevrolet",1,82134,"Gasoline",2
+"Fiat",1.4,34343,"Gasoline",13
+"Mercedes-Benz",4,641998,"Gasoline",4
+"Mercedes-Benz",1.6,180390,"Gasoline",5
+"Fiat",1.8,73871,"Gasoline",7
+"GM - Chevrolet",4.1,10346,"Gasoline",37
+"Fiat",2.5,19125,"Diesel",24
+"VW - VolksWagen",1,14712,"Gasoline",19
+"GM - Chevrolet",1.6,41463,"Gasoline",9
+"Ford",2.4,65000,"Diesel",13
+"Fiat",1.3,18274,"Gasoline",21
+"Fiat",1.8,30301,"Gasoline",13
+"Ford",2.5,35562,"Diesel",27
+"VW - VolksWagen",1.8,7263,"Gasoline",29
+"VW - VolksWagen",1.4,36172,"Gasoline",11
+"GM - Chevrolet",1.8,27145,"Gasoline",15
+"Ford",2.5,90098,"Gasoline",10
+"VW - VolksWagen",1.8,10895,"Gasoline",31
+"Ford",3.9,103590,"Diesel",14
+"Fiat",1.8,27639,"Gasoline",15
+"Ford",1,6067,"Gasoline",25
+"Fiat",1.8,55638,"Gasoline",9
+"Fiat",2,7364,"Gasoline",27
+"Mercedes-Benz",3.2,22539,"Gasoline",30
+"Fiat",1.4,99552,"Gasoline",1
+"GM - Chevrolet",2.4,33977,"Gasoline",17
+"VW - VolksWagen",2,18023,"Gasoline",26
+"VW - VolksWagen",1.8,23241,"Gasoline",17
+"Mercedes-Benz",2.2,70663,"Diesel",11
+"Fiat",2.8,26525,"Diesel",24
+"Fiat",2,6336,"Alcohol",28
+"Ford",2.2,63735,"Diesel",11
+"GM - Chevrolet",1,60250,"Gasoline",3
+"VW - VolksWagen",1.8,14521,"Alcohol",26
+"Mercedes-Benz",2,241524,"Gasoline",4
+"Ford",2,7337,"Gasoline",29
+"GM - Chevrolet",3.9,42566,"Diesel",37
+"Fiat",1.5,3259,"Gasoline",35
+"GM - Chevrolet",1.8,26477,"Gasoline",18
+"VW - VolksWagen",1.8,8275,"Gasoline",34
+"Ford",2.5,39965,"Diesel",27
+"Fiat",1.6,39856,"Gasoline",10
+"Fiat",1,37671,"Gasoline",8
+"GM - Chevrolet",2,45368,"Gasoline",12
+"Ford",2,7480,"Gasoline",29
+"GM - Chevrolet",1,11050,"Gasoline",22
+"Fiat",2.3,55873,"Diesel",13
+"VW - VolksWagen",2,20666,"Gasoline",20
+"Fiat",1.6,43785,"Gasoline",9
+"Fiat",1.8,57310,"Gasoline",9
+"Ford",2,41698,"Gasoline",11
+"Mercedes-Benz",2,229000,"Gasoline",8
+"Mercedes-Benz",5,63586,"Gasoline",24
+"GM - Chevrolet",2,27766,"Gasoline",15
+"VW - VolksWagen",1.8,13165,"Gasoline",28
+"GM - Chevrolet",1.8,28811,"Gasoline",14
+"Fiat",1.4,99381,"Gasoline",8
+"Ford",1,22375,"Gasoline",15
+"Ford",1.8,6244,"Gasoline",32
+"GM - Chevrolet",4.3,17068,"Gasoline",23
+"Ford",1.8,8449,"Gasoline",25
+"Fiat",2.3,152948,"Diesel",3
+"VW - VolksWagen",1.6,30212,"Gasoline",13
+"GM - Chevrolet",2,9609,"Gasoline",28
+"Ford",4.9,35451,"Gasoline",25
+"VW - VolksWagen",1.8,101157,"Gasoline",16
+"VW - VolksWagen",1,133632,"Gasoline",0
+"VW - VolksWagen",1,43386,"Gasoline",7
+"Mercedes-Benz",2.2,65602,"Diesel",13
+"Ford",2,7939,"Gasoline",29
+"GM - Chevrolet",1,46050,"Gasoline",8
+"GM - Chevrolet",1,47649,"Gasoline",7
+"Ford",1.8,6731,"Gasoline",30
+"Ford",1.6,34784,"Gasoline",10
+"Mercedes-Benz",5.5,832346,"Gasoline",6
+"Ford",1.8,19453,"Gasoline",31
+"Ford",1.6,15754,"Gasoline",19
+"GM - Chevrolet",1.8,26394,"Gasoline",14
+"Fiat",1.8,47521,"Gasoline",8
+"Mercedes-Benz",2.3,31030,"Gasoline",30
+"VW - VolksWagen",1.6,49153,"Gasoline",9
+"Fiat",1.3,66534,"Gasoline",3
+"Fiat",2.8,31504,"Diesel",22
+"VW - VolksWagen",1.6,27711,"Gasoline",17
+"VW - VolksWagen",1.6,24900,"Gasoline",15
+"VW - VolksWagen",1.6,58201,"Gasoline",3
+"VW - VolksWagen",1.8,21443,"Gasoline",20
+"VW - VolksWagen",1.6,47285,"Gasoline",7
+"GM - Chevrolet",2.2,26616,"Gasoline",24
+"VW - VolksWagen",2,142087,"Gasoline",6
+"GM - Chevrolet",1,8907,"Gasoline",26
+"VW - VolksWagen",1.6,58150,"Gasoline",8
+"Fiat",1.5,10030,"Gasoline",26
+"VW - VolksWagen",1.6,47201,"Gasoline",8
+"GM - Chevrolet",5.7,120126,"Gasoline",21
+"Fiat",1.6,10909,"Gasoline",23
+"Fiat",1,32854,"Gasoline",10
+"GM - Chevrolet",1.8,7527,"Gasoline",31
+"VW - VolksWagen",1.6,52070,"Gasoline",8
+"Ford",2.3,25917,"Gasoline",20
+"Mercedes-Benz",1.8,74232,"Gasoline",12
+"Mercedes-Benz",4,2237090,"Gasoline",2
+"VW - VolksWagen",1.8,9722,"Alcohol",25
+"GM - Chevrolet",4.1,26730,"Gasoline",28
+"Ford",2.3,48629,"Gasoline",14
+"GM - Chevrolet",1.6,12352,"Gasoline",23
+"Fiat",1.4,33339,"Gasoline",10
+"Mercedes-Benz",2.2,85201,"Diesel",12
+"Fiat",1.4,43147,"Gasoline",9
+"GM - Chevrolet",2.8,118803,"Diesel",9
+"Mercedes-Benz",2.2,40845,"Gasoline",28
+"VW - VolksWagen",2,16330,"Gasoline",29
+"GM - Chevrolet",1.8,118191,"Gasoline",0
+"GM - Chevrolet",2,30553,"Gasoline",14
+"Fiat",2.8,26413,"Diesel",23
+"Ford",4,33449,"Gasoline",27
+"Fiat",2.3,77601,"Diesel",10
+"GM - Chevrolet",4.1,26819,"Gasoline",29
+"Mercedes-Benz",3.5,55879,"Gasoline",18
+"GM - Chevrolet",2.4,29703,"Gasoline",18
+"VW - VolksWagen",1,21263,"Gasoline",16
+"GM - Chevrolet",2.5,33959,"Diesel",25
+"Fiat",2.3,71380,"Diesel",13
+"Ford",3.5,53024,"Gasoline",13
+"VW - VolksWagen",1,21494,"Gasoline",16
+"Mercedes-Benz",1.6,175665,"Gasoline",4
+"VW - VolksWagen",1.8,9251,"Gasoline",27
+"Fiat",1,13809,"Gasoline",21
+"GM - Chevrolet",2.2,11064,"Gasoline",29
+"Ford",1,73229,"Gasoline",5
+"Fiat",1.8,41577,"Gasoline",9
+"GM - Chevrolet",4.1,17221,"Gasoline",31
+"VW - VolksWagen",2,137160,"Gasoline",8
+"Mercedes-Benz",5.5,139725,"Gasoline",18
+"VW - VolksWagen",2,37307,"Gasoline",20
+"VW - VolksWagen",2,42962,"Gasoline",15
+"Mercedes-Benz",1.8,95832,"Gasoline",12
+"GM - Chevrolet",2,24772,"Gasoline",16
+"VW - VolksWagen",1.6,19555,"Gasoline",24
+"GM - Chevrolet",4.1,11996,"Gasoline",35
+"Mercedes-Benz",2,185766,"Gasoline",6
+"Ford",3.2,227804,"Diesel",1
+"Mercedes-Benz",1.9,19479,"Gasoline",20
+"Fiat",1,26795,"Gasoline",10
+"Fiat",1.6,3133,"Gasoline",38
+"VW - VolksWagen",1,90342,"Gasoline",4
+"Mercedes-Benz",2,238364,"Gasoline",4
+"VW - VolksWagen",1.6,43759,"Gasoline",8
+"Mercedes-Benz",2.2,171810,"Diesel",5
+"GM - Chevrolet",2.4,27081,"Gasoline",18
+"GM - Chevrolet",1,9558,"Alcohol",23
+"GM - Chevrolet",1,59975,"Gasoline",3
+"Mercedes-Benz",2.2,255319,"Diesel",1
+"GM - Chevrolet",2,19273,"Gasoline",19
+"VW - VolksWagen",1,48668,"Gasoline",8
+"Mercedes-Benz",1.6,136493,"Gasoline",6
+"VW - VolksWagen",1.8,6241,"Gasoline",35
+"GM - Chevrolet",5.7,85981,"Gasoline",29
+"Ford",1.6,27718,"Gasoline",15
+"GM - Chevrolet",4,46558,"Diesel",34
+"GM - Chevrolet",2.8,51121,"Diesel",22
+"Fiat",1.6,40640,"Gasoline",8
+"GM - Chevrolet",4.1,15089,"Gasoline",32
+"VW - VolksWagen",1.6,21912,"Gasoline",17
+"Ford",4,12398,"Gasoline",32
+"VW - VolksWagen",1.6,46255,"Gasoline",8
+"VW - VolksWagen",1,11833,"Gasoline",22
+"Ford",1.6,12964,"Gasoline",21
+"VW - VolksWagen",1.6,5850,"Gasoline",36
+"Fiat",1.8,23225,"Gasoline",16
+"VW - VolksWagen",1.8,8114,"Gasoline",34
+"GM - Chevrolet",1,51539,"Gasoline",6
+"GM - Chevrolet",1.4,24497,"Gasoline",13
+"GM - Chevrolet",1.4,70298,"Gasoline",5
+"VW - VolksWagen",2,16062,"Gasoline",25
+"Ford",3,45201,"Gasoline",12
+"GM - Chevrolet",3.6,28913,"Gasoline",18
+"Fiat",0.7,3616,"Gasoline",28
+"GM - Chevrolet",2.4,51599,"Gasoline",13
+"Mercedes-Benz",5,35941,"Gasoline",31
+"GM - Chevrolet",2.5,110610,"Gasoline",8
+"Fiat",1.8,10883,"Gasoline",22
+"Fiat",1,31548,"Gasoline",10
+"Fiat",2.4,17726,"Gasoline",20
+"Fiat",1.8,24969,"Gasoline",15
+"Mercedes-Benz",1.8,64520,"Gasoline",12
+"GM - Chevrolet",1,43675,"Gasoline",8
+"Mercedes-Benz",3.5,58493,"Gasoline",16
+"VW - VolksWagen",1.6,69921,"Gasoline",2
+"Fiat",1,27614,"Gasoline",10
+"VW - VolksWagen",1,128758,"Gasoline",2
+"VW - VolksWagen",2,36311,"Gasoline",21
+"GM - Chevrolet",4,52290,"Diesel",31
+"Ford",1.8,15712,"Gasoline",19
+"VW - VolksWagen",2,20839,"Gasoline",20
+"Ford",5,393461,"Gasoline",5
+"Ford",1.6,17831,"Gasoline",26
+"Ford",3,51593,"Diesel",17
+"Mercedes-Benz",4,865123,"Gasoline",2
+"Mercedes-Benz",6.2,158505,"Gasoline",14
+"Ford",3.9,99820,"Diesel",12
+"Mercedes-Benz",5,57459,"Gasoline",25
+"GM - Chevrolet",1.8,9276,"Gasoline",30
+"Fiat",1.3,156058,"Gasoline",0
+"VW - VolksWagen",1.6,48019,"Gasoline",7
+"Fiat",1.8,17588,"Gasoline",17
+"VW - VolksWagen",2,172303,"Gasoline",4
+"Mercedes-Benz",5.5,275926,"Gasoline",10
+"GM - Chevrolet",2.5,12449,"Gasoline",35
+"GM - Chevrolet",4.1,25450,"Gasoline",33
+"GM - Chevrolet",2.2,24532,"Gasoline",25
+"Mercedes-Benz",1.6,239990,"Gasoline",4
+"Ford",2.3,40236,"Gasoline",17
+"VW - VolksWagen",1.8,16834,"Alcohol",27
+"VW - VolksWagen",1.8,27220,"Gasoline",16
+"VW - VolksWagen",2,18656,"Gasoline",20
+"Mercedes-Benz",3.5,72399,"Gasoline",16
+"Mercedes-Benz",2.2,38659,"Diesel",21
+"GM - Chevrolet",4.1,24492,"Gasoline",34
+"VW - VolksWagen",2,22120,"Gasoline",22
+"VW - VolksWagen",1,51937,"Gasoline",7
+"Fiat",1.8,83908,"Gasoline",3
+"GM - Chevrolet",1,27499,"Gasoline",10
+"Mercedes-Benz",2.2,264159,"Diesel",1
+"GM - Chevrolet",2.5,38866,"Diesel",23
+"VW - VolksWagen",1.6,59497,"Gasoline",6
+"Fiat",1.5,4559,"Gasoline",28
+"Mercedes-Benz",2.2,232845,"Diesel",2
+"Fiat",2.8,59437,"Diesel",14
+"Ford",1.6,51656,"Gasoline",7
+"GM - Chevrolet",1.8,64567,"Gasoline",8
+"Mercedes-Benz",6,91843,"Gasoline",25
+"GM - Chevrolet",4.3,23405,"Gasoline",25
+"Mercedes-Benz",4,520352,"Gasoline",5
+"Fiat",1.6,34714,"Gasoline",11
+"VW - VolksWagen",1,41194,"Gasoline",9
+"Mercedes-Benz",3.5,119733,"Gasoline",13
+"VW - VolksWagen",1.8,37010,"Gasoline",15
+"VW - VolksWagen",1.6,40990,"Gasoline",8
+"Ford",1.6,60853,"Gasoline",4
+"GM - Chevrolet",1.8,20132,"Gasoline",18
+"Mercedes-Benz",2.2,48787,"Diesel",19
+"Ford",1.6,54912,"Gasoline",6
+"Ford",1.8,5953,"Gasoline",34
+"Fiat",1.8,27285,"Gasoline",15
+"VW - VolksWagen",1.6,19210,"Gasoline",19
+"GM - Chevrolet",1.8,52954,"Gasoline",11
+"Fiat",2.3,203114,"Diesel",2
+"Ford",2.5,29284,"Diesel",23
+"Mercedes-Benz",2.2,200549,"Diesel",4
+"Ford",1.6,23317,"Gasoline",16
+"GM - Chevrolet",1,18111,"Gasoline",14
+"Ford",2,23265,"Gasoline",18
+"VW - VolksWagen",1.4,206729,"Gasoline",0
+"Mercedes-Benz",2.2,78757,"Diesel",11
+"Mercedes-Benz",1.8,57775,"Gasoline",14
+"Fiat",1,42044,"Gasoline",7
+"VW - VolksWagen",1.6,33579,"Gasoline",12
+"Mercedes-Benz",3,340338,"Gasoline",6
+"Fiat",1,10025,"Gasoline",23
+"Fiat",1.4,30525,"Gasoline",12
+"VW - VolksWagen",1.8,12690,"Gasoline",32
+"Fiat",1,53829,"Gasoline",5
+"Fiat",1,12470,"Gasoline",23
+"Fiat",1.5,2768,"Gasoline",37
+"Mercedes-Benz",2.2,249152,"Diesel",0
+"Mercedes-Benz",2,263158,"Gasoline",5
+"VW - VolksWagen",1.4,199324,"Gasoline",1
+"Fiat",1.8,31527,"Gasoline",12
+"VW - VolksWagen",1,15848,"Gasoline",16
+"Fiat",2,16315,"Gasoline",24
+"Fiat",1.8,64158,"Gasoline",4
+"Ford",3,53793,"Diesel",17
+"Fiat",1.8,13981,"Gasoline",20
+"Ford",2.8,55279,"Diesel",20
+"VW - VolksWagen",1,38276,"Gasoline",9
+"GM - Chevrolet",2,15147,"Gasoline",22
+"VW - VolksWagen",2.8,13698,"Gasoline",25
+"VW - VolksWagen",1.6,26519,"Gasoline",14
+"Fiat",1,38000,"Gasoline",6
+"GM - Chevrolet",2,11502,"Gasoline",25
+"Fiat",1.8,35791,"Gasoline",12
+"VW - VolksWagen",2,135193,"Diesel",7
+"Mercedes-Benz",3.5,82017,"Gasoline",14
+"GM - Chevrolet",2,34913,"Gasoline",14
+"VW - VolksWagen",1.6,10659,"Gasoline",29
+"Ford",1.6,23855,"Gasoline",17
+"Mercedes-Benz",6,170933,"Gasoline",19
+"GM - Chevrolet",4,17022,"Diesel",37
+"GM - Chevrolet",3.9,72314,"Diesel",30
+"GM - Chevrolet",2.1,13442,"Diesel",28
+"Mercedes-Benz",4.7,404205,"Gasoline",8
+"Ford",4.9,31895,"Gasoline",26
+"GM - Chevrolet",2.5,164918,"Gasoline",3
+"Mercedes-Benz",2.2,83265,"Diesel",12
+"Ford",2,61886,"Gasoline",7
+"Fiat",1,34897,"Gasoline",9
+"GM - Chevrolet",1.4,55298,"Gasoline",5
+"GM - Chevrolet",2.8,210356,"Diesel",4
+"Mercedes-Benz",3,78382,"Diesel",16
+"Mercedes-Benz",2.2,231401,"Diesel",0
+"VW - VolksWagen",1.6,58137,"Gasoline",7
+"Mercedes-Benz",6,131394,"Gasoline",22
+"Fiat",1,26261,"Gasoline",10
+"Fiat",1.8,13224,"Gasoline",20
+"VW - VolksWagen",1.8,14038,"Gasoline",24
+"Ford",2,10047,"Gasoline",24
+"VW - VolksWagen",1.8,9497,"Gasoline",33
+"Fiat",1,8292,"Gasoline",29
+"Fiat",2,8099,"Gasoline",29
+"Fiat",1,50134,"Gasoline",4
+"GM - Chevrolet",4.1,12054,"Gasoline",35
+"GM - Chevrolet",1.4,62954,"Gasoline",4
+"GM - Chevrolet",4.1,18849,"Alcohol",28
+"VW - VolksWagen",1.6,48000,"Gasoline",7
+"Mercedes-Benz",2.2,250866,"Diesel",0
+"Fiat",1.5,10325,"Gasoline",30
+"VW - VolksWagen",1,58956,"Gasoline",3
+"VW - VolksWagen",1,73578,"Gasoline",1
+"VW - VolksWagen",1.8,10359,"Alcohol",28
+"Fiat",2,88497,"Diesel",7
+"Mercedes-Benz",3,747050,"Diesel",1
+"Ford",3,33652,"Diesel",18
+"Ford",3.9,48801,"Diesel",33
+"Fiat",1.4,72290,"Gasoline",8
+"VW - VolksWagen",2,154842,"Gasoline",7
+"VW - VolksWagen",1.8,19189,"Gasoline",28
+"Ford",1,17023,"Gasoline",18
+"GM - Chevrolet",1.4,145313,"Gasoline",1
+"Ford",2,6389,"Gasoline",29
+"GM - Chevrolet",1,12947,"Gasoline",21
+"GM - Chevrolet",2,32632,"Gasoline",13
+"Fiat",1,34455,"Gasoline",9
+"Fiat",1.4,39567,"Gasoline",9
+"Fiat",2.8,25841,"Diesel",25
+"VW - VolksWagen",2,12368,"Gasoline",22
+"GM - Chevrolet",2,34308,"Gasoline",15
+"GM - Chevrolet",2.4,35780,"Gasoline",17
+"VW - VolksWagen",1.8,11706,"Gasoline",25
+"Fiat",2,12500,"Gasoline",24
+"VW - VolksWagen",1.6,57027,"Gasoline",5
+"Ford",2,21175,"Gasoline",17
+"VW - VolksWagen",1.6,31314,"Gasoline",13
+"VW - VolksWagen",1.4,39859,"Gasoline",11
+"GM - Chevrolet",1.8,20083,"Gasoline",18
+"VW - VolksWagen",1.6,21300,"Gasoline",17
+"GM - Chevrolet",3.6,41910,"Gasoline",13
+"GM - Chevrolet",2,28960,"Gasoline",16
+"GM - Chevrolet",2.5,148956,"Gasoline",4
+"VW - VolksWagen",1.6,42618,"Gasoline",9
+"Ford",1,25748,"Gasoline",11
+"GM - Chevrolet",1,7635,"Gasoline",29
+"Fiat",1,11899,"Gasoline",19
+"Mercedes-Benz",4,1968539,"Gasoline",4
+"Mercedes-Benz",2.2,100297,"Diesel",10
+"Ford",1.8,12864,"Gasoline",32
+"Fiat",1.3,99906,"Gasoline",1
+"Ford",3.9,34092,"Diesel",31
+"Ford",2.4,47142,"Diesel",14
+"Fiat",1.6,34351,"Gasoline",12
+"Mercedes-Benz",6,312380,"Gasoline",14
+"Mercedes-Benz",4,766600,"Gasoline",3
+"VW - VolksWagen",2,92356,"Diesel",10
+"Mercedes-Benz",1.8,50734,"Gasoline",13
+"Fiat",1.5,11870,"Gasoline",27
+"VW - VolksWagen",1.8,21705,"Gasoline",23
+"VW - VolksWagen",1.6,31704,"Gasoline",12
+"VW - VolksWagen",1.3,5383,"Gasoline",35
+"VW - VolksWagen",2.5,65451,"Gasoline",10
+"Fiat",1.4,67369,"Gasoline",4
+"Fiat",1.4,102679,"Gasoline",8
+"Ford",2,55792,"Gasoline",9
+"VW - VolksWagen",1.6,33102,"Gasoline",13
+"VW - VolksWagen",1.6,57165,"Gasoline",5
+"VW - VolksWagen",1.6,58158,"Gasoline",5
+"VW - VolksWagen",1.8,13140,"Alcohol",25
+"Ford",1.6,17942,"Gasoline",23
+"Fiat",2,212366,"Diesel",0
+"VW - VolksWagen",2,68100,"Gasoline",9
+"VW - VolksWagen",3.6,138147,"Gasoline",8
+"Mercedes-Benz",5,33701,"Gasoline",32
+"VW - VolksWagen",1.6,7528,"Gasoline",28
+"Fiat",1,55844,"Gasoline",2
+"GM - Chevrolet",4,69341,"Diesel",29
+"VW - VolksWagen",2,19368,"Gasoline",28
+"Ford",2,34583,"Gasoline",13
+"GM - Chevrolet",4.2,73370,"Diesel",23
+"Ford",3.9,128391,"Diesel",13
+"VW - VolksWagen",1,17088,"Gasoline",16
+"GM - Chevrolet",2,159227,"Gasoline",4
+"Ford",2.2,249463,"Diesel",0
+"GM - Chevrolet",2,42252,"Diesel",19
+"VW - VolksWagen",1.6,5938,"Gasoline",35
+"VW - VolksWagen",1,66698,"Gasoline",5
+"VW - VolksWagen",1.6,28782,"Gasoline",18
+"Mercedes-Benz",3.2,45849,"Gasoline",29
+"VW - VolksWagen",1.6,47257,"Gasoline",7
+"GM - Chevrolet",1.4,17950,"Gasoline",17
+"Fiat",1,14671,"Gasoline",19
+"VW - VolksWagen",1.6,4615,"Gasoline",33
+"Ford",2,14965,"Gasoline",22
+"GM - Chevrolet",1,12308,"Gasoline",24
+"Mercedes-Benz",2.2,139278,"Diesel",8
+"Mercedes-Benz",1.3,281907,"Gasoline",1
+"GM - Chevrolet",2,19633,"Gasoline",18
+"Mercedes-Benz",5.5,458089,"Gasoline",13
+"Fiat",2.3,168831,"Diesel",4
+"Fiat",1.6,19527,"Gasoline",21
+"VW - VolksWagen",2,29254,"Gasoline",17
+"VW - VolksWagen",1,85282,"Gasoline",3
+"Mercedes-Benz",2.3,35367,"Gasoline",25
+"VW - VolksWagen",1.4,141166,"Gasoline",1
+"Mercedes-Benz",2.2,254742,"Diesel",2
+"VW - VolksWagen",1.6,55512,"Gasoline",8
+"Fiat",2.3,264601,"Diesel",0
+"Fiat",1.6,9220,"Gasoline",25
+"Fiat",1.4,35852,"Gasoline",10
+"VW - VolksWagen",1.6,83427,"Gasoline",6
+"Ford",3.9,113626,"Diesel",13
+"VW - VolksWagen",1.6,34813,"Gasoline",11
+"Ford",1,19028,"Gasoline",15
+"Mercedes-Benz",6.2,282364,"Gasoline",11
+"Fiat",1.8,49404,"Gasoline",8
+"GM - Chevrolet",1,80651,"Gasoline",3
+"Mercedes-Benz",4,1852415,"Gasoline",5
+"Fiat",1.6,36501,"Gasoline",9
+"VW - VolksWagen",1.4,76893,"Gasoline",8
+"Fiat",1.6,46352,"Gasoline",7
+"VW - VolksWagen",1.6,29074,"Gasoline",14
+"Fiat",1.6,40228,"Gasoline",10
+"GM - Chevrolet",1.4,72098,"Gasoline",4
+"GM - Chevrolet",4.3,33317,"Gasoline",21
+"Ford",1,10631,"Gasoline",18
+"Ford",3.2,204625,"Diesel",4
+"Mercedes-Benz",2.2,49966,"Diesel",19
+"VW - VolksWagen",1.4,109083,"Gasoline",6
+"Fiat",1,43778,"Gasoline",6
+"VW - VolksWagen",2,26734,"Gasoline",24
+"Mercedes-Benz",3.5,161272,"Gasoline",12
+"Ford",2.5,37677,"Diesel",24
+"GM - Chevrolet",4.2,74492,"Diesel",23
+"VW - VolksWagen",2,253324,"Gasoline",2
+"Fiat",1.3,11311,"Alcohol",19
+"Fiat",1,78589,"Gasoline",0
+"GM - Chevrolet",5.7,204452,"Gasoline",18
+"Ford",3.2,106047,"Diesel",9
+"Mercedes-Benz",6.3,359177,"Gasoline",10
+"GM - Chevrolet",3.9,44198,"Diesel",35
+"VW - VolksWagen",1.6,16714,"Alcohol",20
+"Ford",3.9,102056,"Diesel",16
+"Mercedes-Benz",2.6,28152,"Gasoline",31
+"Fiat",1,20203,"Gasoline",12
+"Fiat",1.4,63235,"Gasoline",4
+"GM - Chevrolet",2.1,15130,"Diesel",25
+"Fiat",1,7918,"Alcohol",28
+"Ford",2.5,39457,"Gasoline",13
+"Fiat",1,22429,"Gasoline",13
+"Ford",1.8,13013,"Gasoline",33
+"VW - VolksWagen",1,32388,"Gasoline",11
+"Ford",4,22521,"Gasoline",27
+"Fiat",1.9,38019,"Gasoline",10
+"Fiat",1.4,33806,"Gasoline",11
+"GM - Chevrolet",1.4,94268,"Gasoline",5
+"VW - VolksWagen",2.8,29918,"Gasoline",19
+"Ford",4.9,44563,"Gasoline",26
+"Fiat",1.8,34495,"Gasoline",12
+"GM - Chevrolet",1,13247,"Alcohol",18
+"Ford",2,246432,"Diesel",1
+"Mercedes-Benz",5,48213,"Gasoline",28
+"Fiat",1,41597,"Gasoline",7
+"Mercedes-Benz",2.2,47746,"Diesel",20
+"Mercedes-Benz",4.7,671447,"Gasoline",5
+"Ford",2,157116,"Gasoline",4
+"GM - Chevrolet",1,22770,"Gasoline",19
+"Ford",2,6212,"Gasoline",31
+"Ford",1.4,9626,"Gasoline",24
+"Mercedes-Benz",4,509145,"Gasoline",6
+"Mercedes-Benz",1.9,23940,"Gasoline",19
+"Fiat",2.5,26206,"Diesel",24
+"VW - VolksWagen",1.8,16917,"Alcohol",26
+"Fiat",1.8,37332,"Gasoline",11
+"Fiat",1.4,23644,"Gasoline",12
+"Mercedes-Benz",2,441104,"Gasoline",1
+"Fiat",1.8,31710,"Gasoline",13
+"VW - VolksWagen",1.6,17554,"Gasoline",28
+"Fiat",1.6,38546,"Gasoline",9
+"VW - VolksWagen",1.8,37070,"Gasoline",19
+"GM - Chevrolet",4.1,52687,"Diesel",23
+"Mercedes-Benz",2.2,169450,"Diesel",6
+"Ford",3.9,15364,"Diesel",37
+"GM - Chevrolet",2.5,11479,"Gasoline",36
+"GM - Chevrolet",1.8,56743,"Gasoline",7
+"Ford",1.6,26403,"Gasoline",12
+"VW - VolksWagen",1,11509,"Gasoline",20
+"GM - Chevrolet",1.8,54953,"Gasoline",11
+"Ford",3.9,104008,"Diesel",12
+"VW - VolksWagen",1.8,15320,"Gasoline",24
+"GM - Chevrolet",1,13810,"Gasoline",21
+"Fiat",1,21997,"Gasoline",14
+"Fiat",1.4,49262,"Gasoline",8
+"Fiat",1,49522,"Gasoline",3
+"Mercedes-Benz",1.3,276857,"Gasoline",2
+"Fiat",1.4,28773,"Gasoline",13
+"VW - VolksWagen",1.6,50424,"Gasoline",8
+"VW - VolksWagen",4.2,103985,"Gasoline",11
+"Fiat",1.6,36312,"Gasoline",9
+"VW - VolksWagen",1.6,31533,"Gasoline",12
+"VW - VolksWagen",1,34415,"Gasoline",10
+"VW - VolksWagen",2.8,21842,"Gasoline",20
+"Ford",3.9,143097,"Diesel",14
+"VW - VolksWagen",1.4,125773,"Gasoline",2
+"GM - Chevrolet",1.8,30424,"Gasoline",15
+"GM - Chevrolet",5.7,317106,"Gasoline",14
+"Ford",5.8,40396,"Gasoline",25
+"Ford",1.8,8566,"Gasoline",24
+"Fiat",1.3,10628,"Gasoline",18
+"GM - Chevrolet",1,96755,"Gasoline",0
+"Ford",4,18925,"Gasoline",29
+"Mercedes-Benz",5,227391,"Gasoline",15
+"Fiat",1.8,24128,"Gasoline",17
+"VW - VolksWagen",4.2,97954,"Gasoline",11
+"Mercedes-Benz",4,569141,"Gasoline",5
+"GM - Chevrolet",1.8,57295,"Gasoline",5
+"Mercedes-Benz",2.2,198710,"Diesel",0
+"GM - Chevrolet",2.8,53554,"Diesel",22
+"GM - Chevrolet",1.6,13726,"Gasoline",22
+"GM - Chevrolet",2.1,14811,"Diesel",26
+"Mercedes-Benz",5.5,957630,"Gasoline",10
+"Ford",1,66244,"Gasoline",5
+"Ford",3.9,70230,"Diesel",24
+"Fiat",1.8,37188,"Gasoline",10
+"GM - Chevrolet",1.8,19839,"Gasoline",19
+"Fiat",1.4,39900,"Gasoline",9
+"Ford",1.6,41352,"Gasoline",9
+"Mercedes-Benz",4,1895311,"Gasoline",0
+"Ford",2.4,65085,"Diesel",13
+"Fiat",1.3,22380,"Gasoline",19
+"Fiat",1.8,28524,"Gasoline",17
+"VW - VolksWagen",1.6,27260,"Gasoline",19
+"GM - Chevrolet",1.8,6688,"Gasoline",32
+"VW - VolksWagen",1.6,12709,"Gasoline",20
+"VW - VolksWagen",1.6,27616,"Gasoline",15
+"Fiat",1.8,50691,"Gasoline",10
+"VW - VolksWagen",1.6,4295,"Gasoline",37
+"GM - Chevrolet",6.2,371874,"Gasoline",6
+"VW - VolksWagen",2,150615,"Diesel",6
+"Ford",1.5,75970,"Gasoline",4
+"GM - Chevrolet",4.1,24404,"Gasoline",29
+"GM - Chevrolet",1.4,51194,"Gasoline",8
+"Ford",2,16395,"Gasoline",22
+"Fiat",1.8,75462,"Gasoline",5
+"Fiat",1.5,13937,"Gasoline",23
+"GM - Chevrolet",2,26252,"Gasoline",18
+"GM - Chevrolet",2,39109,"Gasoline",13
+"GM - Chevrolet",5,31745,"Gasoline",31
+"Fiat",1.3,20776,"Gasoline",19
+"GM - Chevrolet",4.3,23360,"Gasoline",26
+"Fiat",1.3,120882,"Gasoline",0
+"GM - Chevrolet",2.4,40666,"Gasoline",13
+"Ford",3,9597,"Gasoline",30
+"Fiat",1.6,15157,"Gasoline",23
+"Ford",1,14535,"Gasoline",20
+"Ford",2.5,45445,"Gasoline",11
+"Fiat",1.3,13274,"Gasoline",20
+"Mercedes-Benz",5.5,111898,"Gasoline",13
+"Ford",4.9,39308,"Gasoline",25
+"GM - Chevrolet",2.8,61280,"Diesel",18
+"Ford",2.2,82168,"Diesel",10
+"Mercedes-Benz",1.8,43450,"Gasoline",16
+"GM - Chevrolet",1.8,72379,"Gasoline",7
+"Ford",1.6,51366,"Gasoline",6
+"Fiat",1,21571,"Gasoline",15
+"Mercedes-Benz",2,460000,"Gasoline",3
+"Mercedes-Benz",2.8,43068,"Gasoline",29
+"GM - Chevrolet",1.6,8517,"Gasoline",28
+"GM - Chevrolet",2,23500,"Gasoline",17
+"Fiat",1,23791,"Gasoline",10
+"VW - VolksWagen",1,80592,"Gasoline",4
+"GM - Chevrolet",4.1,18634,"Gasoline",30
+"Fiat",1.8,24979,"Gasoline",15
+"VW - VolksWagen",1.4,146388,"Gasoline",5
+"Ford",1.6,33907,"Gasoline",11
+"Fiat",1.5,10352,"Gasoline",28
+"Fiat",1.4,35748,"Gasoline",9
+"GM - Chevrolet",4.3,18048,"Gasoline",23
+"Fiat",1.5,10068,"Alcohol",24
+"VW - VolksWagen",2,59990,"Gasoline",12
+"GM - Chevrolet",1,111956,"Gasoline",0
+"Mercedes-Benz",2.2,50365,"Diesel",19
+"Mercedes-Benz",2.2,338191,"Diesel",0
+"VW - VolksWagen",1.8,5975,"Gasoline",33
+"Fiat",1.4,38340,"Gasoline",12
+"GM - Chevrolet",1.8,8898,"Gasoline",29
+"Ford",2.2,212777,"Diesel",0
+"Ford",1.6,20401,"Gasoline",16
+"VW - VolksWagen",1.8,12754,"Gasoline",29
+"Ford",1.6,56212,"Gasoline",9
+"VW - VolksWagen",1,14144,"Gasoline",21
+"Fiat",1.8,32335,"Gasoline",13
+"GM - Chevrolet",2.8,75751,"Diesel",13
+"Ford",3.2,123175,"Diesel",8
+"Fiat",1.4,39994,"Gasoline",12
+"GM - Chevrolet",2.8,132801,"Diesel",8
+"Fiat",1.4,43684,"Gasoline",11
+"GM - Chevrolet",3.6,42928,"Gasoline",15
+"GM - Chevrolet",1.8,92757,"Gasoline",2
+"Ford",1.6,76985,"Gasoline",4
+"Mercedes-Benz",5.5,192036,"Gasoline",11
+"GM - Chevrolet",2,33361,"Gasoline",12
+"Ford",3.9,33648,"Diesel",32
+"Ford",3,71320,"Diesel",14
+"VW - VolksWagen",1.8,16925,"Gasoline",20
+"VW - VolksWagen",1.8,13021,"Alcohol",27
+"GM - Chevrolet",1,18480,"Gasoline",16
+"Fiat",1,24361,"Gasoline",14
+"Mercedes-Benz",2.2,46102,"Diesel",21
+"Fiat",1.4,41416,"Gasoline",10
+"Fiat",2.3,121949,"Diesel",6
+"Mercedes-Benz",2.3,24439,"Gasoline",32
+"VW - VolksWagen",1,106781,"Gasoline",3
+"Mercedes-Benz",2.2,117182,"Diesel",8
+"Mercedes-Benz",2.2,37167,"Diesel",21
+"GM - Chevrolet",1.6,16592,"Gasoline",19
+"VW - VolksWagen",2,21230,"Gasoline",23
+"Ford",3.5,83247,"Gasoline",9
+"GM - Chevrolet",1,126660,"Gasoline",2
+"Ford",1,10814,"Gasoline",23
+"GM - Chevrolet",1,82513,"Gasoline",2
+"Fiat",1.3,132686,"Gasoline",1
+"Mercedes-Benz",1.6,77185,"Gasoline",10
+"Mercedes-Benz",3.5,261331,"Gasoline",7
+"Fiat",1,16694,"Gasoline",17
+"Mercedes-Benz",2,224351,"Gasoline",8
+"GM - Chevrolet",4.1,16629,"Gasoline",37
+"Ford",2.5,33547,"Diesel",24
+"Ford",3,62130,"Diesel",16
+"VW - VolksWagen",2.8,17173,"Gasoline",24
+"Fiat",1.5,3451,"Gasoline",37
+"Fiat",2.8,26025,"Diesel",23
+"Mercedes-Benz",3.5,90363,"Gasoline",13
+"GM - Chevrolet",1.4,30690,"Gasoline",14
+"VW - VolksWagen",1.6,18520,"Gasoline",24
+"GM - Chevrolet",1.4,47516,"Gasoline",9
+"Fiat",1.5,2515,"Gasoline",35
+"Mercedes-Benz",2,433081,"Gasoline",0
+"GM - Chevrolet",4.1,36818,"Gasoline",27
+"Mercedes-Benz",1.6,78232,"Gasoline",10
+"VW - VolksWagen",1.8,4715,"Gasoline",29
+"Fiat",1.9,24852,"Gasoline",13
+"Mercedes-Benz",2.2,239496,"Diesel",2
+"GM - Chevrolet",3.9,65110,"Diesel",28
+"Fiat",1,27800,"Gasoline",12
+"Fiat",1.4,30790,"Gasoline",11
+"VW - VolksWagen",4.2,208101,"Gasoline",7
+"Ford",2.5,11907,"Gasoline",24
+"Fiat",1.6,47222,"Gasoline",7
+"Mercedes-Benz",2,532447,"Gasoline",2
+"VW - VolksWagen",3,314326,"Diesel",0
+"GM - Chevrolet",3,56307,"Gasoline",10
+"GM - Chevrolet",1,28652,"Gasoline",9
+"Ford",4.2,27735,"Gasoline",25
+"Fiat",1.4,72185,"Gasoline",4
+"Fiat",1.4,63230,"Gasoline",8
+"Ford",3.2,265990,"Diesel",0
+"Fiat",1.8,35708,"Gasoline",11
+"Ford",3.6,12720,"Gasoline",32
+"Fiat",1.8,36034,"Gasoline",11
+"Mercedes-Benz",1.8,71966,"Gasoline",13
+"Fiat",1.5,12557,"Gasoline",26
+"Fiat",1.5,11024,"Alcohol",24
+"Mercedes-Benz",1.6,55843,"Gasoline",13
+"Ford",3.2,118862,"Diesel",9
+"VW - VolksWagen",1.6,44721,"Gasoline",10
+"VW - VolksWagen",2,52190,"Gasoline",13
+"Mercedes-Benz",2.2,106357,"Diesel",11
+"VW - VolksWagen",1.8,6215,"Gasoline",35
+"Mercedes-Benz",5,96475,"Gasoline",28
+"Fiat",1.5,19408,"Alcohol",18
+"Ford",1.6,31497,"Gasoline",15
+"VW - VolksWagen",1,16823,"Gasoline",18
+"VW - VolksWagen",1.6,22684,"Gasoline",17
+"Ford",1.8,6975,"Gasoline",28
+"Ford",1.6,5452,"Gasoline",33
+"GM - Chevrolet",2.8,161138,"Diesel",6
+"VW - VolksWagen",1.8,19464,"Gasoline",26
+"Ford",1.8,7854,"Gasoline",26
+"Fiat",2.4,60010,"Gasoline",10
+"Ford",2.2,142450,"Diesel",6
+"Fiat",1.8,38557,"Gasoline",12
+"VW - VolksWagen",1.6,14569,"Alcohol",24
+"VW - VolksWagen",1.6,30238,"Gasoline",13
+"Fiat",1,23790,"Gasoline",13
+"Fiat",1.5,7986,"Gasoline",31
+"VW - VolksWagen",2.8,30475,"Gasoline",20
+"GM - Chevrolet",1.4,16023,"Gasoline",18
+"GM - Chevrolet",4.3,20890,"Gasoline",28
+"Fiat",1.8,21523,"Gasoline",16
+"Mercedes-Benz",1.8,175405,"Gasoline",11
+"Fiat",1.6,43950,"Gasoline",9
+"Fiat",1.6,9482,"Gasoline",26
+"Mercedes-Benz",3.5,71825,"Gasoline",16
+"Mercedes-Benz",6.2,119306,"Gasoline",16
+"Mercedes-Benz",1.6,111987,"Gasoline",7
+"Ford",1.6,8679,"Gasoline",31
+"GM - Chevrolet",3,49544,"Gasoline",11
+"GM - Chevrolet",1.4,53334,"Gasoline",6
+"Ford",4,31455,"Gasoline",25
+"GM - Chevrolet",4.3,23500,"Gasoline",25
+"Fiat",1.6,9933,"Gasoline",24
+"GM - Chevrolet",1,8142,"Gasoline",27
+"Ford",2,52451,"Gasoline",10
+"Ford",2.5,117773,"Gasoline",6
+"Mercedes-Benz",3,80715,"Diesel",15
+"GM - Chevrolet",1.8,58734,"Gasoline",9
+"Fiat",1.5,9539,"Gasoline",27
+"Mercedes-Benz",3.2,62231,"Gasoline",18
+"GM - Chevrolet",1.4,64684,"Gasoline",6
+"Mercedes-Benz",3.2,44764,"Gasoline",20
+"Ford",3,68338,"Diesel",11
+"VW - VolksWagen",3.6,63684,"Gasoline",14
+"Ford",3,63200,"Diesel",16
+"GM - Chevrolet",4.1,13035,"Gasoline",34
+"Ford",2.5,129307,"Gasoline",5
+"Mercedes-Benz",3,435974,"Gasoline",4
+"GM - Chevrolet",4.1,41073,"Gasoline",24
+"VW - VolksWagen",1.6,82085,"Gasoline",4
+"VW - VolksWagen",1.6,52567,"Gasoline",8
+"Ford",2.7,294579,"Gasoline",3
+"Ford",1.6,54505,"Gasoline",9
+"Mercedes-Benz",6,84727,"Gasoline",25
+"GM - Chevrolet",1.6,10393,"Gasoline",21
+"Fiat",1.3,10561,"Gasoline",18
+"Fiat",1.6,4552,"Gasoline",33
+"Mercedes-Benz",6,90230,"Gasoline",25
+"Fiat",1,11169,"Gasoline",20
+"VW - VolksWagen",1.6,43269,"Gasoline",8
+"GM - Chevrolet",2.8,234726,"Diesel",0
+"Mercedes-Benz",2.2,164769,"Diesel",6
+"VW - VolksWagen",1.6,65848,"Gasoline",8
+"GM - Chevrolet",1,19637,"Gasoline",12
+"VW - VolksWagen",1,38138,"Gasoline",8
+"Ford",2.8,47318,"Diesel",18
+"GM - Chevrolet",2.5,10978,"Gasoline",35
+"Ford",5,27764,"Gasoline",25
+"Ford",5.8,23437,"Gasoline",29
+"Ford",1.6,12408,"Gasoline",23
+"Ford",1,56287,"Gasoline",2
+"VW - VolksWagen",1.6,27930,"Gasoline",13
+"VW - VolksWagen",1.6,10239,"Gasoline",25
+"VW - VolksWagen",1.6,18074,"Gasoline",24
+"Ford",1,13052,"Gasoline",18
+"VW - VolksWagen",1.6,53046,"Gasoline",6
+"Mercedes-Benz",2,38878,"Gasoline",14
+"GM - Chevrolet",4.1,24163,"Gasoline",32
+"VW - VolksWagen",2,98847,"Diesel",11
+"Mercedes-Benz",5.5,117888,"Gasoline",13
+"Mercedes-Benz",1.9,16198,"Gasoline",21
+"Mercedes-Benz",3,788433,"Gasoline",3
+"GM - Chevrolet",1.4,144116,"Gasoline",0
+"GM - Chevrolet",2,25264,"Gasoline",16
+"Mercedes-Benz",2.2,43305,"Diesel",20
+"GM - Chevrolet",1,10823,"Gasoline",23
+"Ford",2.2,175797,"Diesel",4
+"VW - VolksWagen",2,27518,"Gasoline",24
+"VW - VolksWagen",1.8,5924,"Gasoline",29
+"Ford",3,71404,"Diesel",11
+"Ford",1,62639,"Gasoline",2
+"Ford",1.6,8867,"Gasoline",33
+"Ford",4.2,122676,"Diesel",19
+"Mercedes-Benz",2.5,31298,"Diesel",25
+"Fiat",1.4,32873,"Gasoline",10
+"GM - Chevrolet",4.1,27635,"Gasoline",35
+"Mercedes-Benz",3,666255,"Gasoline",1
+"GM - Chevrolet",1.4,43475,"Gasoline",9
+"Fiat",1.8,32218,"Gasoline",15
+"Fiat",1.4,54118,"Gasoline",6
+"Ford",4.2,59548,"Gasoline",23
+"Ford",2,54161,"Gasoline",10
+"Fiat",1.3,11569,"Alcohol",19
+"Fiat",1.6,18705,"Gasoline",22
+"GM - Chevrolet",4.1,13217,"Gasoline",34
+"Ford",1,59657,"Gasoline",7
+"VW - VolksWagen",1.4,81936,"Gasoline",8
+"Mercedes-Benz",2.2,294829,"Diesel",0
+"GM - Chevrolet",1.8,71791,"Gasoline",7
+"Ford",1.8,8849,"Gasoline",24
+"Ford",1.6,28320,"Gasoline",13
+"Mercedes-Benz",1.7,42543,"Gasoline",12
+"GM - Chevrolet",6.2,365785,"Gasoline",6
+"GM - Chevrolet",3,43789,"Gasoline",12
+"Mercedes-Benz",2.3,30788,"Gasoline",30
+"Ford",1.8,9566,"Gasoline",27
+"GM - Chevrolet",1.8,50533,"Gasoline",9
+"Ford",2,37650,"Gasoline",11
+"GM - Chevrolet",5.7,20896,"Gasoline",32
+"Ford",2,17628,"Gasoline",20
+"Ford",1,21648,"Gasoline",12
+"Ford",2,7566,"Gasoline",31
+"GM - Chevrolet",4,55288,"Diesel",32
+"Ford",4.2,85809,"Diesel",23
+"Mercedes-Benz",2.2,99784,"Diesel",7
+"VW - VolksWagen",1.6,41687,"Gasoline",10
+"GM - Chevrolet",2.5,110036,"Gasoline",7
+"Ford",4,28055,"Gasoline",22
+"Mercedes-Benz",2.2,48868,"Diesel",19
+"Mercedes-Benz",3.2,90011,"Gasoline",26
+"Mercedes-Benz",6,279658,"Gasoline",14
+"VW - VolksWagen",1.8,29971,"Gasoline",16
+"Mercedes-Benz",2.2,110168,"Diesel",11
+"GM - Chevrolet",2,30916,"Gasoline",13
+"VW - VolksWagen",3,272801,"Diesel",3
+"Mercedes-Benz",2,560196,"Gasoline",1
+"VW - VolksWagen",2,114180,"Diesel",9
+"VW - VolksWagen",2,62956,"Gasoline",11
+"Mercedes-Benz",3,430376,"Gasoline",6
+"GM - Chevrolet",2.8,63978,"Diesel",17
+"Fiat",1.8,91183,"Gasoline",6
+"Fiat",1.4,47940,"Gasoline",12
+"Ford",1,8203,"Gasoline",23
+"Fiat",1.6,5080,"Gasoline",34
+"Ford",1.6,3535,"Gasoline",35
+"GM - Chevrolet",2.5,8220,"Gasoline",37
+"Fiat",2.3,166894,"Diesel",2
+"Fiat",1.9,49696,"Gasoline",7
+"VW - VolksWagen",2,11417,"Gasoline",27
+"GM - Chevrolet",1.4,32141,"Gasoline",10
+"VW - VolksWagen",1.6,20069,"Gasoline",24
+"VW - VolksWagen",1.6,5179,"Gasoline",29
+"VW - VolksWagen",1.6,14211,"Alcohol",20
+"Ford",1.6,61210,"Gasoline",6
+"GM - Chevrolet",4.3,27692,"Gasoline",22
+"Fiat",1,25196,"Gasoline",11
+"GM - Chevrolet",2.5,9891,"Gasoline",36
+"Fiat",1.8,74062,"Gasoline",5
+"Mercedes-Benz",2,164333,"Gasoline",7
+"Ford",1.6,37252,"Gasoline",9
+"GM - Chevrolet",3.9,42762,"Diesel",37
+"Fiat",1.4,31630,"Gasoline",13
+"GM - Chevrolet",1.4,60950,"Gasoline",6
+"VW - VolksWagen",1,46589,"Gasoline",5
+"Mercedes-Benz",2,495562,"Diesel",1
+"Ford",3.9,18487,"Diesel",35
+"Fiat",1.8,12179,"Gasoline",21
+"GM - Chevrolet",1,12787,"Alcohol",18
+"GM - Chevrolet",2.4,36473,"Gasoline",17
+"Fiat",1.4,45267,"Gasoline",7
+"GM - Chevrolet",1.4,29995,"Gasoline",11
+"VW - VolksWagen",2,34430,"Gasoline",15
+"Fiat",1.4,39168,"Gasoline",11
+"VW - VolksWagen",1.6,43730,"Gasoline",9
+"VW - VolksWagen",1.8,8576,"Gasoline",32
+"Ford",3.2,125577,"Diesel",9
+"VW - VolksWagen",1.4,126083,"Gasoline",5
+"VW - VolksWagen",1.6,39524,"Gasoline",10
+"VW - VolksWagen",2,12185,"Alcohol",27
+"GM - Chevrolet",2.8,124443,"Diesel",8
+"GM - Chevrolet",1,33148,"Gasoline",8
+"GM - Chevrolet",4,24236,"Diesel",35
+"Ford",3.2,219085,"Diesel",3
+"GM - Chevrolet",1,29236,"Gasoline",9
+"VW - VolksWagen",1.6,13198,"Alcohol",22
+"VW - VolksWagen",1.6,45554,"Gasoline",9
+"Ford",1.8,6146,"Gasoline",29
+"Fiat",1,24918,"Gasoline",13
+"GM - Chevrolet",1.4,26510,"Gasoline",13
+"VW - VolksWagen",1.8,26281,"Gasoline",23
+"GM - Chevrolet",1.6,14014,"Gasoline",23
+"Fiat",1.6,11160,"Gasoline",24
+"GM - Chevrolet",1,10864,"Gasoline",23
+"Mercedes-Benz",2.2,102950,"Diesel",10
+"Fiat",1.6,39806,"Gasoline",9
+"VW - VolksWagen",1.6,39609,"Gasoline",11
+"VW - VolksWagen",1.8,32238,"Gasoline",18
+"VW - VolksWagen",1,10225,"Gasoline",21
+"VW - VolksWagen",2,181994,"Gasoline",4
+"Ford",5.8,23351,"Gasoline",29
+"Mercedes-Benz",2.2,117854,"Diesel",8
+"GM - Chevrolet",1,14267,"Gasoline",20
+"Fiat",1.8,37938,"Gasoline",11
+"Ford",2,40247,"Gasoline",13
+"Fiat",1.8,43387,"Gasoline",11
+"Ford",4.2,117667,"Diesel",23
+"Ford",3.2,114088,"Diesel",8
+"VW - VolksWagen",2,16089,"Gasoline",23
+"VW - VolksWagen",3.2,42873,"Gasoline",16
+"Ford",2.3,46573,"Gasoline",15
+"GM - Chevrolet",1.8,118842,"Gasoline",0
+"Mercedes-Benz",5,99999,"Gasoline",21
+"VW - VolksWagen",1.6,14276,"Alcohol",21
+"Ford",3,80968,"Diesel",11
+"Fiat",1.8,91713,"Gasoline",2
+"VW - VolksWagen",1.6,12923,"Gasoline",20
+"Mercedes-Benz",2.2,79437,"Diesel",14
+"Mercedes-Benz",1.6,59853,"Gasoline",12
+"Mercedes-Benz",1.6,80256,"Gasoline",9
+"Fiat",1.3,17589,"Gasoline",18
+"Fiat",2.4,26973,"Gasoline",18
+"GM - Chevrolet",4.1,9632,"Gasoline",38
+"Mercedes-Benz",2,18756,"Gasoline",30
+"Mercedes-Benz",2.2,76194,"Diesel",12
+"Ford",1.8,9768,"Gasoline",23
+"GM - Chevrolet",4,48596,"Diesel",32
+"GM - Chevrolet",1.4,48894,"Gasoline",7
+"GM - Chevrolet",2.8,48867,"Diesel",21
+"Mercedes-Benz",2,483265,"Diesel",1
+"Fiat",1.8,24437,"Gasoline",17
+"GM - Chevrolet",4.1,16691,"Gasoline",32
+"Fiat",1.4,80198,"Gasoline",4
+"GM - Chevrolet",1.8,23913,"Gasoline",15
+"GM - Chevrolet",4.1,16419,"Gasoline",32
+"Ford",2.2,132699,"Diesel",6
+"GM - Chevrolet",2.4,51159,"Gasoline",14
+"Ford",2.2,144333,"Diesel",5
+"Mercedes-Benz",5,213329,"Gasoline",16
+"GM - Chevrolet",5.7,273234,"Gasoline",16
+"Fiat",1,32965,"Gasoline",10
+"VW - VolksWagen",1.8,7072,"Alcohol",27
+"GM - Chevrolet",2,28900,"Gasoline",14
+"GM - Chevrolet",1,116435,"Gasoline",0
+"Fiat",2.3,110413,"Diesel",7
+"Fiat",1.8,21345,"Gasoline",18
+"VW - VolksWagen",1.6,100584,"Gasoline",2
+"Fiat",1.8,21632,"Gasoline",18
+"Ford",2.5,34352,"Diesel",29
+"VW - VolksWagen",1.8,18715,"Gasoline",26
+"Fiat",2.4,14298,"Gasoline",21
+"Fiat",1,24344,"Gasoline",15
+"Ford",4.2,100731,"Diesel",18
+"VW - VolksWagen",1.6,8867,"Gasoline",32
+"Mercedes-Benz",2.2,115619,"Diesel",9
+"Fiat",1.4,35965,"Gasoline",13
+"GM - Chevrolet",1.8,16751,"Gasoline",22
+"GM - Chevrolet",1,74353,"Gasoline",3
+"GM - Chevrolet",2.5,26335,"Diesel",24
+"VW - VolksWagen",4.2,57312,"Gasoline",15
+"VW - VolksWagen",1.8,24296,"Gasoline",20
+"VW - VolksWagen",1.8,8235,"Gasoline",26
+"Fiat",1.8,7291,"Gasoline",24
+"Ford",1.6,15520,"Gasoline",21
+"Ford",1.6,60230,"Gasoline",8
+"Fiat",2.8,36894,"Diesel",17
+"Ford",2.5,27716,"Gasoline",25
+"Ford",3.9,105361,"Diesel",13
+"GM - Chevrolet",2.4,62953,"Gasoline",11
+"Ford",1.8,6448,"Alcohol",28
+"VW - VolksWagen",1,16754,"Gasoline",17
+"Fiat",2.8,23139,"Diesel",25
+"Fiat",1.4,82082,"Gasoline",4
+"Ford",1.6,64814,"Gasoline",6
+"Ford",2,8641,"Gasoline",26
+"GM - Chevrolet",1.8,9021,"Alcohol",25
+"VW - VolksWagen",1.6,5371,"Gasoline",36
+"Ford",1.6,58493,"Gasoline",8
+"Mercedes-Benz",3.2,47584,"Gasoline",28
+"GM - Chevrolet",2.8,104224,"Diesel",10
+"VW - VolksWagen",1.8,10699,"Gasoline",34
+"Mercedes-Benz",1.8,189541,"Gasoline",10
+"GM - Chevrolet",5.7,51174,"Gasoline",32
+"GM - Chevrolet",2.2,12392,"Alcohol",28
+"VW - VolksWagen",1.6,14850,"Alcohol",21
+"VW - VolksWagen",1.6,11367,"Alcohol",26
+"Ford",1.6,14990,"Gasoline",20
+"Ford",1,20119,"Gasoline",19
+"GM - Chevrolet",1,20180,"Gasoline",15
+"GM - Chevrolet",2,25677,"Gasoline",17
+"Ford",2,72496,"Gasoline",6
+"GM - Chevrolet",3.9,44289,"Diesel",37
+"VW - VolksWagen",2.5,34479,"Gasoline",15
+"GM - Chevrolet",2,7464,"Gasoline",31
+"GM - Chevrolet",1.8,60248,"Gasoline",7
+"Ford",2.8,49802,"Diesel",19
+"Ford",1.8,9406,"Gasoline",27
+"Ford",2,22201,"Gasoline",17
+"VW - VolksWagen",1.8,19882,"Gasoline",26
+"Fiat",1.8,29045,"Gasoline",14
+"Mercedes-Benz",2.2,231280,"Diesel",0
+"VW - VolksWagen",1.6,58601,"Gasoline",5
+"VW - VolksWagen",1.6,52675,"Gasoline",6
+"GM - Chevrolet",1.6,12697,"Gasoline",26
+"VW - VolksWagen",1.4,152118,"Gasoline",5
+"Ford",2,21173,"Gasoline",20
+"GM - Chevrolet",2.8,119208,"Diesel",8
+"Ford",1.6,23067,"Gasoline",14
+"VW - VolksWagen",1.6,20429,"Alcohol",19
+"Fiat",1.5,5294,"Gasoline",32
+"Ford",1.6,53755,"Gasoline",9
+"Fiat",1.4,35953,"Gasoline",10
+"VW - VolksWagen",2.8,23965,"Gasoline",22
+"GM - Chevrolet",2,8719,"Gasoline",28
+"GM - Chevrolet",1.4,70641,"Gasoline",5
+"Ford",2.3,54236,"Gasoline",13
+"GM - Chevrolet",4.1,18285,"Gasoline",35
+"GM - Chevrolet",2,30396,"Gasoline",14
+"Fiat",1.8,28566,"Gasoline",16
+"Mercedes-Benz",3,84956,"Diesel",15
+"Fiat",1.4,33121,"Gasoline",11
+"GM - Chevrolet",4.1,31827,"Gasoline",31
+"Ford",1.6,24331,"Gasoline",13
+"VW - VolksWagen",1.8,17182,"Alcohol",19
+"Mercedes-Benz",1.3,281399,"Gasoline",1
+"Mercedes-Benz",5.5,281169,"Gasoline",12
+"VW - VolksWagen",1.6,28321,"Gasoline",16
+"Mercedes-Benz",2.2,168505,"Diesel",6
+"Ford",2,60091,"Gasoline",8
+"Fiat",1.8,57780,"Gasoline",7
+"Mercedes-Benz",2,345666,"Gasoline",5
+"Mercedes-Benz",3,32152,"Gasoline",30
+"VW - VolksWagen",1,14175,"Gasoline",17
+"GM - Chevrolet",2.2,11403,"Gasoline",26
+"Ford",2,42239,"Gasoline",11
+"VW - VolksWagen",1.6,87655,"Gasoline",0
+"VW - VolksWagen",2,94521,"Diesel",10
+"GM - Chevrolet",1.4,24049,"Gasoline",16
+"Fiat",1.6,44034,"Gasoline",7
+"Ford",2.2,124429,"Diesel",7
+"Mercedes-Benz",2,157540,"Gasoline",10
+"Fiat",1,28006,"Gasoline",11
+"Ford",4.6,45665,"Gasoline",24
+"Ford",3.2,126900,"Diesel",9
+"Fiat",1.4,25286,"Gasoline",15
+"GM - Chevrolet",4,52939,"Diesel",31
+"Fiat",1.6,29155,"Gasoline",12
+"Ford",3.2,155946,"Diesel",7
+"VW - VolksWagen",2,17825,"Gasoline",24
+"Mercedes-Benz",5.5,172938,"Gasoline",11
+"VW - VolksWagen",1.6,82965,"Gasoline",5
+"Ford",3.9,50976,"Diesel",30
+"VW - VolksWagen",2,60748,"Gasoline",12
+"GM - Chevrolet",4.3,23598,"Gasoline",22
+"GM - Chevrolet",1.4,30657,"Gasoline",10
+"Fiat",1.4,35868,"Gasoline",9
+"GM - Chevrolet",1,19950,"Gasoline",15
+"VW - VolksWagen",2.8,9064,"Gasoline",29
+"Mercedes-Benz",4,1407402,"Gasoline",4
+"Ford",3,47046,"Gasoline",11
+"VW - VolksWagen",1.6,5206,"Gasoline",30
+"Mercedes-Benz",5.6,35690,"Gasoline",33
+"Ford",1.6,28504,"Gasoline",12
+"VW - VolksWagen",1,50897,"Gasoline",6
+"Ford",2.8,34830,"Diesel",17
+"Fiat",2.5,13669,"Diesel",26
+"Ford",1.8,7555,"Alcohol",27
+"Ford",3.9,128409,"Diesel",12
+"Ford",3,62450,"Diesel",18
+"Ford",2,59118,"Gasoline",9
+"Ford",1.6,37214,"Gasoline",13
+"Ford",3.6,7348,"Gasoline",37
+"GM - Chevrolet",2,26523,"Gasoline",18
+"Fiat",1.4,39417,"Gasoline",10
+"GM - Chevrolet",2,8845,"Gasoline",31
+"GM - Chevrolet",1,73141,"Gasoline",3
+"Ford",2,27727,"Gasoline",15
+"GM - Chevrolet",2.4,44778,"Gasoline",16
+"Mercedes-Benz",2.2,92397,"Diesel",11
+"GM - Chevrolet",2.8,59816,"Diesel",18
+"Mercedes-Benz",1.6,98573,"Diesel",4
+"Fiat",1,9139,"Gasoline",27
+"VW - VolksWagen",1.6,49943,"Gasoline",7
+"VW - VolksWagen",1.8,12892,"Alcohol",21
+"Fiat",1.5,12382,"Gasoline",26
+"VW - VolksWagen",1.8,13213,"Gasoline",26
+"VW - VolksWagen",2,122635,"Diesel",5
+"GM - Chevrolet",4.1,13307,"Gasoline",34
+"VW - VolksWagen",1.6,78541,"Gasoline",2
+"VW - VolksWagen",1.6,35896,"Gasoline",13
+"GM - Chevrolet",2,6575,"Gasoline",32
+"Ford",2,15337,"Gasoline",21
+"Fiat",1.8,33768,"Gasoline",14
+"Fiat",2.3,168982,"Diesel",3
+"Ford",2.8,53588,"Diesel",20
+"GM - Chevrolet",3.8,22590,"Gasoline",23
+"GM - Chevrolet",2,29926,"Gasoline",14
+"VW - VolksWagen",1.6,77608,"Gasoline",5
+"VW - VolksWagen",1.4,119569,"Gasoline",6
+"VW - VolksWagen",1.6,48363,"Gasoline",8
+"Fiat",1.4,66659,"Gasoline",6
+"VW - VolksWagen",1,32652,"Gasoline",11
+"GM - Chevrolet",2,21758,"Gasoline",17
+"Ford",1.6,68925,"Gasoline",6
+"Mercedes-Benz",2.2,176420,"Diesel",2
+"Fiat",1.5,17696,"Gasoline",20
+"VW - VolksWagen",1.8,5907,"Alcohol",28
+"Mercedes-Benz",1.9,12988,"Gasoline",22
+"VW - VolksWagen",1,54298,"Gasoline",7
+"Mercedes-Benz",3,436257,"Gasoline",4
+"Ford",3.9,48922,"Diesel",31
+"VW - VolksWagen",2,18540,"Gasoline",20
+"Mercedes-Benz",2.2,92847,"Diesel",13
+"VW - VolksWagen",1,19564,"Gasoline",18
+"GM - Chevrolet",1.6,8771,"Gasoline",29
+"GM - Chevrolet",1,12570,"Gasoline",22
+"VW - VolksWagen",1.8,24184,"Gasoline",18
+"Fiat",1.4,44668,"Gasoline",10
+"Ford",2,39373,"Gasoline",11
+"Ford",4.2,99116,"Diesel",23
+"Mercedes-Benz",2.2,105120,"Diesel",6
+"VW - VolksWagen",1.6,26343,"Gasoline",20
+"Ford",2.5,40125,"Diesel",29
+"VW - VolksWagen",1.6,47652,"Gasoline",9
+"Ford",1.6,7917,"Gasoline",33
+"GM - Chevrolet",1.4,32922,"Gasoline",13
+"VW - VolksWagen",2,157978,"Gasoline",5
+"VW - VolksWagen",1.6,24720,"Gasoline",16
+"Mercedes-Benz",3.2,39978,"Gasoline",25
+"Fiat",1.8,39304,"Gasoline",12
+"VW - VolksWagen",1,53282,"Gasoline",4
+"GM - Chevrolet",4.3,10190,"Gasoline",29
+"GM - Chevrolet",4.1,50485,"Diesel",23
+"Fiat",2.8,40926,"Diesel",18
+"VW - VolksWagen",1.8,4305,"Gasoline",36
+"GM - Chevrolet",4.1,10127,"Gasoline",38
+"Fiat",2,23687,"Gasoline",21
+"VW - VolksWagen",2,12799,"Gasoline",26
+"Ford",3.8,72023,"Gasoline",28
+"Fiat",1.8,27848,"Gasoline",17
+"Ford",1.6,6259,"Alcohol",27
+"Fiat",1,10094,"Gasoline",23
+"VW - VolksWagen",3.6,43421,"Gasoline",16
+"GM - Chevrolet",4.1,10669,"Gasoline",37
+"Fiat",1,55398,"Gasoline",3
+"Ford",4.2,116460,"Diesel",20
+"Ford",3.9,118447,"Diesel",12
+"GM - Chevrolet",4.1,30491,"Gasoline",33
+"Fiat",1.8,60942,"Gasoline",7
+"GM - Chevrolet",2,191118,"Gasoline",0
+"GM - Chevrolet",1,87263,"Gasoline",1
+"Mercedes-Benz",4.3,60987,"Gasoline",23
+"Mercedes-Benz",2.2,89263,"Diesel",11
+"Mercedes-Benz",2.2,226197,"Diesel",1
+"VW - VolksWagen",1.6,19217,"Gasoline",19
+"Fiat",1.8,26692,"Gasoline",16
+"Fiat",1.6,45132,"Gasoline",10
+"Ford",2,8218,"Alcohol",27
+"VW - VolksWagen",2,40900,"Gasoline",12
+"GM - Chevrolet",1.4,67225,"Gasoline",3
+"Ford",2,8143,"Gasoline",29
+"Ford",1,31269,"Gasoline",9
+"GM - Chevrolet",1.6,39360,"Gasoline",10
+"Fiat",1,11582,"Gasoline",21
+"Ford",4,32734,"Gasoline",22
+"VW - VolksWagen",2,13427,"Gasoline",32
+"GM - Chevrolet",2,138082,"Gasoline",4
+"VW - VolksWagen",1.6,62524,"Gasoline",5
+"VW - VolksWagen",1.6,12509,"Gasoline",20
+"GM - Chevrolet",4.3,31957,"Gasoline",21
+"VW - VolksWagen",2,14829,"Gasoline",29
+"GM - Chevrolet",1.4,51370,"Gasoline",6
+"Ford",2.3,64803,"Gasoline",13
+"Mercedes-Benz",4.7,171818,"Gasoline",11
+"Mercedes-Benz",1.8,55276,"Gasoline",14
+"Ford",2,72157,"Gasoline",5
+"GM - Chevrolet",4.1,21188,"Gasoline",33
+"Ford",2,20016,"Gasoline",18
+"Fiat",1,12277,"Gasoline",24
+"Ford",4.6,20544,"Gasoline",31
+"Mercedes-Benz",2.2,211129,"Diesel",0
+"Fiat",1.6,11950,"Gasoline",24
+"Mercedes-Benz",2,225451,"Gasoline",7
+"Ford",4.2,109357,"Diesel",19
+"GM - Chevrolet",2.5,133066,"Gasoline",6
+"Fiat",1.8,27336,"Gasoline",16
+"Ford",2,8420,"Gasoline",29
+"VW - VolksWagen",1.6,32051,"Gasoline",13
+"GM - Chevrolet",3.1,17066,"Gasoline",29
+"GM - Chevrolet",2,33982,"Gasoline",11
+"Mercedes-Benz",5.5,446597,"Gasoline",8
+"Ford",1.5,75536,"Gasoline",4
+"Ford",3.9,158287,"Diesel",14
+"Mercedes-Benz",6.2,350128,"Gasoline",14
+"Fiat",1,44451,"Gasoline",5
+"GM - Chevrolet",2.4,56467,"Gasoline",14
+"Mercedes-Benz",2.2,111296,"Diesel",9
+"Fiat",1.8,33608,"Gasoline",13
+"Mercedes-Benz",1.6,124209,"Gasoline",8
+"Ford",2.5,39020,"Diesel",22
+"Ford",1.8,8426,"Gasoline",24
+"Fiat",1.8,21372,"Gasoline",18
+"GM - Chevrolet",2.5,4990,"Gasoline",36
+"GM - Chevrolet",5.7,149590,"Gasoline",16
+"Ford",4.2,120665,"Diesel",19
+"Fiat",1.6,9553,"Gasoline",23
+"Ford",2,24053,"Gasoline",17
+"Mercedes-Benz",2,355552,"Gasoline",5
+"VW - VolksWagen",1,52965,"Gasoline",6
+"Ford",1,23896,"Gasoline",12
+"Ford",2.2,218851,"Diesel",1
+"Fiat",1.5,11522,"Alcohol",23
+"Ford",1.5,46351,"Gasoline",7
+"Fiat",1.8,43453,"Gasoline",10
+"VW - VolksWagen",1.6,87652,"Gasoline",4
+"Fiat",1.3,57833,"Gasoline",5
+"VW - VolksWagen",2,10561,"Alcohol",26
+"Mercedes-Benz",2.2,245151,"Diesel",0
+"VW - VolksWagen",1.6,19125,"Gasoline",25
+"Ford",1,13053,"Gasoline",21
+"GM - Chevrolet",2,12906,"Gasoline",24
+"Fiat",1.6,13783,"Gasoline",21
+"VW - VolksWagen",1.8,5168,"Gasoline",35
+"VW - VolksWagen",2,9508,"Alcohol",27
+"VW - VolksWagen",1,90521,"Gasoline",3
+"Ford",4,35233,"Gasoline",22
+"Ford",1.5,87365,"Gasoline",0
+"VW - VolksWagen",3.2,41244,"Gasoline",16
+"VW - VolksWagen",1.4,27712,"Gasoline",15
+"VW - VolksWagen",1.6,38052,"Gasoline",11
+"Fiat",1.5,5384,"Gasoline",34
+"Mercedes-Benz",2.2,139163,"Diesel",8
+"VW - VolksWagen",2,133885,"Gasoline",8
+"Ford",1.6,19039,"Gasoline",17
+"Fiat",1,17755,"Gasoline",15
+"VW - VolksWagen",1.4,149373,"Gasoline",9
+"GM - Chevrolet",1.6,14558,"Gasoline",26
+"GM - Chevrolet",1,39456,"Gasoline",10
+"Fiat",2.3,152102,"Diesel",5
+"GM - Chevrolet",1.8,8040,"Alcohol",27
+"Mercedes-Benz",2,318839,"Gasoline",3
+"Ford",4.2,37894,"Gasoline",21
+"VW - VolksWagen",1.8,34991,"Gasoline",14
+"Fiat",2,8630,"Gasoline",29
+"GM - Chevrolet",3.9,46984,"Diesel",36
+"Ford",4,14228,"Gasoline",27
+"Ford",3.9,32632,"Diesel",33
+"GM - Chevrolet",1.4,40833,"Gasoline",8
+"GM - Chevrolet",2,21854,"Gasoline",19
+"Ford",1.5,97454,"Gasoline",2
+"VW - VolksWagen",4.2,43216,"Gasoline",17
+"GM - Chevrolet",1.4,29521,"Gasoline",13
+"VW - VolksWagen",2,60548,"Gasoline",12
+"VW - VolksWagen",1.6,54800,"Gasoline",8
+"Fiat",1.6,3598,"Gasoline",36
+"Fiat",1.3,22227,"Gasoline",10
+"Fiat",1.8,62260,"Gasoline",8
+"Ford",1.8,6139,"Gasoline",33
+"VW - VolksWagen",1.6,33000,"Gasoline",13
+"Fiat",1,45332,"Gasoline",4
+"Mercedes-Benz",2,382822,"Gasoline",4
+"Ford",3.5,55948,"Gasoline",13
+"VW - VolksWagen",1.6,31793,"Gasoline",13
+"VW - VolksWagen",1.8,33500,"Gasoline",18
+"VW - VolksWagen",1.6,29572,"Gasoline",14
+"Fiat",1,26453,"Gasoline",10
+"Ford",3.9,160783,"Diesel",12
+"Mercedes-Benz",2,435254,"Gasoline",0
+"GM - Chevrolet",2,31394,"Gasoline",11
+"Fiat",1.6,38593,"Gasoline",9
+"Fiat",1.6,4003,"Gasoline",36
+"Fiat",1.8,73925,"Gasoline",5
+"VW - VolksWagen",1.6,10714,"Alcohol",21
+"GM - Chevrolet",2.1,12134,"Diesel",26
+"Ford",1.6,29318,"Gasoline",11
+"GM - Chevrolet",2.8,40904,"Diesel",20
+"Ford",1,17396,"Gasoline",15
+"GM - Chevrolet",1.8,14208,"Gasoline",23
+"VW - VolksWagen",1,59270,"Gasoline",6
+"Ford",4,14555,"Gasoline",27
+"GM - Chevrolet",2.4,32163,"Gasoline",16
+"Ford",1.8,5590,"Gasoline",32
+"VW - VolksWagen",1.8,24954,"Gasoline",18
+"Fiat",1.6,40732,"Gasoline",8
+"GM - Chevrolet",2.5,33184,"Diesel",25
+"Fiat",1,14549,"Gasoline",17
+"Fiat",1.8,90890,"Gasoline",2
+"VW - VolksWagen",1.6,46990,"Gasoline",8
+"Mercedes-Benz",1.8,52848,"Gasoline",13
+"VW - VolksWagen",1.6,43448,"Gasoline",8
+"GM - Chevrolet",4.1,30208,"Gasoline",27
+"Mercedes-Benz",5.5,445731,"Gasoline",7
+"Ford",1.8,4491,"Gasoline",38
+"Ford",4,30049,"Gasoline",23
+"Ford",1.6,40475,"Gasoline",8
+"GM - Chevrolet",2.5,20062,"Diesel",27
+"GM - Chevrolet",2.1,17412,"Diesel",27
+"Mercedes-Benz",5,138077,"Gasoline",17
+"VW - VolksWagen",1.6,36641,"Gasoline",10
+"Fiat",2,10571,"Gasoline",27
+"Fiat",1,24713,"Gasoline",9
+"Fiat",1,10272,"Alcohol",23
+"Fiat",1.8,83636,"Gasoline",2
+"Mercedes-Benz",4.3,52773,"Gasoline",25
+"VW - VolksWagen",1.8,24115,"Gasoline",17
+"GM - Chevrolet",1.6,15714,"Gasoline",19
+"Mercedes-Benz",5.5,374706,"Gasoline",9
+"Fiat",1,32056,"Gasoline",7
+"Mercedes-Benz",6.2,202909,"Gasoline",13
+"Mercedes-Benz",5,114784,"Gasoline",18
+"VW - VolksWagen",1.6,46840,"Gasoline",7
+"Fiat",1.8,71019,"Gasoline",7
+"Fiat",1.8,63847,"Gasoline",9
+"GM - Chevrolet",4.1,12273,"Gasoline",29
+"VW - VolksWagen",1.8,6857,"Gasoline",32
+"VW - VolksWagen",1.6,60245,"Gasoline",9
+"Ford",2.5,99577,"Gasoline",7
+"VW - VolksWagen",1.8,4162,"Gasoline",37
+"Fiat",1,20684,"Gasoline",16
+"VW - VolksWagen",1.6,19325,"Gasoline",23
+"Ford",1.6,50832,"Gasoline",9
+"Mercedes-Benz",2.2,346775,"Diesel",0
+"Fiat",1.5,14468,"Gasoline",25
+"GM - Chevrolet",1,111732,"Gasoline",2
+"Fiat",1.8,23249,"Gasoline",17
+"Ford",3.5,67393,"Gasoline",11
+"Ford",2,39814,"Gasoline",12
+"Ford",3,20979,"Gasoline",25
+"Fiat",1.6,11622,"Gasoline",24
+"Fiat",2.4,14235,"Gasoline",22
+"Ford",1,17231,"Gasoline",17
+"Fiat",1.3,67921,"Gasoline",4
+"VW - VolksWagen",2,15815,"Gasoline",24
+"Ford",2,119273,"Gasoline",5
+"Ford",2,40644,"Gasoline",10
+"Ford",4.2,26530,"Gasoline",25
+"Ford",3.9,125723,"Diesel",12
+"Fiat",1.4,69427,"Gasoline",8
+"Mercedes-Benz",3,305157,"Diesel",7
+"Fiat",1.6,38148,"Gasoline",9
+"Ford",1.6,16600,"Gasoline",20
+"GM - Chevrolet",1.4,99912,"Gasoline",5
+"VW - VolksWagen",1.8,8575,"Gasoline",25
+"Ford",4.2,141535,"Diesel",18
+"GM - Chevrolet",1.8,25246,"Gasoline",18
+"VW - VolksWagen",2,216042,"Gasoline",4
+"GM - Chevrolet",1.8,42640,"Gasoline",9
+"GM - Chevrolet",4.1,10691,"Gasoline",38
+"GM - Chevrolet",1,15617,"Gasoline",16
+"GM - Chevrolet",2.4,56431,"Gasoline",14
+"Mercedes-Benz",6,319898,"Gasoline",14
+"Fiat",1.8,40199,"Gasoline",9
+"VW - VolksWagen",1,11322,"Gasoline",21
+"Fiat",1.4,58764,"Gasoline",3
+"Ford",1.6,3828,"Gasoline",36
+"Ford",2.5,85433,"Gasoline",8
+"GM - Chevrolet",2,23027,"Gasoline",21
+"Ford",2.3,27567,"Gasoline",17
+"GM - Chevrolet",4.1,13509,"Gasoline",32
+"GM - Chevrolet",1.8,118321,"Gasoline",0
+"Fiat",2.4,28146,"Gasoline",16
+"VW - VolksWagen",1.6,40366,"Gasoline",9
+"Mercedes-Benz",5,229210,"Gasoline",15
+"GM - Chevrolet",2.2,19550,"Gasoline",20
+"GM - Chevrolet",1,15420,"Alcohol",17
+"GM - Chevrolet",1.4,17754,"Gasoline",18
+"GM - Chevrolet",1.4,55975,"Gasoline",6
+"Ford",1,6942,"Gasoline",24
+"GM - Chevrolet",1.4,58007,"Gasoline",4
+"Fiat",1.4,31160,"Gasoline",12
+"Ford",2.5,94769,"Gasoline",8
+"Ford",2.3,44925,"Gasoline",14
+"Mercedes-Benz",5,128007,"Gasoline",15
+"VW - VolksWagen",3.6,78301,"Gasoline",11
+"GM - Chevrolet",5.7,266049,"Gasoline",13
+"GM - Chevrolet",1,10253,"Gasoline",24
+"Fiat",1,22136,"Gasoline",14
+"Ford",3,76055,"Diesel",11
+"GM - Chevrolet",1,122937,"Gasoline",0
+"GM - Chevrolet",2,27708,"Gasoline",16
+"Fiat",1.4,49426,"Gasoline",11
+"GM - Chevrolet",1,21080,"Gasoline",16
+"VW - VolksWagen",2,10944,"Gasoline",34
+"Mercedes-Benz",2.2,57145,"Diesel",18
+"VW - VolksWagen",2,150600,"Gasoline",7
+"Mercedes-Benz",4.7,444956,"Gasoline",7
+"VW - VolksWagen",1.6,30627,"Gasoline",13
+"GM - Chevrolet",1.8,6588,"Gasoline",33
+"VW - VolksWagen",2,25065,"Gasoline",19
+"Fiat",1.5,10470,"Gasoline",29
+"Ford",1.6,51389,"Gasoline",7
+"GM - Chevrolet",1,19815,"Gasoline",14
+"GM - Chevrolet",2.2,13666,"Gasoline",28
+"GM - Chevrolet",2.5,163680,"Gasoline",2
+"Mercedes-Benz",5,265176,"Gasoline",11
+"Fiat",1.4,28336,"Gasoline",13
+"Ford",2.2,76251,"Diesel",10
+"Fiat",1.8,15221,"Gasoline",19
+"GM - Chevrolet",1,15613,"Gasoline",18
+"Ford",3,57938,"Diesel",15
+"VW - VolksWagen",1.8,20367,"Gasoline",23
+"VW - VolksWagen",1.4,152052,"Gasoline",0
+"GM - Chevrolet",1,21058,"Gasoline",14
+"Mercedes-Benz",1.6,193088,"Gasoline",4
+"GM - Chevrolet",2.8,91073,"Diesel",10
+"Ford",1.3,6136,"Gasoline",27
+"VW - VolksWagen",2,18986,"Gasoline",20
+"VW - VolksWagen",1.6,56096,"Gasoline",5
+"Fiat",2.3,166765,"Diesel",5
+"GM - Chevrolet",2.5,147032,"Gasoline",3
+"Mercedes-Benz",3,40789,"Gasoline",31
+"VW - VolksWagen",1.6,42372,"Gasoline",8
+"Ford",2.2,156205,"Diesel",3
+"GM - Chevrolet",1.8,30540,"Gasoline",11
+"Ford",1.6,11506,"Alcohol",28
+"GM - Chevrolet",1,79502,"Gasoline",2
+"Fiat",1,22095,"Gasoline",14
+"GM - Chevrolet",2,26499,"Gasoline",17
+"Fiat",1.8,27238,"Gasoline",16
+"GM - Chevrolet",2.2,20089,"Gasoline",21
+"GM - Chevrolet",2.4,52844,"Gasoline",12
+"VW - VolksWagen",1.8,16562,"Alcohol",19
+"Ford",1.6,6932,"Alcohol",27
+"Fiat",1.4,46972,"Gasoline",9
+"Fiat",2.8,44188,"Diesel",17
+"GM - Chevrolet",1.8,44843,"Gasoline",9
+"GM - Chevrolet",2.8,61706,"Diesel",17
+"GM - Chevrolet",4,82836,"Diesel",27
+"GM - Chevrolet",4.1,16201,"Gasoline",33
+"Mercedes-Benz",1.3,312545,"Gasoline",0
+"Fiat",1.8,63290,"Gasoline",8
+"VW - VolksWagen",1.6,46582,"Gasoline",8
+"Fiat",1.6,9275,"Gasoline",26
+"GM - Chevrolet",2.4,41992,"Gasoline",17
+"GM - Chevrolet",1.6,3000,"Gasoline",38
+"Fiat",1.8,37974,"Gasoline",12
+"Ford",2.5,87437,"Gasoline",10
+"GM - Chevrolet",2.8,47607,"Diesel",23
+"GM - Chevrolet",4,47341,"Diesel",31
+"Fiat",1.8,27039,"Gasoline",15
+"VW - VolksWagen",2,72077,"Gasoline",10
+"GM - Chevrolet",1,83840,"Gasoline",2
+"Ford",1.3,8758,"Gasoline",25
+"Mercedes-Benz",5.5,86123,"Gasoline",15
+"Fiat",1.4,25291,"Gasoline",14
+"GM - Chevrolet",3.8,27937,"Gasoline",21
+"Fiat",1.8,44886,"Gasoline",12
+"VW - VolksWagen",2,14313,"Gasoline",26
+"Ford",2.2,156620,"Diesel",3
+"GM - Chevrolet",4.2,80045,"Diesel",23
+"Ford",1.6,56341,"Gasoline",8
+"Ford",3.9,20354,"Diesel",34
+"VW - VolksWagen",2,101238,"Gasoline",10
+"VW - VolksWagen",1.8,16299,"Alcohol",27
+"Fiat",1.3,71247,"Gasoline",3
+"Mercedes-Benz",2.2,74153,"Diesel",14
+"Ford",1.8,7609,"Gasoline",26
+"Mercedes-Benz",3.5,61260,"Gasoline",17
+"VW - VolksWagen",1.8,5946,"Gasoline",29
+"GM - Chevrolet",2.8,135451,"Diesel",8
+"GM - Chevrolet",1.6,14067,"Gasoline",22
+"Fiat",1.8,24181,"Gasoline",13
+"Ford",1.6,12865,"Gasoline",22
+"Mercedes-Benz",6.2,971336,"Gasoline",5
+"VW - VolksWagen",1.8,25541,"Gasoline",15
+"Ford",4.9,25225,"Gasoline",27
+"Fiat",1,8675,"Alcohol",24
+"GM - Chevrolet",4.1,23017,"Gasoline",27
+"Mercedes-Benz",2.2,182125,"Diesel",3
+"Mercedes-Benz",1.8,105192,"Gasoline",11
+"Mercedes-Benz",2.3,18567,"Gasoline",36
+"Fiat",1.8,26894,"Gasoline",13
+"Ford",1.8,3181,"Gasoline",37
+"GM - Chevrolet",1.8,59152,"Gasoline",6
+"GM - Chevrolet",4.3,20133,"Gasoline",29
+"Ford",2,52852,"Gasoline",10
+"VW - VolksWagen",1.8,12515,"Gasoline",23
+"Mercedes-Benz",3.5,61563,"Gasoline",16
+"Fiat",1.6,32377,"Gasoline",11
+"VW - VolksWagen",3,255543,"Diesel",3
+"GM - Chevrolet",2.5,10951,"Gasoline",36
+"Mercedes-Benz",3,596316,"Gasoline",4
+"Mercedes-Benz",2,564916,"Gasoline",0
+"GM - Chevrolet",1.8,47738,"Gasoline",8
+"VW - VolksWagen",1.6,35676,"Gasoline",11
+"VW - VolksWagen",1.3,4985,"Gasoline",38
+"GM - Chevrolet",1.4,38216,"Gasoline",9
+"Mercedes-Benz",2,328552,"Gasoline",3
+"VW - VolksWagen",2,91509,"Gasoline",9
+"GM - Chevrolet",2.5,95266,"Gasoline",8
+"VW - VolksWagen",2.8,17085,"Gasoline",28
+"Fiat",2,28745,"Gasoline",19
+"GM - Chevrolet",2.5,23340,"Diesel",27
+"GM - Chevrolet",4.3,27590,"Gasoline",24
+"Ford",2.5,83084,"Gasoline",9
+"VW - VolksWagen",2,85977,"Diesel",12
+"Mercedes-Benz",6.2,1178859,"Gasoline",4
+"GM - Chevrolet",1,8485,"Gasoline",26
+"Mercedes-Benz",2,161439,"Gasoline",7
+"Fiat",1.4,40872,"Gasoline",9
+"Fiat",1.3,68895,"Gasoline",3
+"Ford",1.6,60225,"Gasoline",6
+"Fiat",1.6,16471,"Gasoline",22
+"Mercedes-Benz",2.2,205122,"Diesel",3
+"Ford",2.4,74109,"Diesel",12
+"GM - Chevrolet",3.9,43999,"Diesel",35
+"VW - VolksWagen",1.8,10365,"Gasoline",31
+"Fiat",1.4,35395,"Gasoline",12
+"Fiat",1,18696,"Gasoline",13
+"VW - VolksWagen",1.6,43120,"Gasoline",9
+"Fiat",1.8,32512,"Gasoline",16
+"VW - VolksWagen",1.6,6676,"Gasoline",28
+"Mercedes-Benz",3.2,72188,"Gasoline",29
+"Fiat",1,20767,"Gasoline",12
+"Fiat",1,27142,"Gasoline",10
+"GM - Chevrolet",1.8,25532,"Gasoline",15
+"VW - VolksWagen",1.6,11359,"Gasoline",23
+"Mercedes-Benz",2.2,37033,"Diesel",21
+"Mercedes-Benz",2,460588,"Gasoline",0
+"GM - Chevrolet",4.2,75174,"Diesel",23
+"Ford",3.9,130319,"Diesel",12
+"VW - VolksWagen",1.8,10311,"Gasoline",30
+"VW - VolksWagen",1.4,208493,"Gasoline",3
+"GM - Chevrolet",1.6,36557,"Gasoline",11
+"VW - VolksWagen",1.6,50452,"Gasoline",6
+"Fiat",1.8,33239,"Gasoline",13
+"VW - VolksWagen",1.6,38124,"Gasoline",14
+"Fiat",1,23296,"Gasoline",12
+"Mercedes-Benz",3,164174,"Diesel",10
+"Ford",2,140767,"Gasoline",5
+"VW - VolksWagen",2,86526,"Gasoline",8
+"GM - Chevrolet",5,37627,"Gasoline",29
+"Mercedes-Benz",2,366530,"Gasoline",3
+"VW - VolksWagen",1,57625,"Gasoline",5
+"VW - VolksWagen",2,18650,"Gasoline",19
+"Mercedes-Benz",2,452525,"Diesel",0
+"Fiat",1.8,54943,"Gasoline",8
+"Ford",4,12596,"Gasoline",32
+"GM - Chevrolet",2.2,16777,"Gasoline",26
+"VW - VolksWagen",1.6,31887,"Gasoline",12
+"GM - Chevrolet",2,40063,"Gasoline",11
+"Mercedes-Benz",5,112245,"Gasoline",20
+"Ford",4,11253,"Gasoline",29
+"VW - VolksWagen",1.6,33531,"Gasoline",8
+"VW - VolksWagen",3.2,38887,"Gasoline",15
+"Fiat",1.3,18456,"Gasoline",18
+"VW - VolksWagen",1,73707,"Gasoline",2
+"Fiat",1.3,88247,"Gasoline",0
+"Mercedes-Benz",3.5,111495,"Gasoline",11
+"Ford",2.8,23907,"Diesel",21
+"Fiat",1.4,45082,"Gasoline",7
+"GM - Chevrolet",1.4,33870,"Gasoline",13
+"Mercedes-Benz",5.5,698393,"Gasoline",6
+"VW - VolksWagen",2,33985,"Gasoline",16
+"VW - VolksWagen",1.6,8823,"Gasoline",32
+"Ford",1.6,54725,"Gasoline",6
+"VW - VolksWagen",2,73862,"Gasoline",10
+"VW - VolksWagen",1.6,18722,"Alcohol",19
+"Fiat",1.4,63263,"Gasoline",7
+"VW - VolksWagen",1,12258,"Gasoline",20
+"Mercedes-Benz",4,1858354,"Gasoline",2
+"GM - Chevrolet",2.2,18771,"Gasoline",25
+"GM - Chevrolet",1,90340,"Gasoline",1
+"Mercedes-Benz",3.5,97573,"Gasoline",16
+"Mercedes-Benz",3.2,61608,"Gasoline",18
+"GM - Chevrolet",4.1,11145,"Gasoline",37
+"Ford",1.5,54723,"Gasoline",4
+"GM - Chevrolet",1.4,25452,"Gasoline",14
+"VW - VolksWagen",1.6,24821,"Alcohol",17
+"Mercedes-Benz",2,303833,"Gasoline",3
+"GM - Chevrolet",1,18663,"Gasoline",15
+"Fiat",1,17466,"Gasoline",15
+"Mercedes-Benz",2.2,232270,"Diesel",0
+"Fiat",1.8,29111,"Gasoline",13
+"GM - Chevrolet",2,33984,"Gasoline",13
+"VW - VolksWagen",1,83815,"Gasoline",5
+"VW - VolksWagen",2,107921,"Diesel",11
+"Fiat",1.4,39934,"Gasoline",11
+"Mercedes-Benz",4,501472,"Gasoline",6
+"Fiat",1.6,50865,"Gasoline",7
+"Fiat",1.4,26682,"Gasoline",15
+"Ford",1.5,37164,"Gasoline",10
+"VW - VolksWagen",1.8,5161,"Gasoline",36
+"VW - VolksWagen",2,78129,"Gasoline",9
+"GM - Chevrolet",2.4,82187,"Gasoline",8
+"VW - VolksWagen",1.8,14476,"Gasoline",24
+"GM - Chevrolet",2,146335,"Gasoline",5
+"Ford",4.3,31166,"Gasoline",25
+"VW - VolksWagen",1,93847,"Gasoline",0
+"GM - Chevrolet",2.8,284816,"Diesel",0
+"GM - Chevrolet",1.8,3846,"Gasoline",37
+"VW - VolksWagen",2,38556,"Gasoline",16
+"Mercedes-Benz",2.4,43873,"Gasoline",20
+"GM - Chevrolet",1.8,7084,"Gasoline",30
+"GM - Chevrolet",1,35731,"Gasoline",7
+"GM - Chevrolet",1.4,39238,"Gasoline",9
+"VW - VolksWagen",1.6,7738,"Gasoline",27
+"VW - VolksWagen",1.8,11713,"Gasoline",31
+"Fiat",1.6,10581,"Gasoline",24
+"Fiat",1.4,35015,"Gasoline",10
+"VW - VolksWagen",1.6,40562,"Gasoline",10
+"VW - VolksWagen",1.6,21167,"Gasoline",22
+"GM - Chevrolet",1.4,87450,"Gasoline",6
+"GM - Chevrolet",4.1,30446,"Gasoline",25
+"VW - VolksWagen",1,35232,"Gasoline",8
+"VW - VolksWagen",2,23786,"Gasoline",17
+"VW - VolksWagen",1.6,72516,"Gasoline",7
+"Mercedes-Benz",3.5,88681,"Gasoline",16
+"GM - Chevrolet",2,8769,"Gasoline",29
+"GM - Chevrolet",2,36838,"Gasoline",13
+"VW - VolksWagen",1,32428,"Gasoline",9
+"VW - VolksWagen",1.6,61899,"Gasoline",5
+"Ford",1,63764,"Gasoline",2
+"VW - VolksWagen",1,10024,"Alcohol",20
+"VW - VolksWagen",1.4,34210,"Gasoline",12
+"Ford",4,32662,"Gasoline",22
+"Ford",4,39494,"Gasoline",28
+"Ford",1.3,13426,"Gasoline",23
+"Ford",3.9,128482,"Diesel",14
+"Ford",3,82769,"Diesel",11
+"VW - VolksWagen",1.8,17020,"Gasoline",21
+"VW - VolksWagen",1,107799,"Gasoline",0
+"VW - VolksWagen",1.3,4759,"Gasoline",38
+"GM - Chevrolet",4.1,14076,"Gasoline",29
+"VW - VolksWagen",1.6,65849,"Gasoline",3
+"VW - VolksWagen",1.6,49338,"Gasoline",7
+"VW - VolksWagen",4.2,245687,"Gasoline",7
+"VW - VolksWagen",1,70327,"Gasoline",2
+"Mercedes-Benz",3.2,60944,"Gasoline",22
+"GM - Chevrolet",2,10467,"Gasoline",28
+"VW - VolksWagen",2.8,19456,"Gasoline",22
+"Ford",3.9,35812,"Diesel",29
+"VW - VolksWagen",1.8,14698,"Gasoline",27
+"GM - Chevrolet",2.8,88914,"Diesel",11
+"Ford",1,17364,"Gasoline",15
+"VW - VolksWagen",1.8,16285,"Gasoline",22
+"Ford",1,10119,"Gasoline",23
+"VW - VolksWagen",1,95493,"Gasoline",3
+"GM - Chevrolet",3.9,61889,"Diesel",30
+"Mercedes-Benz",3.2,51477,"Gasoline",28
+"Fiat",1.5,7736,"Alcohol",26
+"GM - Chevrolet",1.8,60094,"Gasoline",6
+"Fiat",2,23036,"Gasoline",22
+"Fiat",2.3,87247,"Diesel",10
+"Ford",2,24072,"Gasoline",17
+"GM - Chevrolet",2.5,40393,"Diesel",25
+"Ford",1.8,15604,"Alcohol",27
+"Ford",3.9,12322,"Diesel",38
+"Fiat",1.6,48772,"Gasoline",6
+"Fiat",1.4,32909,"Gasoline",12
+"Mercedes-Benz",2.2,79348,"Diesel",13
+"GM - Chevrolet",2.5,10398,"Gasoline",35
+"Ford",2,9879,"Gasoline",24
+"Fiat",1.4,52942,"Gasoline",7
+"VW - VolksWagen",1,98965,"Gasoline",3
+"Mercedes-Benz",3.2,55738,"Gasoline",23
+"Mercedes-Benz",2,161413,"Gasoline",8
+"VW - VolksWagen",1.6,44358,"Gasoline",7
+"GM - Chevrolet",1.4,21145,"Gasoline",16
+"GM - Chevrolet",2,8444,"Alcohol",28
+"Fiat",1.4,51345,"Gasoline",9
+"VW - VolksWagen",1.8,11294,"Gasoline",29
+"Ford",1.6,40817,"Gasoline",9
+"GM - Chevrolet",1.6,38121,"Gasoline",10
+"GM - Chevrolet",3.9,41936,"Diesel",37
+"VW - VolksWagen",1,77531,"Gasoline",0
+"Fiat",1.4,28943,"Gasoline",10
+"Ford",1.3,4931,"Gasoline",28
+"Fiat",2,27010,"Gasoline",20
+"GM - Chevrolet",5.7,428145,"Gasoline",12
+"GM - Chevrolet",2,7766,"Gasoline",30
+"VW - VolksWagen",1,55344,"Gasoline",3
+"Ford",1.5,59287,"Gasoline",4
+"Ford",1.6,11424,"Alcohol",28
+"VW - VolksWagen",1,13064,"Gasoline",21
+"GM - Chevrolet",4.1,21439,"Gasoline",27
+"GM - Chevrolet",1.4,24667,"Gasoline",13
+"Ford",2,37140,"Gasoline",13
+"Fiat",2.8,55458,"Diesel",16
+"Mercedes-Benz",4.7,865672,"Gasoline",6
+"Ford",3,59050,"Diesel",14
+"Fiat",1.6,6248,"Gasoline",29
+"Mercedes-Benz",2.2,110145,"Diesel",11
+"Ford",1.6,34016,"Gasoline",12
+"Fiat",1.8,70483,"Gasoline",4
+"GM - Chevrolet",1,18584,"Gasoline",15
+"Fiat",1.8,73766,"Gasoline",5
+"GM - Chevrolet",1.6,8587,"Gasoline",30
+"Ford",1.8,9640,"Gasoline",33
+"Ford",2.5,42080,"Diesel",23
+"VW - VolksWagen",1.6,18633,"Gasoline",19
+"Ford",3,14990,"Gasoline",29
+"Fiat",1.6,9829,"Gasoline",22
+"Ford",1.6,11414,"Gasoline",31
+"Ford",3.9,111597,"Diesel",13
+"Mercedes-Benz",2,513117,"Gasoline",2
+"Ford",1.6,16090,"Gasoline",19
+"VW - VolksWagen",2,28030,"Gasoline",24
+"GM - Chevrolet",2.8,146790,"Diesel",4
+"Ford",1.8,13575,"Gasoline",30
+"Ford",1.6,13200,"Gasoline",22
+"Fiat",1.3,74060,"Gasoline",1
+"GM - Chevrolet",1.8,42052,"Gasoline",9
+"GM - Chevrolet",4.3,13983,"Gasoline",30
+"Fiat",1.8,18660,"Gasoline",18
+"GM - Chevrolet",4.1,13352,"Gasoline",34
+"Ford",2.2,205227,"Diesel",1
+"VW - VolksWagen",1.8,30000,"Gasoline",16
+"GM - Chevrolet",2,27203,"Gasoline",17
+"Ford",2,40919,"Gasoline",12
+"Fiat",1.5,24672,"Gasoline",16
+"VW - VolksWagen",1,11469,"Alcohol",18
+"Fiat",2.3,78408,"Diesel",11
+"GM - Chevrolet",1.6,12362,"Gasoline",26
+"Fiat",1.6,6098,"Gasoline",30
+"Fiat",1.6,13392,"Gasoline",21
+"Ford",4,36035,"Gasoline",22
+"GM - Chevrolet",1,73175,"Gasoline",3
+"Ford",4.2,130220,"Diesel",17
+"Fiat",2.8,44825,"Diesel",15
+"Fiat",1.4,31784,"Gasoline",12
+"Mercedes-Benz",4.7,430893,"Gasoline",7
+"VW - VolksWagen",1.6,32925,"Gasoline",11
+"Fiat",1.8,51632,"Gasoline",8
+"VW - VolksWagen",1.4,48101,"Gasoline",9
+"VW - VolksWagen",1.8,8824,"Gasoline",31
+"Fiat",1.4,29670,"Gasoline",12
+"Ford",3,44125,"Gasoline",12
+"VW - VolksWagen",1,50234,"Gasoline",7
+"Ford",1,52438,"Gasoline",4
+"Fiat",1.6,27670,"Gasoline",12
+"VW - VolksWagen",1.8,17238,"Gasoline",24
+"VW - VolksWagen",1.6,4539,"Gasoline",37
+"VW - VolksWagen",2,116074,"Diesel",6
+"GM - Chevrolet",1.6,13977,"Gasoline",24
+"Ford",2,88965,"Gasoline",3
+"GM - Chevrolet",2.4,85663,"Gasoline",7
+"Mercedes-Benz",2,124520,"Gasoline",9
+"Ford",1.5,66251,"Gasoline",2
+"GM - Chevrolet",2.5,10310,"Gasoline",36
+"VW - VolksWagen",1.8,8292,"Gasoline",31
+"GM - Chevrolet",1.4,18515,"Gasoline",17
+"Ford",2,8388,"Gasoline",25
+"GM - Chevrolet",1.6,3974,"Gasoline",36
+"VW - VolksWagen",1.8,23876,"Gasoline",19
+"GM - Chevrolet",1.8,49078,"Gasoline",10
+"Mercedes-Benz",2.2,163867,"Diesel",3
+"VW - VolksWagen",1,104080,"Gasoline",1
+"GM - Chevrolet",1.4,60886,"Gasoline",4
+"VW - VolksWagen",1.6,36423,"Gasoline",11
+"Fiat",1.5,10212,"Gasoline",30
+"GM - Chevrolet",1.8,25063,"Gasoline",18
+"Ford",3.2,240008,"Diesel",2
+"Ford",2,12099,"Gasoline",22
+"Mercedes-Benz",5,54755,"Gasoline",24
+"VW - VolksWagen",1.6,6269,"Gasoline",29
+"VW - VolksWagen",1,9971,"Alcohol",20
+"Fiat",1,13084,"Gasoline",19
+"VW - VolksWagen",1.6,34467,"Gasoline",12
+"Ford",2.8,28210,"Diesel",21
+"GM - Chevrolet",2.8,135729,"Diesel",8
+"Ford",2,6405,"Gasoline",27
+"Ford",1.8,5924,"Gasoline",35
+"Fiat",2,198485,"Diesel",1
+"VW - VolksWagen",1.8,18624,"Gasoline",24
+"GM - Chevrolet",1.8,4241,"Gasoline",37
+"VW - VolksWagen",1.8,16577,"Gasoline",24
+"VW - VolksWagen",1.6,25306,"Gasoline",18
+"Fiat",1.5,9614,"Gasoline",25
+"Ford",1.6,6409,"Gasoline",29
+"VW - VolksWagen",1.4,131621,"Gasoline",4
+"Mercedes-Benz",2,226387,"Gasoline",6
+"VW - VolksWagen",1.8,12951,"Gasoline",28
+"Fiat",1.8,58970,"Gasoline",7
+"Fiat",1.3,10850,"Gasoline",23
+"Fiat",1.4,31944,"Gasoline",15
+"Ford",2,59448,"Gasoline",8
+"Fiat",1.8,37338,"Gasoline",13
+"Fiat",1.6,6149,"Gasoline",26
+"VW - VolksWagen",1.8,8148,"Gasoline",30
+"Fiat",2.3,100669,"Diesel",7
+"GM - Chevrolet",1,14678,"Alcohol",18
+"Mercedes-Benz",5.5,159417,"Gasoline",12
+"Fiat",2.3,148049,"Diesel",5
+"VW - VolksWagen",1.6,22304,"Gasoline",20
+"Mercedes-Benz",1.7,34067,"Gasoline",14
+"Ford",3,41935,"Diesel",17
+"VW - VolksWagen",1.6,58362,"Gasoline",5
+"Fiat",1.8,42405,"Gasoline",11
+"GM - Chevrolet",4.1,40577,"Gasoline",31
+"GM - Chevrolet",4.1,27111,"Gasoline",32
+"VW - VolksWagen",1.6,42237,"Gasoline",9
+"Fiat",1.8,34028,"Gasoline",12
+"Ford",2,88792,"Gasoline",10
+"Mercedes-Benz",2,134524,"Gasoline",9
+"VW - VolksWagen",1.8,21491,"Gasoline",20
+"GM - Chevrolet",1,124480,"Gasoline",0
+"VW - VolksWagen",1,77666,"Gasoline",0
+"GM - Chevrolet",1.8,25671,"Gasoline",14
+"Mercedes-Benz",2.6,30005,"Gasoline",31
+"VW - VolksWagen",1,36087,"Gasoline",9
+"GM - Chevrolet",2.5,11270,"Gasoline",36
+"Mercedes-Benz",2,362195,"Gasoline",4
+"Ford",1.8,6379,"Gasoline",29
+"GM - Chevrolet",2.4,44246,"Gasoline",16
+"VW - VolksWagen",1.8,16692,"Gasoline",23
+"Mercedes-Benz",2,366028,"Gasoline",5
+"Ford",2.3,57986,"Gasoline",12
+"GM - Chevrolet",1.4,64183,"Gasoline",6
+"Fiat",1.6,9830,"Gasoline",25
+"Mercedes-Benz",3,406041,"Gasoline",6
+"VW - VolksWagen",3.6,81300,"Gasoline",12
+"Ford",1.6,12835,"Gasoline",22
+"Ford",3.5,46348,"Gasoline",14
+"VW - VolksWagen",1.6,80652,"Gasoline",4
+"VW - VolksWagen",1.6,26536,"Gasoline",14
+"Fiat",1,14933,"Gasoline",17
+"Mercedes-Benz",5,35754,"Gasoline",31
+"Fiat",1.8,53709,"Gasoline",9
+"VW - VolksWagen",1,26654,"Gasoline",12
+"VW - VolksWagen",1.6,68264,"Gasoline",3
+"Fiat",2.3,142333,"Diesel",5
+"Fiat",1,10263,"Gasoline",24
+"Fiat",1.5,13246,"Alcohol",21
+"Ford",3.2,105912,"Diesel",9
+"GM - Chevrolet",2.2,16560,"Gasoline",22
+"Mercedes-Benz",2,384155,"Gasoline",2
+"Mercedes-Benz",2.3,33919,"Gasoline",26
+"GM - Chevrolet",2.4,47059,"Gasoline",15
+"Fiat",1.8,26916,"Gasoline",14
+"Ford",2.3,47818,"Gasoline",12
+"GM - Chevrolet",1.4,44917,"Gasoline",8
+"Mercedes-Benz",1.8,78629,"Gasoline",11
+"Ford",1.8,18208,"Gasoline",26
+"GM - Chevrolet",2,35081,"Diesel",21
+"Fiat",1.8,28699,"Gasoline",15
+"VW - VolksWagen",2,37566,"Gasoline",14
+"GM - Chevrolet",1.8,69539,"Gasoline",8
+"GM - Chevrolet",1,32488,"Gasoline",9
+"VW - VolksWagen",1.6,14123,"Gasoline",25
+"Mercedes-Benz",2.2,151596,"Diesel",6
+"Mercedes-Benz",1.3,196526,"Gasoline",4
+"Fiat",2.8,50487,"Diesel",16
+"Fiat",2,12320,"Gasoline",27
+"Fiat",1.6,6271,"Gasoline",26
+"Fiat",1.8,25346,"Gasoline",18
+"VW - VolksWagen",1.4,117480,"Gasoline",4
+"Fiat",1,11722,"Gasoline",21
+"Mercedes-Benz",5,46149,"Gasoline",29
+"Fiat",1.4,29284,"Gasoline",15
+"Fiat",1.6,6684,"Gasoline",31
+"GM - Chevrolet",2.8,130254,"Diesel",8
+"Ford",2,240164,"Gasoline",0
+"VW - VolksWagen",1.6,37594,"Gasoline",11
+"GM - Chevrolet",1.6,13656,"Gasoline",24
+"Fiat",2.4,37687,"Gasoline",15
+"VW - VolksWagen",1.6,33210,"Gasoline",12
+"GM - Chevrolet",1.6,38224,"Gasoline",10
+"VW - VolksWagen",1.8,13068,"Alcohol",27
+"VW - VolksWagen",1.8,8450,"Gasoline",33
+"Fiat",1.8,49709,"Gasoline",7
+"Ford",1.4,13439,"Gasoline",24
+"Mercedes-Benz",2,249421,"Gasoline",3
+"GM - Chevrolet",2.5,24908,"Diesel",27
+"Mercedes-Benz",4,420746,"Gasoline",7
+"Ford",2,7814,"Gasoline",29
+"GM - Chevrolet",1,14273,"Gasoline",17
+"VW - VolksWagen",1.8,11116,"Gasoline",22
+"GM - Chevrolet",1.6,29513,"Gasoline",11
+"VW - VolksWagen",1.8,10453,"Alcohol",25
+"Mercedes-Benz",3.5,260466,"Gasoline",12
+"Fiat",2,8661,"Gasoline",29
+"Fiat",1,65478,"Gasoline",2
+"VW - VolksWagen",1.8,12706,"Gasoline",26
+"GM - Chevrolet",1.4,58287,"Gasoline",5
+"Ford",2.5,25196,"Gasoline",25
+"GM - Chevrolet",4.1,15132,"Gasoline",37
+"GM - Chevrolet",2.8,103373,"Diesel",10
+"Fiat",1.4,47970,"Gasoline",9
+"Ford",4,29194,"Gasoline",22
+"VW - VolksWagen",2,19294,"Gasoline",20
+"Mercedes-Benz",6.2,282225,"Gasoline",13
+"Mercedes-Benz",3,347881,"Diesel",5
+"Mercedes-Benz",3.5,144405,"Gasoline",16
+"Fiat",1,17295,"Gasoline",14
+"Fiat",1.4,42804,"Gasoline",10
+"Fiat",1.5,12761,"Gasoline",25
+"VW - VolksWagen",1.6,17442,"Gasoline",24
+"Fiat",1.4,35223,"Gasoline",10
+"Fiat",1,40126,"Gasoline",5
+"VW - VolksWagen",1.8,18450,"Gasoline",27
+"Fiat",1.5,4857,"Gasoline",36
+"VW - VolksWagen",2,15128,"Gasoline",30
+"GM - Chevrolet",1,100423,"Gasoline",0
+"Fiat",1.4,62544,"Gasoline",7
+"Fiat",1,30886,"Gasoline",10
+"VW - VolksWagen",2,9522,"Gasoline",33
+"Mercedes-Benz",2.2,147631,"Diesel",3
+"Ford",2,7201,"Gasoline",26
+"GM - Chevrolet",1.6,9100,"Gasoline",33
+"GM - Chevrolet",2.2,16129,"Gasoline",22
+"VW - VolksWagen",2.5,55352,"Gasoline",11
+"GM - Chevrolet",1.4,50977,"Gasoline",7
+"Mercedes-Benz",6,1219591,"Gasoline",5
+"VW - VolksWagen",1.6,100669,"Gasoline",0
+"Ford",1.6,20529,"Gasoline",15
+"Mercedes-Benz",2,216637,"Gasoline",7
+"Ford",3.5,75890,"Gasoline",9
+"Ford",4.2,99606,"Diesel",23
+"Mercedes-Benz",3.5,112145,"Gasoline",11
+"VW - VolksWagen",2,182143,"Diesel",6
+"VW - VolksWagen",1.4,141635,"Gasoline",1
+"GM - Chevrolet",1.4,16791,"Gasoline",16
+"Ford",2.5,28745,"Diesel",25
+"Ford",2,33634,"Gasoline",14
+"Fiat",1.8,18484,"Gasoline",19
+"Mercedes-Benz",3.5,170020,"Gasoline",13
+"Mercedes-Benz",2,359649,"Gasoline",3
+"Fiat",1.4,81924,"Gasoline",8
+"GM - Chevrolet",4.3,18320,"Gasoline",23
+"Ford",1.6,7326,"Gasoline",35
+"GM - Chevrolet",1,27378,"Gasoline",11
+"VW - VolksWagen",1.4,98408,"Gasoline",6
+"Mercedes-Benz",5.5,326311,"Gasoline",11
+"VW - VolksWagen",1.6,10780,"Alcohol",24
+"VW - VolksWagen",1,10237,"Gasoline",22
+"GM - Chevrolet",1.6,5064,"Gasoline",33
+"VW - VolksWagen",2,5998,"Gasoline",31
+"Fiat",1.4,29478,"Gasoline",13
+"Fiat",1,22122,"Gasoline",11
+"VW - VolksWagen",1.6,26271,"Gasoline",16
+"Ford",2,72764,"Gasoline",10
+"GM - Chevrolet",2.4,31626,"Gasoline",19
+"Mercedes-Benz",2.2,96619,"Diesel",10
+"Fiat",1.6,49535,"Gasoline",7
+"Mercedes-Benz",4,705200,"Gasoline",4
+"Ford",3.9,97464,"Diesel",12
+"GM - Chevrolet",1,21208,"Gasoline",17
+"Mercedes-Benz",2.2,146479,"Diesel",7
+"Fiat",1.5,7096,"Gasoline",24
+"Fiat",1.8,13600,"Gasoline",20
+"Fiat",1.8,54813,"Gasoline",6
+"Ford",2.3,5803,"Gasoline",38
+"VW - VolksWagen",1.6,41662,"Gasoline",8
+"VW - VolksWagen",1.6,28292,"Gasoline",15
+"Fiat",1,55822,"Gasoline",2
+"Ford",2,81396,"Gasoline",4
+"Ford",2,33782,"Gasoline",13
+"VW - VolksWagen",1.8,5580,"Gasoline",35
+"Ford",2,59827,"Gasoline",8
+"VW - VolksWagen",2,49001,"Gasoline",14
+"Mercedes-Benz",2.3,18841,"Gasoline",37
+"Ford",4.9,29296,"Gasoline",27
+"Mercedes-Benz",2.2,79043,"Diesel",13
+"GM - Chevrolet",2,11682,"Gasoline",29
+"VW - VolksWagen",1.6,43050,"Gasoline",8
+"VW - VolksWagen",1,38991,"Gasoline",8
+"Ford",1.3,6940,"Gasoline",26
+"GM - Chevrolet",4.1,15602,"Gasoline",37
+"GM - Chevrolet",2,26228,"Gasoline",15
+"Mercedes-Benz",4,625740,"Gasoline",4
+"Fiat",1.4,92395,"Gasoline",0
+"Fiat",1.8,27160,"Gasoline",14
+"Ford",2.2,97229,"Diesel",10
+"Ford",2.8,49046,"Diesel",18
+"VW - VolksWagen",1.6,42120,"Gasoline",9
+"GM - Chevrolet",3.8,22438,"Gasoline",24
+"Mercedes-Benz",5,223405,"Gasoline",14
+"VW - VolksWagen",2,46837,"Gasoline",13
+"Fiat",1.3,69696,"Gasoline",3
+"Mercedes-Benz",2.2,98320,"Diesel",6
+"Fiat",2,158270,"Diesel",3
+"Mercedes-Benz",5.5,646333,"Gasoline",8
+"GM - Chevrolet",4,53647,"Diesel",28
+"Ford",4,27789,"Gasoline",22
+"GM - Chevrolet",4.1,24907,"Gasoline",33
+"VW - VolksWagen",2,93609,"Diesel",12
+"Fiat",1,29124,"Gasoline",10
+"VW - VolksWagen",1,70960,"Gasoline",1
+"Ford",1.6,20423,"Gasoline",19
+"Ford",2,5880,"Gasoline",31
+"Ford",1.6,7465,"Gasoline",28
+"GM - Chevrolet",2.5,113933,"Gasoline",6
+"Ford",1,52694,"Gasoline",0
+"Mercedes-Benz",4,887665,"Gasoline",7
+"Mercedes-Benz",1.5,220571,"Gasoline",4
+"GM - Chevrolet",1.4,61720,"Gasoline",5
+"Mercedes-Benz",1.8,34606,"Gasoline",20
+"GM - Chevrolet",3.9,48788,"Diesel",32
+"Ford",3,77511,"Diesel",11
+"VW - VolksWagen",1.6,39544,"Gasoline",10
+"VW - VolksWagen",1.6,35848,"Gasoline",12
+"GM - Chevrolet",1,15062,"Gasoline",17
+"VW - VolksWagen",1.6,41075,"Gasoline",12
+"Fiat",1.8,13789,"Gasoline",20
+"VW - VolksWagen",1.6,36306,"Gasoline",10
+"GM - Chevrolet",2.8,52990,"Diesel",21
+"GM - Chevrolet",4.3,20050,"Gasoline",29
+"VW - VolksWagen",1,26424,"Gasoline",13
+"VW - VolksWagen",1.6,75210,"Gasoline",3
+"Mercedes-Benz",4.7,372178,"Gasoline",8
+"GM - Chevrolet",1.4,44216,"Gasoline",10
+"Mercedes-Benz",2,356205,"Gasoline",5
+"Fiat",1,20836,"Gasoline",14
+"Ford",2,34523,"Gasoline",12
+"Mercedes-Benz",2,482991,"Gasoline",1
+"VW - VolksWagen",1,25512,"Gasoline",10
+"GM - Chevrolet",2.8,74610,"Diesel",12
+"VW - VolksWagen",1.8,12490,"Alcohol",27
+"GM - Chevrolet",2,23445,"Gasoline",19
+"GM - Chevrolet",1.8,23710,"Gasoline",16
+"Ford",1.3,9218,"Gasoline",24
+"Ford",1.8,2824,"Gasoline",38
+"GM - Chevrolet",2,22472,"Gasoline",18
+"GM - Chevrolet",1.4,18766,"Gasoline",17
+"Fiat",1.5,11840,"Alcohol",22
+"VW - VolksWagen",1.6,43602,"Gasoline",7
+"Fiat",2.3,206732,"Diesel",0
+"Fiat",2.3,153601,"Diesel",5
+"Fiat",1.3,58492,"Gasoline",5
+"Fiat",1,57496,"Gasoline",4
+"GM - Chevrolet",1.8,4690,"Gasoline",36
+"Fiat",1,10018,"Alcohol",24
+"VW - VolksWagen",1.6,59251,"Gasoline",5
+"GM - Chevrolet",4.1,11009,"Gasoline",38
+"Mercedes-Benz",1.6,183534,"Gasoline",5
+"Ford",3.8,12637,"Gasoline",32
+"Ford",2.3,36343,"Gasoline",17
+"VW - VolksWagen",1,20792,"Gasoline",14
+"Fiat",2.3,208984,"Diesel",3
+"Mercedes-Benz",6,117290,"Gasoline",23
+"VW - VolksWagen",1.6,43235,"Gasoline",8
+"VW - VolksWagen",1.6,32122,"Gasoline",8
+"GM - Chevrolet",5.7,434084,"Gasoline",12
+"Mercedes-Benz",3.5,103881,"Gasoline",13
+"GM - Chevrolet",2.8,126615,"Diesel",9
+"Fiat",1.8,62750,"Gasoline",9
+"Ford",2,75858,"Gasoline",10
+"Fiat",2.8,60881,"Diesel",14
+"Fiat",1.4,47633,"Gasoline",8
+"VW - VolksWagen",1.6,25335,"Gasoline",15
+"Fiat",1.4,31013,"Gasoline",12
+"Ford",3.2,237256,"Diesel",3
+"Ford",1.6,12015,"Alcohol",27
+"VW - VolksWagen",1.6,77757,"Gasoline",1
+"VW - VolksWagen",1.6,42619,"Gasoline",8
+"Ford",3.8,22127,"Gasoline",30
+"VW - VolksWagen",3.2,55941,"Gasoline",13
+"Mercedes-Benz",3.2,56095,"Gasoline",25
+"Mercedes-Benz",2.2,35976,"Diesel",22
+"Ford",2,73540,"Gasoline",10
+"VW - VolksWagen",1.8,11345,"Gasoline",27
+"Fiat",1.6,17158,"Gasoline",16
+"Mercedes-Benz",3.5,361359,"Gasoline",10
+"Fiat",1.4,53331,"Gasoline",8
+"Fiat",1.3,14727,"Gasoline",21
+"GM - Chevrolet",4.3,34456,"Gasoline",23
+"Ford",1,49563,"Gasoline",5
+"VW - VolksWagen",1,12842,"Alcohol",19
+"GM - Chevrolet",2.5,15982,"Gasoline",32
+"VW - VolksWagen",1.6,10065,"Gasoline",25
+"Fiat",2.8,50488,"Diesel",17
+"Fiat",1.6,44072,"Gasoline",9
+"VW - VolksWagen",3.6,105663,"Gasoline",10
+"VW - VolksWagen",1,10289,"Gasoline",23
+"Mercedes-Benz",1.8,73626,"Gasoline",13
+"VW - VolksWagen",1.6,47078,"Gasoline",8
+"Fiat",1,32512,"Gasoline",8
+"GM - Chevrolet",1.2,141658,"Gasoline",1
+"Mercedes-Benz",1.6,236334,"Gasoline",3
+"GM - Chevrolet",4.3,27032,"Gasoline",23
+"Ford",2,8654,"Alcohol",28
+"Mercedes-Benz",1.6,69670,"Gasoline",11
+"Mercedes-Benz",6,348703,"Gasoline",13
+"Fiat",2,132857,"Diesel",5
+"VW - VolksWagen",1.8,12292,"Alcohol",27
+"GM - Chevrolet",1.6,12857,"Gasoline",24
+"GM - Chevrolet",1.4,151543,"Gasoline",0
+"GM - Chevrolet",2.4,93975,"Gasoline",7
+"Fiat",1.6,3145,"Gasoline",38
+"GM - Chevrolet",4.1,12432,"Gasoline",37
+"GM - Chevrolet",2.5,21226,"Diesel",26
+"Fiat",2.4,12912,"Gasoline",22
+"Mercedes-Benz",1.9,15760,"Gasoline",21
+"Ford",1.8,5209,"Gasoline",36
+"VW - VolksWagen",1.6,56268,"Gasoline",3
+"Mercedes-Benz",2.2,26652,"Gasoline",29
+"Mercedes-Benz",1.6,99354,"Gasoline",6
+"Mercedes-Benz",1.9,12980,"Gasoline",21
+"GM - Chevrolet",2.4,34110,"Gasoline",20
+"Ford",2,29361,"Gasoline",16
+"Fiat",1.3,20561,"Gasoline",18
+"Mercedes-Benz",4.7,375346,"Gasoline",9
+"Mercedes-Benz",2.2,150521,"Diesel",6
+"Fiat",1.3,13292,"Gasoline",21
+"Mercedes-Benz",5.5,219805,"Gasoline",11
+"Mercedes-Benz",6,389824,"Gasoline",12
+"VW - VolksWagen",1.4,26775,"Gasoline",15
+"GM - Chevrolet",2.4,49120,"Gasoline",13
+"VW - VolksWagen",3.6,66870,"Gasoline",13
+"GM - Chevrolet",2,20939,"Gasoline",18
+"Mercedes-Benz",1.9,12094,"Gasoline",22
+"GM - Chevrolet",1.8,24696,"Gasoline",15
+"Mercedes-Benz",1.6,125881,"Gasoline",7
+"Mercedes-Benz",3.5,51100,"Gasoline",18
+"GM - Chevrolet",2,33630,"Diesel",21
+"Fiat",1.8,45392,"Gasoline",9
+"VW - VolksWagen",1.8,6602,"Gasoline",33
+"GM - Chevrolet",2,21052,"Gasoline",18
+"Ford",1.6,33848,"Gasoline",9
+"VW - VolksWagen",1.6,16862,"Gasoline",22
+"Fiat",1,28162,"Gasoline",9
+"VW - VolksWagen",2,9046,"Alcohol",27
+"GM - Chevrolet",1.8,4965,"Gasoline",35
+"GM - Chevrolet",4.1,15437,"Gasoline",30
+"GM - Chevrolet",4.1,13681,"Gasoline",28
+"Ford",1.6,22396,"Gasoline",18
+"GM - Chevrolet",5.7,53494,"Gasoline",32
+"GM - Chevrolet",1.8,112562,"Gasoline",1
+"Ford",1.6,14956,"Gasoline",20
+"VW - VolksWagen",1.8,11889,"Gasoline",27
+"GM - Chevrolet",1.4,38608,"Gasoline",9
+"Mercedes-Benz",1.3,297884,"Gasoline",1
+"VW - VolksWagen",1.8,10432,"Gasoline",30
+"VW - VolksWagen",1.8,23933,"Gasoline",19
+"Fiat",2.8,35742,"Diesel",21
+"VW - VolksWagen",1.6,42938,"Gasoline",10
+"Mercedes-Benz",1.9,17841,"Gasoline",18
+"Ford",1,16448,"Gasoline",17
+"VW - VolksWagen",1.8,15928,"Gasoline",24
+"Fiat",1.4,25493,"Gasoline",14
+"GM - Chevrolet",1.8,23899,"Gasoline",14
+"Fiat",2.3,223074,"Diesel",2
+"Mercedes-Benz",6.2,130966,"Gasoline",14
+"GM - Chevrolet",2,39647,"Gasoline",12
+"Fiat",1.8,58050,"Gasoline",8
+"VW - VolksWagen",1.4,140920,"Gasoline",1
+"Mercedes-Benz",3.5,72512,"Gasoline",15
+"VW - VolksWagen",1.4,28808,"Gasoline",14
+"VW - VolksWagen",1.6,18297,"Alcohol",18
+"Mercedes-Benz",3,352670,"Gasoline",5
+"GM - Chevrolet",2,32111,"Gasoline",14
+"GM - Chevrolet",2.4,32883,"Gasoline",19
+"GM - Chevrolet",2.2,12502,"Gasoline",28
+"VW - VolksWagen",1.8,18085,"Gasoline",19
+"GM - Chevrolet",1.8,41112,"Gasoline",9
+"VW - VolksWagen",2,152335,"Diesel",7
+"Fiat",1.8,36562,"Gasoline",11
+"GM - Chevrolet",4.1,28808,"Gasoline",30
+"VW - VolksWagen",4.2,57882,"Gasoline",16
+"GM - Chevrolet",6.5,41109,"Diesel",28
+"VW - VolksWagen",1.8,8710,"Gasoline",27
+"Ford",1,17734,"Gasoline",17
+"Ford",2,58634,"Gasoline",8
+"VW - VolksWagen",1.4,114098,"Gasoline",6
+"Ford",1.5,62348,"Gasoline",4
+"VW - VolksWagen",1.8,12355,"Alcohol",26
+"GM - Chevrolet",1.8,22045,"Gasoline",17
+"VW - VolksWagen",2,17538,"Gasoline",22
+"VW - VolksWagen",2.8,78560,"Gasoline",20
+"Fiat",1,20813,"Gasoline",15
+"Mercedes-Benz",2.2,43871,"Diesel",21
+"VW - VolksWagen",1.6,38746,"Gasoline",10
+"Ford",3.5,170392,"Gasoline",7
+"Fiat",1.3,12109,"Gasoline",17
+"Ford",3.9,42672,"Diesel",36
+"VW - VolksWagen",1.6,9311,"Alcohol",25
+"VW - VolksWagen",1.6,27639,"Gasoline",10
+"Ford",2.5,130403,"Gasoline",6
+"GM - Chevrolet",2.5,10392,"Gasoline",37
+"Fiat",1.4,48019,"Gasoline",7
+"VW - VolksWagen",2.8,34473,"Gasoline",18
+"GM - Chevrolet",2,28325,"Gasoline",15
+"Ford",2.2,212675,"Diesel",0
+"VW - VolksWagen",1,35898,"Gasoline",10
+"Ford",1,12204,"Gasoline",22
+"Mercedes-Benz",1.8,62802,"Gasoline",13
+"Mercedes-Benz",6,221360,"Gasoline",17
+"VW - VolksWagen",1.6,11878,"Gasoline",27
+"VW - VolksWagen",2,183274,"Gasoline",4
+"VW - VolksWagen",2,208121,"Gasoline",5
+"Mercedes-Benz",2.2,193020,"Diesel",3
+"VW - VolksWagen",2,39350,"Gasoline",13
+"VW - VolksWagen",1,41590,"Gasoline",7
+"GM - Chevrolet",2,10406,"Gasoline",27
+"Fiat",1.4,29087,"Gasoline",11
+"Ford",2,7412,"Alcohol",28
+"GM - Chevrolet",2.5,21737,"Diesel",25
+"GM - Chevrolet",4.1,34842,"Gasoline",26
+"VW - VolksWagen",1.6,19993,"Gasoline",17
+"VW - VolksWagen",1.8,13761,"Gasoline",26
+"Ford",1,46733,"Gasoline",6
+"Ford",1.8,8087,"Gasoline",24
+"VW - VolksWagen",1.8,28778,"Gasoline",17
+"VW - VolksWagen",2,177975,"Diesel",4
+"Mercedes-Benz",5,40633,"Gasoline",29
+"GM - Chevrolet",2.4,60669,"Gasoline",12
+"GM - Chevrolet",2.2,17006,"Gasoline",20
+"Ford",4,8129,"Gasoline",32
+"Ford",2.2,114589,"Diesel",8
+"Mercedes-Benz",2.2,207833,"Diesel",3
+"Fiat",1.8,52510,"Gasoline",8
+"Fiat",1.4,28326,"Gasoline",15
+"GM - Chevrolet",1.8,7616,"Alcohol",27
+"Fiat",1.5,14188,"Alcohol",21
+"Ford",3.9,45212,"Diesel",25
+"Ford",2.3,36064,"Gasoline",16
+"Ford",2.5,10496,"Gasoline",30
+"Mercedes-Benz",2.2,235581,"Diesel",1
+"Mercedes-Benz",6.2,545103,"Gasoline",12
+"GM - Chevrolet",2.8,61876,"Diesel",17
+"Fiat",1.6,46607,"Gasoline",8
+"GM - Chevrolet",2,8213,"Gasoline",35
+"Mercedes-Benz",6,239987,"Gasoline",17
+"Ford",1,63028,"Gasoline",6
+"VW - VolksWagen",1.6,32778,"Gasoline",12
+"Ford",1.8,7452,"Gasoline",31
+"Fiat",1.8,30190,"Gasoline",13
+"Fiat",1.5,12248,"Alcohol",24
+"Mercedes-Benz",6,167366,"Gasoline",20
+"Mercedes-Benz",1.3,297756,"Gasoline",2
+"Fiat",1.8,32934,"Gasoline",16
+"Fiat",1.3,21633,"Gasoline",19
+"Ford",2,126637,"Gasoline",6
+"Ford",1.6,20514,"Gasoline",20
+"Fiat",1.3,16702,"Gasoline",20
+"Mercedes-Benz",2,354298,"Gasoline",4
+"GM - Chevrolet",1.6,6653,"Gasoline",32
+"VW - VolksWagen",2,150606,"Diesel",7
+"VW - VolksWagen",2,8152,"Gasoline",35
+"Fiat",1.8,68951,"Gasoline",7
+"Ford",2,34738,"Gasoline",13
+"Ford",1.6,10896,"Gasoline",29
+"Fiat",1,22676,"Gasoline",12
+"Mercedes-Benz",2.2,176760,"Diesel",3
+"Ford",2.5,23835,"Diesel",24
+"VW - VolksWagen",1.6,41481,"Gasoline",11
+"GM - Chevrolet",2,30427,"Gasoline",15
+"Fiat",1.8,43201,"Gasoline",10
+"VW - VolksWagen",2,19797,"Gasoline",21
+"VW - VolksWagen",2,27844,"Gasoline",20
+"GM - Chevrolet",1,8499,"Gasoline",26
+"Fiat",1.4,37267,"Gasoline",12
+"Mercedes-Benz",3.2,65463,"Gasoline",19
+"GM - Chevrolet",1,75065,"Gasoline",2
+"GM - Chevrolet",1.6,3693,"Gasoline",37
+"VW - VolksWagen",1.6,90216,"Gasoline",0
+"Mercedes-Benz",6,277780,"Gasoline",16
+"VW - VolksWagen",1,135453,"Gasoline",1
+"Mercedes-Benz",2,528104,"Gasoline",1
+"Fiat",1.5,11784,"Gasoline",23
+"GM - Chevrolet",2,20023,"Gasoline",19
+"Fiat",1.4,69979,"Gasoline",7
+"Fiat",1.3,119902,"Gasoline",1
+"Fiat",1.8,27455,"Gasoline",13
+"Ford",2.5,97799,"Gasoline",5
+"Mercedes-Benz",2.2,74459,"Diesel",14
+"Fiat",1,13326,"Gasoline",22
+"VW - VolksWagen",1.6,14229,"Gasoline",32
+"Ford",3,55771,"Diesel",14
+"Mercedes-Benz",2.2,145849,"Diesel",6
+"Fiat",1.8,57990,"Gasoline",6
+"VW - VolksWagen",1,70038,"Gasoline",5
+"VW - VolksWagen",1.6,35672,"Gasoline",12
+"VW - VolksWagen",1.6,9631,"Gasoline",24
+"GM - Chevrolet",1.6,8831,"Gasoline",29
+"Ford",3.9,132168,"Diesel",12
+"Fiat",1.4,40219,"Gasoline",8
+"Fiat",1.4,58276,"Gasoline",9
+"Ford",1.6,7345,"Gasoline",29
+"VW - VolksWagen",1,20880,"Gasoline",15
+"Fiat",2.8,46215,"Diesel",16
+"GM - Chevrolet",1,18344,"Gasoline",16
+"VW - VolksWagen",1,25842,"Gasoline",14
+"Fiat",1.4,49146,"Gasoline",9
+"Fiat",2.4,21312,"Gasoline",19
+"Mercedes-Benz",5.5,141784,"Gasoline",18
+"Fiat",1.9,23792,"Gasoline",14
+"Fiat",1,11349,"Gasoline",23
+"GM - Chevrolet",1.2,108689,"Gasoline",3
+"Ford",4,30187,"Gasoline",27
+"Fiat",1.6,6236,"Gasoline",33
+"VW - VolksWagen",1.8,6218,"Gasoline",32
+"GM - Chevrolet",2,34483,"Gasoline",13
+"VW - VolksWagen",1.6,40460,"Gasoline",9
+"Fiat",1.8,29122,"Gasoline",17
+"Ford",4,34125,"Gasoline",23
+"Mercedes-Benz",2.2,194370,"Diesel",4
+"GM - Chevrolet",1.8,21010,"Gasoline",17
+"Fiat",1,16575,"Gasoline",16
+"GM - Chevrolet",2.4,27432,"Gasoline",16
+"VW - VolksWagen",1.6,33152,"Gasoline",13
+"VW - VolksWagen",1,64427,"Gasoline",5
+"GM - Chevrolet",1.4,84187,"Gasoline",6
+"GM - Chevrolet",2,21634,"Gasoline",19
+"VW - VolksWagen",1.6,48351,"Gasoline",12
+"GM - Chevrolet",2.8,60125,"Diesel",19
+"GM - Chevrolet",1.4,67566,"Gasoline",5
+"Fiat",2.8,46450,"Diesel",16
+"GM - Chevrolet",1.6,8488,"Gasoline",29
+"Fiat",2,8788,"Gasoline",29
+"Fiat",1.8,40569,"Gasoline",13
+"Fiat",1.8,34998,"Gasoline",12
+"GM - Chevrolet",2,33648,"Gasoline",14
+"Ford",2,37745,"Gasoline",12
+"VW - VolksWagen",1.8,14437,"Gasoline",25
+"VW - VolksWagen",1.6,59618,"Gasoline",9
+"Fiat",2.3,220568,"Diesel",2
+"Fiat",1.6,4869,"Gasoline",34
+"Ford",2.5,108386,"Gasoline",6
+"Ford",1,53185,"Gasoline",3
+"Ford",3,52354,"Diesel",18
+"Mercedes-Benz",2.2,61032,"Diesel",16
+"Fiat",1.6,31085,"Gasoline",12
+"GM - Chevrolet",2.8,121018,"Diesel",10
+"Fiat",1.6,16357,"Gasoline",16
+"Fiat",1,49322,"Gasoline",3
+"Fiat",1.8,46230,"Gasoline",9
+"Fiat",1,26367,"Gasoline",12
+"VW - VolksWagen",2,238440,"Diesel",3
+"Fiat",1.6,52738,"Gasoline",6
+"VW - VolksWagen",1.6,61345,"Gasoline",4
+"Mercedes-Benz",2.2,74737,"Diesel",16
+"GM - Chevrolet",2,12940,"Gasoline",30
+"Fiat",2.8,25447,"Diesel",25
+"GM - Chevrolet",1,15532,"Gasoline",17
+"GM - Chevrolet",1.8,22909,"Gasoline",16
+"Ford",2,9117,"Gasoline",28
+"Mercedes-Benz",1.6,211995,"Gasoline",3
+"GM - Chevrolet",2.8,60663,"Diesel",18
+"Fiat",1.6,48120,"Gasoline",8
+"Fiat",1.8,23275,"Gasoline",16
+"Ford",2,8753,"Gasoline",27
+"Ford",1.5,76449,"Gasoline",5
+"VW - VolksWagen",1,115972,"Gasoline",0
+"VW - VolksWagen",1.6,28706,"Gasoline",13
+"Ford",3.9,110838,"Diesel",13
+"Mercedes-Benz",5,314556,"Gasoline",12
+"GM - Chevrolet",2.5,121899,"Gasoline",6
+"VW - VolksWagen",1,42461,"Gasoline",7
+"Fiat",1.6,37390,"Gasoline",8
+"VW - VolksWagen",2,25305,"Gasoline",20
+"GM - Chevrolet",2.4,56562,"Gasoline",11
+"GM - Chevrolet",1.8,61040,"Gasoline",6
+"Fiat",1,8715,"Gasoline",27
+"Mercedes-Benz",2,441800,"Gasoline",0
+"Fiat",1.8,39273,"Gasoline",12
+"Mercedes-Benz",5.5,383024,"Gasoline",10
+"Mercedes-Benz",2.2,259702,"Diesel",0
+"Mercedes-Benz",3.5,135215,"Gasoline",14
+"Fiat",1.8,16125,"Gasoline",19
+"VW - VolksWagen",1,44318,"Gasoline",8
+"GM - Chevrolet",2,33313,"Gasoline",12
+"Ford",1.6,29556,"Gasoline",16
+"Ford",1.8,3499,"Gasoline",36
+"Ford",4,14455,"Gasoline",27
+"GM - Chevrolet",2.5,20562,"Diesel",26
+"VW - VolksWagen",1.4,45993,"Gasoline",9
+"GM - Chevrolet",3.9,50530,"Diesel",33
+"Ford",1.6,61120,"Gasoline",4
+"GM - Chevrolet",3.9,41808,"Diesel",36
+"VW - VolksWagen",1.6,32634,"Gasoline",13
+"Mercedes-Benz",2,319990,"Gasoline",0
+"GM - Chevrolet",1,11787,"Gasoline",22
+"GM - Chevrolet",2,10186,"Gasoline",25
+"VW - VolksWagen",1.8,6214,"Gasoline",30
+"Mercedes-Benz",3.5,140471,"Gasoline",17
+"Mercedes-Benz",6.3,333957,"Gasoline",11
+"GM - Chevrolet",4.3,25710,"Gasoline",25
+"Fiat",1.5,7454,"Alcohol",28
+"VW - VolksWagen",2,22815,"Gasoline",21
+"GM - Chevrolet",2.8,82305,"Diesel",12
+"VW - VolksWagen",2,44561,"Gasoline",13
+"Fiat",1.8,25666,"Gasoline",15
+"Ford",1.6,64340,"Gasoline",7
+"Fiat",1.8,19478,"Gasoline",17
+"Fiat",1.3,10974,"Gasoline",23
+"Mercedes-Benz",5.5,146326,"Gasoline",17
+"Mercedes-Benz",2.2,163820,"Diesel",4
+"GM - Chevrolet",2,27545,"Gasoline",17
+"GM - Chevrolet",5.7,42028,"Gasoline",29
+"VW - VolksWagen",1.6,70025,"Gasoline",5
+"Mercedes-Benz",2.3,26572,"Gasoline",31
+"VW - VolksWagen",1.6,30293,"Gasoline",13
+"Ford",1.3,9219,"Gasoline",26
+"Ford",2,12000,"Gasoline",27
+"VW - VolksWagen",2,94652,"Diesel",12
+"VW - VolksWagen",1.6,56162,"Gasoline",5
+"Fiat",1,34428,"Gasoline",9
+"VW - VolksWagen",1.6,109120,"Gasoline",1
+"Fiat",1.5,6880,"Gasoline",25
