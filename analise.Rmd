@@ -1,5 +1,5 @@
-#Grandes Mudanças
-#Juntando tudo em um arquivo, houve mudança do nome do dataframe de "realCsv" para "df"
+#Grandes Mudanças 
+#Juntando tudo em um arquivo, houve mudança do nome do dataframe de "realCsv" para "df" 
 Os blocos de código estão restringidos pelo símbolo:
 ```{r}
 ```
@@ -8,11 +8,11 @@ e pode ser criado novos blocos de código usando o comando 'Ctrl+Alt+I'
 Instalando arquivos
 e removendo qualquer variáveis anteriores armazenadas no RStudio
 ```{r}
-install.packages("rmarkdown")
-install.packages("ggplot2")
-install.packages("kableExtra")
-install.packages("dplyr")
-install.packages("tidyverse")
+#install.packages("rmarkdown")
+#install.packages("ggplot2")
+#install.packages("kableExtra")
+#install.packages("dplyr")
+#install.packages("tidyverse")
 library(tidyverse)
 library(ggplot2)
 library(kableExtra)
@@ -22,29 +22,30 @@ rm(list=ls())
 Lê o arquivo formatado que deve estar no seu computador
 e abre uma aba vizualizando o que leu
 ```{r}
-df = read.csv("csvReduzido.csv")
-View(df)
+df_bruto = read.csv("csvReduzido.csv")
+#View(df_bruto)
 ```
 Vizualiza a estrutura do data frame (da tabela .csv)
 ```{r}
-str(df)
+str(df_bruto)
 ```
 
 Vizualiza parte dos dados
 ```{r}
-glimpse(df)
+glimpse(df_bruto)
 ```
 Algumas características das colunas
 ```{r}
-summary(df)
+summary(df_bruto)
 ```
 
 -------------------------------ANÁLISE EXPLORATÓRIA DE DADOS----------------------------
+
 -------------1)MARCA(BRAND)
 
 Cria variáveis para cada coluna
 ```{r}
-attach(df)
+attach(df_bruto)
 ```
 Criação de uma tabela com as 5 marcas mais comums (Tire os '#' para vizualizar as tabelas)
 ```{r}
@@ -53,8 +54,9 @@ brandTable <- table(brand)
 brandTableDataFrame <- as.data.frame(brandTable)
 colnames(brandTableDataFrame) <- c("Brand","Frequency")
 mostCommomBrands <- top_n(brandTableDataFrame,5)
-View(mostCommomBrands)
-df <- df[brand %in% mostCommomBrands$Brand,]
+#View(mostCommomBrands)
+df <- df_bruto[brand %in% mostCommomBrands$Brand,]
+df<- na.omit(df)
 #View(df)
 ```
 Salva o arquivo das tabela criada (Tire o '#" caso queira salvar)
@@ -76,11 +78,13 @@ dfMeanBrand = data.frame(
 )
 dfMeanBrand
 ```
+
 Plota o gráfico colorido com as frequências das 5 marcas
 ```{r}
 novo = df[df$avg_price_brl < 100000,]
 ggplot(novo)+aes(x=avg_price_brl,fill=brand)+geom_histogram()
 ```
+
 Plota um boxplot das mesmas marcas
 ```{r}
 ggplot(novo)+aes(x=brand)+geom_boxplot()
@@ -92,16 +96,19 @@ ggplot(dfMeanBrand, aes(x = Brand, y = Média,fill = Brand)) +
 ```
 
 -------------2)COMBUSTÍVEL(FUEL)
+
 Vizualiza quantos carros tem com cada combustível
 ```{r}
 table(df$fuel)
 ```
+
 Separa as médias de preço por combustível
 ```{r}
 meanG = mean(df[df$fuel == "Gasoline","avg_price_brl"],na.rm=TRUE)
 meanD = mean(df[df$fuel == "Diesel","avg_price_brl"],na.rm=TRUE)
 meanA = mean(df[df$fuel == "Alcohol","avg_price_brl"],na.rm=TRUE)
 ```
+
 Constrói a tabela de preço médio de cada combustível
 ```{r}
 dfMeanFuel = data.frame(
@@ -110,20 +117,76 @@ dfMeanFuel = data.frame(
 )
 dfMeanFuel
 ```
+
 Plota gráfico de média de preço de cada combustível
 ```{r}
 ggplot(dfMeanFuel, aes(x = Fuel, y = Média, fill = Fuel)) +
   geom_bar(stat = "identity")
 ```
+
 -------------3)IDADE(AGE_YEARS)
+
 Plota gráfico de Preço x Idade
 ```{r}
 library(ggplot2)
-?ggplot
-ggplot(cars, aes(x = age_years, y = avg_price_brl)) +
+ggplot(dt_bruto) + 
+  aes(x = age_years, y = avg_price_brl) +
   geom_line(stat = "summary", fun.data = "mean_se", size = 0.6) +
   geom_point(stat = "summary") +
   geom_errorbar(stat = "summary", fun.data = "mean_se", width = 0.2) +
   ylab("Preço") +
   xlab("Idade")
+```
+
+```{r}
+sample_top5 <- read.csv("sample_top5.csv")
+str(sample_top5)
+table(sample_top5$Marca)
+#sample_top5$log_avg_price <- log(sample_top5$avg_price_brl)
+```
+
+====ANOVA=====
+```{r}
+res.aov <- aov(sample_top5$Preço.Médio.BRL~ sample_top5$Marca, data = sample_top5)
+summary(res.aov)
+
+kruskal.test(sample_top5$Preço.Médio.BRL~sample_top5$Marca)
+```
+=Análise de resíduos da ANOVA=
+
+Hipótese nula desse teste é que os dados são homogênios
+```{r}
+library(car)
+leveneTest(sample_top5$Preço.Médio.BRL~ sample_top5$Marca, data = sample_top5)
+```
+
+Hipótese nula desse teste é que os dados tem distribuição normal
+```{r}
+shapiro.test(res.aov$residuals)
+```
+Conclusão da análise de resíduos:
+Os dados não satisfazem as premissas da ANOVA
+
+
+======REGRESSAO LINEAR=====
+```{r}
+m<-lm(sample_top5$Preço.Médio.BRL~sample_top5$Idade)
+summary(m)
+```
+=Análise de resíduos da Regressão Linear=
+
+Gráficos
+```{r}
+plot(m)
+```
+
+Hipótese nula desse teste é que os dados tem distribuição normal
+```{r}
+shapiro.test(m$residuals)
+```
+
+Hipótese nula desse teste é os dados não tem autocorrelação
+```{r}
+library(lmtest)
+dwtest(m)
 ```
