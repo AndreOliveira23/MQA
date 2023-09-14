@@ -1,6 +1,6 @@
 ---
 title: "Anova e Regressão Linear"
-author: "Gabriella Saraiva"
+author: "Gabriella Saraiva, Matheus Silva, Yannis Pontushka, Bruno Friedrich, André Oliveira e Fernando Liu"
 date: "`r Sys.Date()`"
 output:
     html_document:
@@ -15,9 +15,11 @@ output:
   
 # Contextualização
   
-Para a análise foi escolhido um dataset de preço médio de carros no Brasil, este dataset contém informações de quase 300 mil carros com as seguintes categorias: Marca(brand), Tamanho do motor em cm³(engine_size), Preço médio do carro em reais em 2022(avg_price_brl), Idade do carro(age_years), Tipo de combustível (fuel). Foi selecionado o Preço do carro como variável dependente das análises, ou seja, queremos saber como ela é afetada a partir das mudanças das outras variáveis, por exemplo, queremos saber se a Idade do carro afeta seu preço. Este é o objetivo das análises, descobrir se as características, marca, idade, combustível e tamanho do motor afetam o preço do carro e quão bem relacionados estão, para isso será feito a ANOVA sobre a marca e o tipo de combustível (variáveis qualitativas), e em seguida será feito a Regressão Linear da Idade do carro e do tamanho do motor (variáveis quantitativas), ao final teremos uma análiso dos resíduos dos erros para garantir que a amostra era boa e significativa.
-  
-  
+Para o presente trabalho, foi selecionado um conjunto de dados que inclui informações sobre o preço médio de carros no Brasil. Este conjunto de dados contém detalhes de quase 300 mil veículos, abrangendo as seguintes categorias: Marca, Tamanho do Motor em cm³, Preço Médio do Carro em Reais no ano de 2022, Idade do Carro e Tipo de Combustível. Em primeiro momento, os dados originais passaram por um processo de redução em duas etapas: primeiro, foram escolhidas as cinco marcas de carros mais populares e, em seguida, uma amostra aleatória de 5000 carros dessas marcas foi extraída para a análise.
+
+Optamos pelo Preço Médio do carro como a variável dependente nas análises. Em essência, nosso interesse é compreender como o preço do carro é afetado pelas demais variáveis. Para atingir esse objetivo, conduzimos uma análise de variância (ANOVA), onde consideramos a marca como uma variável qualitativa. Posteriormente, realizamos uma regressão linear, empregando a idade do carro como uma variável quantitativa. Por fim, efetuamos uma avaliação dos resíduos para assegurar a validade e a significância da amostra.
+
+
 # Carregamento dos pacotes
   
 ```{r Pacotes, message=FALSE, warning=FALSE}
@@ -32,6 +34,12 @@ library(DT)
 library(htmltools)
 library(rstatix)                                
 library(emmeans)
+library(rcompanion)
+library(dlookr)
+library(lmtest)
+library(tidyverse)
+library(ggpubr)
+library(xtable)
 
 ```
   
@@ -49,25 +57,23 @@ colnames(dados) <- nomes_personalizados
 
 ```
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
-datatable(head(dados, 20), 
-          options = list(dom = 't', paging = FALSE)
-)
+```{r, warning = FALSE, message = FALSE}
+tabela <- datatable(head(dados, 10), 
+                    options = list(dom = 't', paging = FALSE),
+                    rownames = FALSE)  
+tabela %>%
+  formatStyle(columns = names(dados)[-1], textAlign = "right")
+
 ```
 
 # Anova
 
-Uma análise estatística foi conduzida para investigar a influência da marca do carro nos preços médios dos automóveis das cinco principais marcas no mercado automobilístico brasileiro. Essa análise tem como objetivo avaliar se a marca de um veículo desempenha um papel significativo na determinação dos preços médios, com base nos dados disponíveis.
+Uma análise ANOVA foi conduzida para investigar a influência da marca (variável independente) do carro nos preços médios (variável dependente) dos automóveis das cinco principais marcas no mercado automobilístico brasileiro. Essa análise tem como objetivo avaliar se a marca de um veículo desempenha um papel significativo na determinação dos preços médios, com base nos dados disponíveis.
 
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
-library(tidyverse)
-library(ggpubr)
-library(xtable)
+```{r, warning = FALSE, message = FALSE}
 
 anova_carros <- aov(`Preço Médio BRL` ~ Marca, data = dados)
-
-# Gerar o resumo da ANOVA
 
 summary(anova_carros)
 ```
@@ -75,20 +81,24 @@ summary(anova_carros)
 O resultado indica que a variável 'Marca' tem um impacto altamente significativo nos preços médios dos carros das top 5 marcas no Brasil. O valor F extremamente alto (233) e o valor p praticamente zero (<2e-16) indicam que as diferenças nas médias de preços entre essas marcas são altamente significativas do ponto de vista estatístico. 
 
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
+```{r, warning = FALSE, message = FALSE}
 dados %>%
   ggboxplot(x = "Marca", y = "Preço Médio BRL", fill = "Marca") +
   scale_y_continuous(limits = c(0, 200000), breaks = seq(0, 200000, by = 50000)) +
-  theme(axis.text.x = element_text(size = 10))
+  theme(axis.title.x = element_text(size = 20),   
+        axis.title.y = element_text(size = 20),   
+        axis.text.x = element_text(size = 14),   
+        axis.text.y = element_text(size = 14))
 ```
-> Comparação dos preços médios de carros das diferentes marcas, com um foco específico em preços até 200.000 BRL.
+
+> 
+Comparação dos preços médios de carros das diferentes marcas, com um foco específico em preços até 200.000 BRL.
 
 ## Resíduos
 
-Para a análise de resíduos foi utilizado o teste de Levene. O teste de Levene pode ser usado como uma ferramenta para analisar a homogeneidade das variâncias dos resíduos na análise de variância (ANOVA). Ele ajuda a verificar se a premissa da homogeneidade das variâncias (também conhecida como homocedasticidade) é atendida.
+Para a análise de resíduos foi utilizado o teste de Levene. O teste de Levene pode ser usado como uma ferramenta para analisar a homogeneidade das variâncias dos resíduos na análise. Ele ajuda a verificar se a premissa da homogeneidade das variâncias (também conhecida como homocedasticidade) é atendida.
 
 ```{r, echo = FALSE, warning = FALSE, message = FALSE}
-library(car)
 leveneTest(`Preço Médio BRL` ~ Marca, data = dados)
 ```
 Com base nos resultados, rejeitaríamos a hipótese nula (H0) de igualdade das variâncias. Isso sugere que há evidências estatísticas de que pelo menos uma das marcas tem uma variância significativamente diferente em relação às outras marcas em termos de preço médio de carros. Isso pode ter implicações na escolha do método estatístico apropriado para análise posterior, especialmente se estivermos considerando métodos sensíveis à homogeneidade de variância, como a ANOVA.
@@ -99,22 +109,28 @@ Com base nos resultados, rejeitaríamos a hipótese nula (H0) de igualdade das v
 
 A variável dependente (“Preço Médio BRL”) deve apresentar distribuição aproximadamente normal dentro de cada grupo. Os grupos aqui serão formados pela variável independente (“Marca”). A normalidade será avaliada pelo teste de Shapiro-Wilk.
 
-```{r}
+```{r, echo = FALSE, warning = FALSE, message = FALSE}
 dados <- dados %>%
   rename(Preco = `Preço Médio BRL`)
+```
 
+```{r}
 dados %>% group_by(Marca) %>% 
   shapiro_test(Preco)
 ```
 
-
-Os resultados dos testes de Shapiro-Wilk indicam que a distribuição dos preços dos carros para todas as marcas (Fiat, Ford, GM - Chevrolet, Mercedes-Benz e VW - VolksWagen) não segue uma distribuição normal.
-
->
-Em resumo, embora o primeiro resultado indique que a variável 'Marca' tem um impacto altamente significativo nos preços médios dos carros, a falta de normalidade nos preços de cada marca pode apontar para a presença de outros fatores ou peculiaridades nos dados que também estão afetando os preços. Isso significa que os dados de preços não atendem à suposição de normalidade para a realização de testes estatísticos paramétricos que pressupõem uma distribuição normal. 
+Adicionalmente, empregamos o método plot_normality para avaliar a distribuição da variável. Esse método, parte da biblioteca 'dlookr' em R, oferece uma análise visual da normalidade dos dados, usando gráficos como histogramas e Q-Q plot.
 
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
+```{r, warning = FALSE, message = FALSE}
+plot_normality(dados, x = "Preco")
+```
+
+
+Os resultados dos testes Shapiro-Wilk e a análise do gráficos indicam que a distribuição dos preços dos carros para todas as marcas (Fiat, Ford, GM - Chevrolet, Mercedes-Benz e VW - VolksWagen) não segue uma distribuição normal.
+
+
+```{r, echo=FALSE, warning = FALSE, message = FALSE}
 dados <- dados %>%
   rename(`Preço Médio BRL` = Preco)
 ```
@@ -127,12 +143,46 @@ shapiro.test(anova_carros$residuals)
 
 O resultado indica que o valor de W (0.31854) está consideravelmente distante de 1, o que sugere que os resíduos não apresentam uma distribuição normal. Além disso, o valor p é praticamente zero (p < 2.2e-16), o que significa que existem evidências estatisticamente significativas para rejeitar a hipótese nula de normalidade. Ou seja, os resíduos não seguem uma distribuição normal.
 
+>
+  **Conclusão**: Embora o primeiro resultado indique que a variável 'Marca' tem um impacto altamente significativo nos preços médios dos carros, a falta de normalidade nos preços de cada marca pode apontar para a presença de outros fatores ou peculiaridades nos dados que também estão afetando os preços. Portanto, uma ANOVA **não é viável** como modelo de análise para este caso. 
+
 
 # Regressão Linear
 
-## Preço Médio x Idade
+## Descrição dos Dados 
 
-```{r, echo = FALSE, warning = FALSE, message = FALSE}
+Para dar início à nossa análise, foram coletados dados introdutórios sobre as variáveis que compõem o nosso conjunto de dados. Estas variáveis incluem a 'Marca' do veículo, o 'Tamanho do Motor', o 'Preço Médio' em BRL (Reais Brasileiros) e o tipo de 'Combustível' utilizado.
+
+```{r, warning = FALSE, message = FALSE}
+diagnose(dados)
+diagnose_numeric(dados)
+summary(dados)
+desc <- describe(dados)
+
+```
+
+## Análise de Regressão Linear
+
+Uma análise de Regressão Linear foi conduzida para investigar a influência da idade (variável independente) nos preços médios (variável dependente) dos automóveis no mercado automobilístico brasileiro. O objetivo desta análise é avaliar se a idade de um veículo desempenha um papel significativo na determinação dos preços médios, com base nos dados disponíveis.
+
+Primeiramente, é uma boa ideia dar uma olhada no gráfico de dispersão que relaciona a Idade e o Preço Médio BRL dos carros. Isso nos permite visualizar como os dados estão distribuídos em relação a essas duas variáveis.
+
+```{r, warning = FALSE, message = FALSE}
+ggplot(dados)+
+  aes(x=Idade,y=`Preço Médio BRL`)+
+    geom_point()+
+    geom_smooth()+
+  theme(axis.title.x = element_text(size = 20),   
+        axis.title.y = element_text(size = 20),   
+        axis.text.x = element_text(size = 14),   
+        axis.text.y = element_text(size = 14))
+```
+
+
+
+Além disso, o gráfico de pontos a seguir oferece uma perspectiva da relação entre o 'Preço Médio' dos veículos e sua 'Idade'. No eixo horizontal, temos a 'Idade' dos carros, expressa em anos. Enquanto no eixo vertical, encontramos o 'Preço Médio' em BRL (Reais Brasileiros), que representa o valor médio de venda dos automóveis. Conforme seguimos da esquerda para a direita no gráfico, torna-se evidente que, à medida que um carro envelhece, seu preço médio tende a diminuir. Essa tendência indica que carros mais antigos geralmente têm valores de venda mais baixos.
+
+```{r, warning = FALSE, message = FALSE}
 
 resumo <- dados %>% group_by(Idade) %>%
   summarize(`Preço Médio BRL` = mean(`Preço Médio BRL`),
@@ -142,10 +192,93 @@ ggplot(resumo, aes(x = Idade, y = `Preço Médio BRL`)) +
   geom_line(size = 0.6) +
   geom_point() +
   geom_errorbar(aes(ymin = `Preço Médio BRL` - erro_padrao, ymax = `Preço Médio BRL` + erro_padrao), width = 0.2) +
-  ylab("Preço") +
-  xlab("Idade")
+  ylab("Preço Médio") +
+  xlab("Idade (anos)") +
+  geom_smooth(method=lm) +
+  theme(axis.title.x = element_text(size = 25),   
+        axis.title.y = element_text(size = 25),   
+        axis.text.x = element_text(size = 20),   
+        axis.text.y = element_text(size = 20)) 
+
 ```
 
+```{r, warning = FALSE, message = FALSE}
+m<-lm(`Preço Médio BRL` ~ Idade, data = dados)
+summary(m)
+```
+Os gráficos de diagnóstico a seguir referem-se ao modelo de regressão linear. Esses gráficos de diagnóstico geralmente consistem em vários painéis que fornecem informações valiosas sobre a qualidade do modelo. Os painéis incluem:
 
-## Resíduos
+* Um gráfico de dispersão dos resíduos em relação aos valores ajustados (verificação de heteroscedasticidade).
+* Um gráfico dos resíduos que compara os erros padronizados obtidos com os erros esperados em caso de normaldiade dos resíduos.
+* Um gráfico dos valores ajustados em relação aos resíduos (verificação de independência).
+* Um gráfico de probabilidade normal dos resíduos (verificação da normalidade dos resíduos).
+
+```{r, warning = FALSE, message = FALSE}
+plot(m)
+```
+
+### Resíduos
+
+Para a análise de resíduos, foi empregado o teste de Breusch-Pagan (BP). O teste de Breusch-Pagan é comumente utilizado como uma ferramenta para analisar a homogeneidade das variâncias dos resíduos em modelos de regressão. Ele auxilia na verificação se a suposição de homocedasticidade (igualdade de variâncias dos resíduos) é satisfeita.
+
+```{r, warning = FALSE, message = FALSE}
+bptest(m)
+```
+O resultado observado - valor de p baixo (geralmente abaixo de um limite de significância, como 0,05) - sugere que você pode rejeitar a hipótese nula. Isso significa que há evidências de heteroscedasticidade, ou seja, a variância dos erros não é constante.
+
+#### Normalidade dos Resíduos
+
+```{r, warning = FALSE, message = FALSE}
+shapiro.test(m$residuals)
+```
+
+O resultado indica que o valor de W (0.29111) está consideravelmente distante de 1, o que sugere que os resíduos não apresentam uma distribuição normal. Além disso, o valor p é praticamente zero (p < 2.2e-16), o que significa que existem evidências estatisticamente significativas para rejeitar a hipótese nula de normalidade. Ou seja, os resíduos não seguem uma distribuição normal.
+
+
+#### Autocorelação do Resíduos
+
+Por fim, foi utilizado o teste de Durbin-Watson para avaliar a presença de autocorrelação nos resíduos de um modelo de regressão. Em outras palavras, indica se o modelo não está incluindo alguma variável preditora útil ou que deveria incluir um componente temporar, como uma moda ou indicador sazonal.
+
+```{r, warning = FALSE, message = FALSE}
+dwtest(m)
+```
+
+Diante dos resultado (DW de 1.9837 e um valor-p de 0.2827), não há evidências estatísticas significativas de autocorrelação positiva ou negativa nos resíduos. Isso sugere que os resíduos podem ser considerados independentes, o que é uma boa notícia em termos de suposições para a análise de regressão. Portanto, com base neste resultado, parece que a suposição de independência dos resíduos é atendida.
+
+
+
+#### Aplicando Log sobre os Resíduos
+
+Os gráficos a seguir foram feitos após aplicar log sob os resíduos.
+
+
+```{r, warning = FALSE, message = FALSE}
+m<-lm(log(`Preço Médio BRL`) ~ Idade, data = dados)
+plot(m)
+```
+
+```{r, warning = FALSE, message = FALSE}
+bptest(m)
+```
+
+```{r, warning = FALSE, message = FALSE}
+shapiro.test(m$residuals)
+```
+
+```{r, warning = FALSE, message = FALSE}
+dwtest(m)
+```
+
+>
+  **Conclusão**: Novamente, embora os resultados da Regressão Linear pontarem para uma relação entre as idades e os preços dos carros, devido a seu fator explicativo (R²) baixo e sua falta de normalidade e homogeneidade dos resíduos, pode haver outros fatores mais importantes e outras peculiaridades que influenciam os dados sobre os preços.
+Portanto, a Regressão Linear *não é viável* como modelo de análise para este caso.
+Ademais mesmo aplicando a função logarítmica ao preço a fim de aproximar os valores, apesar de um aumento no fator explicativo (R²), a análise de resíduos indica a falta de normalidade e a existência de auto correlação dos dados. Mantendo a conclusão original.
+
+
+
+
+
+
+
+
 
