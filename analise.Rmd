@@ -1,101 +1,192 @@
----
-title: "R Notebook1"
-output: html_notebook
----
-
-This is an [R Markdown](http://rmarkdown.rstudio.com) Notebook. When you execute code within the notebook, the results appear beneath the code.
-
-Try executing this chunk by clicking the *Run* button within the chunk or by placing your cursor inside it and pressing *Ctrl+Shift+Ente*
-
+#Grandes Mudanças 
+#Juntando tudo em um arquivo, houve mudança do nome do dataframe de "realCsv" para "df" 
+Os blocos de código estão restringidos pelo símbolo:
 ```{r}
-csvSalary = read.csv("fipe_2022.csv")
-realCsv = csvSalary[,c("brand","engine_size","avg_price_brl","fuel","age_years")]
 ```
+e pode ser criado novos blocos de código usando o comando 'Ctrl+Alt+I'
 
-
+Instalando arquivos
+e removendo qualquer variáveis anteriores armazenadas no RStudio
 ```{r}
-View(realCsv)
-```
-
-
-```{r}
-str(realCsv)
-```
-```{r}
-summary(realCsv)
-```
-install.packages("ggplot2")
-
-```{r}
+#install.packages("rmarkdown")
+#install.packages("ggplot2")
+#install.packages("kableExtra")
+#install.packages("dplyr")
+#install.packages("tidyverse")
+library(tidyverse)
 library(ggplot2)
-grafico_barras<-ggplot(realCsv,aes(x=fuel,y=avg_price_brl))+geom_bar(stat="identity",fill="blue")
-grafico_barras
-```
-
-```{r}
-install.packages("kableExtra")
-install.packages("dplyr")
 library(kableExtra)
 library(dplyr)
+rm(list=ls())
+```
+Lê o arquivo formatado que deve estar no seu computador
+e abre uma aba vizualizando o que leu
+```{r}
+df_bruto = read.csv("csvReduzido.csv")
+#View(df_bruto)
+```
+Vizualiza a estrutura do data frame (da tabela .csv)
+```{r}
+str(df_bruto)
 ```
 
+Vizualiza parte dos dados
+```{r}
+glimpse(df_bruto)
+```
+Algumas características das colunas
+```{r}
+summary(df_bruto)
+```
+
+-------------------------------ANÁLISE EXPLORATÓRIA DE DADOS----------------------------
+
+-------------1)MARCA(BRAND)
+
+Cria variáveis para cada coluna
+```{r}
+attach(df_bruto)
+```
+Criação de uma tabela com as 5 marcas mais comums (Tire os '#' para vizualizar as tabelas)
+```{r}
+brandTable <- table(brand)
+#View(brandTable)
+brandTableDataFrame <- as.data.frame(brandTable)
+colnames(brandTableDataFrame) <- c("Brand","Frequency")
+mostCommomBrands <- top_n(brandTableDataFrame,5)
+#View(mostCommomBrands)
+df <- df_bruto[brand %in% mostCommomBrands$Brand,]
+df<- na.omit(df)
+#View(df)
+```
+Salva o arquivo das tabela criada (Tire o '#" caso queira salvar)
+```{r}
+#write.csv(df, file = 'top5.csv', row.names = FALSE)
+```
+
+Separa as médias de preço das 5 marcas mais frequentes
+```{r}
+meanFT = mean(df[df$brand == "Fiat","avg_price_brl"],na.rm=TRUE)
+meanGM = mean(df[df$brand == "GM - Chevrolet","avg_price_brl"],na.rm=TRUE)
+meanFD = mean(df[df$brand == "Ford","avg_price_brl"],na.rm=TRUE)
+meanMB = mean(df[df$brand == "Mercedes-Benz","avg_price_brl"],na.rm=TRUE)
+meanHD = mean(df[df$brand == "VW - VolksWagen","avg_price_brl"],na.rm=TRUE)
+
+dfMeanBrand = data.frame(
+  Brand = c("Fiat", "GM - Chevrolet", "Ford", "Mercedes-Benz", "VW - VolksWagen"),
+  Média = c(meanFT, meanGM, meanFD, meanMB, meanHD)
+)
+dfMeanBrand
+```
+
+Plota o gráfico colorido com as frequências das 5 marcas
+```{r}
+novo = df[df$avg_price_brl < 100000,]
+ggplot(novo)+aes(x=avg_price_brl,fill=brand)+geom_histogram()
+```
+
+Plota um boxplot das mesmas marcas
+```{r}
+ggplot(novo)+aes(x=brand)+geom_boxplot()
+```
+Plota as médias de preço das 5 marcas
+```{r}
+ggplot(dfMeanBrand, aes(x = Brand, y = Média,fill = Brand)) +
+  geom_bar(stat = "identity")
+```
+
+-------------2)COMBUSTÍVEL(FUEL)
+
+Vizualiza quantos carros tem com cada combustível
+```{r}
+table(df$fuel)
+```
+
+Separa as médias de preço por combustível
+```{r}
+meanG = mean(df[df$fuel == "Gasoline","avg_price_brl"],na.rm=TRUE)
+meanD = mean(df[df$fuel == "Diesel","avg_price_brl"],na.rm=TRUE)
+meanA = mean(df[df$fuel == "Alcohol","avg_price_brl"],na.rm=TRUE)
+```
+
+Constrói a tabela de preço médio de cada combustível
+```{r}
+dfMeanFuel = data.frame(
+  Fuel = c("Gasoline", "Diesel", "Alcohol"),
+  Média = c(meanG, meanD, meanA)
+)
+dfMeanFuel
+```
+
+Plota gráfico de média de preço de cada combustível
+```{r}
+ggplot(dfMeanFuel, aes(x = Fuel, y = Média, fill = Fuel)) +
+  geom_bar(stat = "identity")
+```
+
+-------------3)IDADE(AGE_YEARS)
+
+Plota gráfico de Preço x Idade
+```{r}
+library(ggplot2)
+ggplot(dt_bruto) + 
+  aes(x = age_years, y = avg_price_brl) +
+  geom_line(stat = "summary", fun.data = "mean_se", size = 0.6) +
+  geom_point(stat = "summary") +
+  geom_errorbar(stat = "summary", fun.data = "mean_se", width = 0.2) +
+  ylab("Preço") +
+  xlab("Idade")
+```
 
 ```{r}
-# Análise descritiva {.tabset .tabset-fade}
-
-## Médias e desvios
-
-
-
-{r, echo=FALSE}
-resumo <- dados %>% group_by(Genero, Alcool) %>%
-                    get_summary_stats(Memoria, type = "mean_sd")
-
-kable(resumo,
-      col.names = c("Gênero", "Álcool", "Variável", "n", "Média", "Desvio Padrão")) %>%
-  kable_styling(full_width = F, bootstrap_options = c("striped", "hover", "condensed", "responsive"))
-
+sample_top5 <- read.csv("sample_top5.csv")
+str(sample_top5)
+table(sample_top5$Marca)
+#sample_top5$log_avg_price <- log(sample_top5$avg_price_brl)
 ```
 
+====ANOVA=====
 ```{r}
-table(realCsv$avg_price_brl > 100000)
-```
+res.aov <- aov(sample_top5$Preço.Médio.BRL~ sample_top5$Marca, data = sample_top5)
+summary(res.aov)
 
+kruskal.test(sample_top5$Preço.Médio.BRL~sample_top5$Marca)
+```
+=Análise de resíduos da ANOVA=
+
+Hipótese nula desse teste é que os dados são homogênios
 ```{r}
-csvSalary$Salary[csvSalary$salary >= 9000000]
+library(car)
+leveneTest(sample_top5$Preço.Médio.BRL~ sample_top5$Marca, data = sample_top5)
 ```
 
+Hipótese nula desse teste é que os dados tem distribuição normal
 ```{r}
-summary(csvSalary)
+shapiro.test(res.aov$residuals)
 ```
+Conclusão da análise de resíduos:
+Os dados não satisfazem as premissas da ANOVA
 
+
+======REGRESSAO LINEAR=====
 ```{r}
-plot(Rating ~ salary, data = csvSalary, pch = "+", xlim = c(2112,3000000))
+m<-lm(sample_top5$Preço.Médio.BRL~sample_top5$Idade)
+summary(m)
 ```
+=Análise de resíduos da Regressão Linear=
 
+Gráficos
 ```{r}
-plot(Rating ~ Salary, data = csvSalary, pch = 16,col = rgb(0,0,0,0.3), xlim = c(50000,3000000))
+plot(m)
 ```
 
+Hipótese nula desse teste é que os dados tem distribuição normal
 ```{r}
-salariosSemOut = csvSalary[csvSalary$Salary > 20000 && csvSalary$Salary < 3000000,]
-
+shapiro.test(m$residuals)
 ```
 
+Hipótese nula desse teste é os dados não tem autocorrelação
 ```{r}
-plot(Rating ~ log(Salary), data = csvSalary, pch = 1)
+library(lmtest)
+dwtest(m)
 ```
-
-```{r}
-table(csvSalary$Location)
-```
-
-```{r}
-table(csvSalary$Job.Roles)
-```
-
-Add a new chunk by clicking the *Insert Chunk* button on the toolbar or by pressing *Ctrl+Alt+I*.
-
-When you save the notebook, an HTML file containing the code and output will be saved alongside it (click the *Preview* button or press *Ctrl+Shift+K* to preview the HTML file).
-
-The preview shows you a rendered HTML copy of the contents of the editor. Consequently, unlike *Knit*, *Preview* does not run any R code chunks. Instead, the output of the chunk when it was last run in the editor is displayed.
